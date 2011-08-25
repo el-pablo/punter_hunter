@@ -6,6 +6,8 @@ gem 'rails', '3.0.9'
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
 
 gem 'sqlite3'
+gem 'nokogiri'
+gem 'geokit-rails3'
 
 group :test, :development do
   gem 'mysql2', '~>0.2.10'
@@ -14,6 +16,7 @@ group :test, :development do
   gem 'cucumber'
   gem 'capybara'
   gem 'database_cleaner'
+  gem 'rack-test'
 end
 
 # Use unicorn as the web server
