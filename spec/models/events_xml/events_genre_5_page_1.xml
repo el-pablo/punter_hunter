@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xsi:schemaLocation="http://app.bullseyehub.com/api/events.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13184</id>
+  <name>Slice: Lahore - London Exhibition</name>
+  <promoter>Rich Mix</promoter>
+  <start_time>2011-09-01T09:00:00Z</start_time>
+  <end_time>2011-09-01T23:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>Scale, Other Asias</artists>
+  <tags>Exhibition, Asian, interactive, multi-disciplinary</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13184/original/slice-publicityimage-highressmall.JPG?1313417305</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.richmix.org.uk/whats-on/event/slice-lahore-london/</web_url>
+  <short_description>Scale and Other Asias join forces to present &#8216;Slice&#8217;, an international arts project which brings together local people and arts practitioners from Lahore and London. Thu 1 Sept- Thu 22 Sept</short_description>
+  <long_description>&lt;p&gt;&#8216;Slice&#8217; takes as its starting point an imaginary line drawn from Liverpool Street Station in London to Central Station, Lahore. The first mile of the line at the Lahore end, and the first at the London end, will be studied by arts practitioners from each city. The works they make in response will be shown on a website (www.london-lahore.com or www.lahore-london.com) and also displayed as part of an exhibition in venues in London and Lahore. In addition to various visual artists from the UK and Pakistan, artists from a variety of other disciplines are involved. These include story-telling, poetry, dance, music and theatre. Works are currently in progress - projects being developed include: - A dance piece by Jonathan Watkins, a dancer and choreographer with the Royal Ballet, using a multi-storey car park. - A soundwork by Kashif Mohsin and Matthias Kispert - one of various Lahore-London collaborations. - A project looking at two trees - one growing out of a shrine in a Lahore and one in London with the graffiti 'I LOVE U'. The artists involved are Nida Bangash and Steve Rosenthal. - A performative drawing in the back streets near Liverpool Street Station, by the artists&#8217; collective - A new track by Conrad the Scoundral, a grime MC and producer. - A piece by local artist, theatre director and stage designer Paul Burgess, exploring his family's history in the area. - Community-centred work by British-Bangladeshi poet and story-teller Shamim Azad, working with people from a group meeting at The Brady Arts Centre, Whitechapel. - A project by the architect Zahra Hussein, looking at life on the periphery of the railway lines in central Lahore. The exhibition at Rich Mix will be an interactive, multi-disciplinary artwork that allows the public to experience work created for the project by selecting points on two maps - one showing the mile-long slice of Lahore, the other of London. &#8216;Slice&#8217; aims to encourage dialogue between two diverse cultures via the creation of new artwork that enters into dialogue with the social and physical fabric of two iconic, complex and historically linked cities. The project interrogates both the map-making strategies of Colonialism and the processes of human migration. It also builds a symbolic bridge between artists and communities from different cultures. London Lahore: www.london-lahore.com&lt;/p&gt;</long_description>
+  <venue>
+    <id>3239</id>
+    <name>RichMix</name>
+    <street>35-47 Bethnal Green Rd</street>
+    <area>Shoreditch </area>
+    <city>London</city>
+    <postcode>E1 6LA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13190</id>
+  <name>Cellular Shifts</name>
+  <promoter>Rich Mix</promoter>
+  <start_time>2011-09-01T09:00:00Z</start_time>
+  <end_time>2011-09-01T23:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>Hasina Zaman</artists>
+  <tags>Mosaic, Secret, Conservation with God, Abraham Hicks Foundation , Islamic Pattern, Exhibition</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13190/original/Copy_of_cellular_shift.png?1313420589</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.richmix.org.uk/whats-on/event/cellular-shifts/</web_url>
+  <short_description>The concept behind the Cellular Shift collection has been inspired by the work of Neale Donald Walsch, Abraham- Hicks Foundation, featured in the film &amp; book the &#8216;Secret&#8217;. </short_description>
+  <long_description>&lt;p&gt;The concept behind the Cellular Shift collection has been inspired by the work of Neale Donald Walsch, Abraham- Hicks Foundation, featured in the film &amp; book the &#8216;Secret&#8217;. The work is very much in line with universal laws and us being the creators of our own destiny. While I was reading the book called Conversation with God, I came across a paragraph were I was compelled to take immediate action and thus I created the four initial mosaics. I wanted the mosaics to be big, easy to read and repeatable. The script is inspired from old English, making the mosaics a mixture of traditional and contemporary. The intention is to showcase the Cellular Shift Mosaics; with the audience experiencing each sentence of seventeen times and at this point Cellular Shift takes place. The work of Abraham- Hicks Foundation suggests that, when we repeat an affirmation seventeen times, we start to shift the cells in our body and mind, consequently re-programme our essence. "At the time I was also learning the art of Islamic Pattern and this is also reflected in the Cellular Shift Mosaics. Each mosaic took approximately 80 hrs to complete. Materials consist of mosaic and ceramic tiles; stain glass; recycled Moroccan tea glasses and crockery; glass nuggets and mirror." Website: www.lovemosaic.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>3239</id>
+    <name>RichMix</name>
+    <street>35-47 Bethnal Green Rd</street>
+    <area>Shoreditch </area>
+    <city>London</city>
+    <postcode>E1 6LA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13241</id>
+  <name>God's Wars - A Solo Exhibition by May Ayres</name>
+  <promoter>St. John on Bethnal Green</promoter>
+  <start_time>2011-09-01T17:00:00Z</start_time>
+  <end_time>2011-09-01T20:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>May Ayres</artists>
+  <tags>May Ayres, St John on Bethnal Green, Chris Gollon, John Soane, Ceramic Sculpture, No Place for Hate</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13241/original/Gods_Wars.jpg?1313524404</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.mayayres.com</web_url>
+  <short_description>&#8216;God&#8217;s Wars&#8217;, a solo exhibition by May Ayres, is a selection of ceramic meditations on war and peace from her 'War of Aggression' series, being  shown for the first time together at St John on Bethnal Green. </short_description>
+  <long_description>&lt;p&gt;&#8216;God&#8217;s Wars&#8217; by May Ayres finds a home in The Belfry and Vestibule of St John on Bethnal Green. This is the first time that these large ceramic works can be viewed together in her first solo exhibition since 1985. The exhibition presents meditations on war and peace selected from her 'War of Aggression' series, created out of anger and reflection over the last seven years. The pieces attempt to address the question - how might we retain our common humanity and memory in the face of such barbarism as now exists? &#8216;When words fail us, we need to look to the silence in order to find any answers&#8217;. The exhibition opens on Thursday 1st September as part of the Whitechapel Gallery's First Thursday program. Visitors will also be able to enjoy the interior of this Grade One-listed building designed by Sir John Soane and view the church's remarkable 'Stations of the Cross' by British artist Chris Gollon.&#8232;There will be a bar on the opening night.&#8232; Exhibition opening times: Saturday, Sunday and Wednesday 12 noon &#8211; 9pm and by arrangement. www.mayayres.com&lt;/p&gt;</long_description>
+  <venue>
+    <id>3387</id>
+    <name>The Belfry, St John on Bethnal Green</name>
+    <street>200 Cambridge Heath Road</street>
+    <area></area>
+    <city>London</city>
+    <postcode>E2 9PA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13286</id>
+  <name>Anthropomorphism</name>
+  <promoter>Stour Space</promoter>
+  <start_time>2011-09-01T17:00:00Z</start_time>
+  <end_time>2011-09-01T20:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>Nick Creber</artists>
+  <tags>exhibition gallery "first thursdays" "hackney wick" "stour space" london art "nick creber" </tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13286/original/anthropomorphism_flierWEB.jpg?1313595228</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://portal.stourspace.co.uk/anthropomorphism/</web_url>
+  <short_description>Anthropomorphism &#8211; An exhibition by Nick Creber</short_description>
+  <long_description>&lt;p&gt;Anthropomorphism &#8211; Recent works by Nick Creber www.nickcreber.blogspot.com http://portal.stourspace.co.uk/anthropomorphism/ Opening Night / Thursday 1st September 2011 / 6 &#8211; 9pm Other Entry / 2nd &#8211; 30th September 2011 / 9am &#8211; 5pm FREE ENTRY&lt;/p&gt;</long_description>
+  <venue>
+    <id>3295</id>
+    <name>Stour Space</name>
+    <street>Roach Road</street>
+    <area>Hackney</area>
+    <city>London</city>
+    <postcode>E3 2PA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13363</id>
+  <name>King Robbo Fundraiser &amp; Art Auction</name>
+  <promoter>Cargo</promoter>
+  <start_time>2011-09-04T12:00:00Z</start_time>
+  <end_time>2011-09-04T22:45:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>DJ MK, Spin Doctor, Steve Proctor, and more...</artists>
+  <tags>King Robbo, Banksy, Cargo, The Robbo Fund, East London, Sunday events, Shoreditch</tags>
+  <costs>&#163;5 Minimum Donation, Under 12's Free from 1 p.m. - 6 p.m.</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13363/original/king_robbo.gif?1313767540</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://cargo-london.com/event/we-rock-hard-the-doctors-orders-presentsking-robbo-fundraiser-art-auction</web_url>
+  <short_description>Original London Graffiti Artist &#8216;Robbo&#8217; suffered a life threatening accident in April. He was put into an induced coma and is still in hospital receiving 24/7 care. All proceeds go to The Robbo Fund.</short_description>
+  <long_description>&lt;p&gt;Original London Graffiti Artist &#8216;Robbo&#8217; suffered a life threatening accident in April. He was put into an induced coma and is still in hospital receiving 24/7 care. Robbo&#8217;s resurgence came in 2099 when Banksy used an original 1985 Robbo wall piece on Regent&#8217;s Canal as the backdrop for his &#8216;Decorator hanging wall paper&#8217; taking away any remnants of the original artist&#8217;s name and forcing Robbo out of retirement and kick starting the &#8216;Real Graffiti&#8217; vs. &#8216;Street Art&#8217; debate. Despite feelings running high on both sides, one of the original contributors to London&#8217;s rich graffiti tapestry needs all our support. DJ&#8217;s DJ MK, Spin Doctor, Steve Proctor, Chris P Cuts, Slice (Bandulu), Cazbee, Chochi, Mylon, Dexter (Brotherhood), Colt 45, Lazy Habits (DJ Set) Artists contributing work for the 8 p.m. auction: Ben Eine, Reas, Pranksky, Pure Evil, Prime, Fuel, Andy Seize, Petro, Panik ATG, EGS WD, Zomby, Tizer, Don, Bonzai Doors: 1 p.m., 8 p.m. auction Tickets: &#163;5 minimum donation Under 12&#8217;s free between 1 p.m. &#8211; 6 p.m. All proceeds go to The Robbo Fund&lt;/p&gt;</long_description>
+  <venue>
+    <id>1330</id>
+    <name>Cargo</name>
+    <street>83 Rivington Street</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 3AY</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5261523</latitude>
+      <longitude>-0.0785402</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13638</id>
+  <name>FLEE MARKET / / SEPT 4TH / / CORSICA STUDIOS</name>
+  <promoter>Corsica Studios</promoter>
+  <start_time>2011-09-04T13:00:00Z</start_time>
+  <end_time>2011-09-04T18:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>Open Cities project by David Gunn (Incidental)</artists>
+  <tags>Food and Drink, food, drink, flea market, vintage market, art fair</tags>
+  <costs>Free!!</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13638/original/195712_152131561525516_3359576_n.jpg?1314284830</image_url>
+  <ticket_url>http://www.facebook.com/event.php?eid=267935349884407</ticket_url>
+  <web_url>http://fleecollective.tumblr.com/</web_url>
+  <short_description>FLEE Market / / Art Fair / / Pop-Up Gallery / / Handmade Pizza / / Hangover Cures Bar / / Cocktails / / Live Acoustic Music / / Workshops
+</short_description>
+  <long_description>&lt;p&gt;FLEE Market / / Art Fair / / Pop-Up Gallery / / Handmade Pizza / / Hangover Cures Bar / / Cocktails / / Live Acoustic Music / / Workshops / / / / FLEE Market. 2pm-7pm / / / / / / / / The FLEE Collective Present / / / / Open Cities project by David Gunn (Incidental). Open Cities is an ongoing series of experimental audio-visual performances created entirely from sounds gathered on the site of each show. Previous versions of the show include live performances in Milan, Porto and London. FLEE will feature an extra special "extended retail set", where the sounds and voices of the FLEE market are resampled and processed live, transformed into a rich combination of beats and textures for an extra long four hour audio visual performance. http://www.theincidental.com/projects/open/&lt;/p&gt;</long_description>
+  <venue>
+    <id>3173</id>
+    <name>Corsica Studios</name>
+    <street>4/5 Elephant Road</street>
+    <area>London</area>
+    <city>London</city>
+    <postcode>SE17 1LB</postcode>
+    <phone>442077034760</phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13639</id>
+  <name>FLEE MARKET / / SEPT 4TH / / CORSICA STUDIOS</name>
+  <promoter>Corsica Studios</promoter>
+  <start_time>2011-09-04T13:00:00Z</start_time>
+  <end_time>2011-09-04T18:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>Open Cities project by David Gunn (Incidental)</artists>
+  <tags>Food and Drink, food, drink, flea market, vintage market, art fair</tags>
+  <costs>Free!!</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13639/original/195712_152131561525516_3359576_n.jpg?1314284890</image_url>
+  <ticket_url>http://www.facebook.com/event.php?eid=267935349884407</ticket_url>
+  <web_url>http://fleecollective.tumblr.com/</web_url>
+  <short_description>FLEE Market / / Art Fair / / Pop-Up Gallery / / Handmade Pizza / / Hangover Cures Bar / / Cocktails / / Live Acoustic Music / / Workshops
+</short_description>
+  <long_description>&lt;p&gt;FLEE Market / / Art Fair / / Pop-Up Gallery / / Handmade Pizza / / Hangover Cures Bar / / Cocktails / / Live Acoustic Music / / Workshops / / / / FLEE Market. 2pm-7pm / / / / / / / / The FLEE Collective Present / / / / Open Cities project by David Gunn (Incidental). Open Cities is an ongoing series of experimental audio-visual performances created entirely from sounds gathered on the site of each show. Previous versions of the show include live performances in Milan, Porto and London. FLEE will feature an extra special "extended retail set", where the sounds and voices of the FLEE market are resampled and processed live, transformed into a rich combination of beats and textures for an extra long four hour audio visual performance. http://www.theincidental.com/projects/open/&lt;/p&gt;</long_description>
+  <venue>
+    <id>3173</id>
+    <name>Corsica Studios</name>
+    <street>4/5 Elephant Road</street>
+    <area>London</area>
+    <city>London</city>
+    <postcode>SE17 1LB</postcode>
+    <phone>442077034760</phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13671</id>
+  <name>Faber Social</name>
+  <promoter>The Social</promoter>
+  <start_time>2011-09-05T18:00:00Z</start_time>
+  <end_time>2011-09-05T23:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>Luke Haines, John Niven , Alexander Masters, Daljit Nagra</artists>
+  <tags>Readings, Music, Poetry, books</tags>
+  <costs>&#163;5</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13671/original/FABER-Front.jpg?1314298042</image_url>
+  <ticket_url>http://www.thesocial.com</ticket_url>
+  <web_url>http://www.thesocial.com</web_url>
+  <short_description>Faber's monthly Social is back with the legendary Luke Haines in conversation with John Niven (author of three novels including The Second Coming) about Bad Vibes, Post-Everything and killing your friends.  + Alexander Masters+ Daljit Nagra.</short_description>
+  <long_description>&lt;p&gt;Special guests: Luke Haines, John Niven , Alexander Masters + Daljit Nagra Faber's monthly Social is back in a few weeks time on September 5th. The legendary Luke Haines (once of The Auteurs etc) will be in conversation with the equally legendary John Niven (author of three novels including The Second Coming) about Bad Vibes, Post-Everything and killing your friends. Alexander Masters, author of the bestseller, Stuart: A Life Backwards, returns to read from a new book, The Genius in My Basement, about Dr Simon Philips Norton, one of the great mathematical prodigies of the 20th century.&#160; Finally, poet Daljit Nagra will read from his new collection, the title of which is too long for this copy. &#163;5 entry. Please RSVP to&#160;carl@heavenlyrecordings.com&#160;for guaranteed entry. Doors 7pm-12am&lt;/p&gt;</long_description>
+  <venue>
+    <id>30</id>
+    <name>The Social</name>
+    <street>5 Little Portland Street</street>
+    <area>Fitzrovia</area>
+    <city>London</city>
+    <postcode>W1W 7JD</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5173903</latitude>
+      <longitude>-0.1408343</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13315</id>
+  <name>Why did it take so long?</name>
+  <promoter>Coin Street Community Builders</promoter>
+  <start_time>2011-09-09T10:00:00Z</start_time>
+  <end_time>2011-09-09T17:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists></artists>
+  <tags>Exhibition, Design, Festival, Design Festival, Art, Event, African, African Caribbean, Interior Design</tags>
+  <costs>FREE</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13315/original/Emamoke_UkelegheBig_Ben_400x400.jpg?1313668048</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.coinstreet.org/whatson/exhibitions-and-events/why-did-it-take-so-long.html</web_url>
+  <short_description>African &amp; African-Caribbean Design Diaspora - a magnificent showcase of black creativity throughout the creative disciplines at Bargehouse between 9 - 25 September 2011.</short_description>
+  <long_description>&lt;p&gt;This three week long exhibition curated by the African &amp; African-Caribbean Design Diaspora is a series of individually curated exhibitions showcasing black creative excellence in a variety of disciplines including textiles and home furnishings, furniture, lighting, tableware, interior design accessories, fashion, fashion accessories, jewellery, mixed multimedia, photography, graphic design and fine art as well as some performance and music events from 9 - 25 September 2011. The African and African-Caribbean Design Diaspora is a three year initiative of the British European Design Group (BEDG) to promote the creative skills and commercial potential of ethnic minorities of African and African-Caribbean descent in the UK and their creative counterparts in Africa and the Caribbean. Co-funded by the Arts Council England/Lottery Fund and supported by the London Design Festival, the initiative will run alongside the London Design Festival until the Olympics in 2012.&lt;/p&gt;</long_description>
+  <venue>
+    <id>2553</id>
+    <name>Bargehouse</name>
+    <street>Oxo Tower Wharf, Bargehouse Street</street>
+    <area>Southbank</area>
+    <city>London</city>
+    <postcode>SE1 9PH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5083866</latitude>
+      <longitude>-0.1085998</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13726</id>
+  <name>The Net Location</name>
+  <promoter>The Shoreditch</promoter>
+  <start_time>2011-09-13T17:00:00Z</start_time>
+  <end_time>2011-09-13T22:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>The Net Location</artists>
+  <tags>The Net Location, Networking, Speed Networking, Networking London, The Shoreditch, Shoreditch, East London, Cargo, Free entry</tags>
+  <costs>Free entry with RSVP</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13726/original/denisfront.jpg?1314372246</image_url>
+  <ticket_url>http://www.thenetlocation.com/home.php</ticket_url>
+  <web_url>http://theshoreditch-london.com/events.html</web_url>
+  <short_description>The Net Location is a fun and relaxed way for Graduates and Young Professionals to meet, socialise, network and party with other like minded individuals working for some of the largest firms in the UK. </short_description>
+  <long_description>&lt;p&gt;The Net Location is a fun and relaxed way for Graduates and Young Professionals to meet, socialise, network and party with other like minded individuals working for some of the largest firms in the UK. On Tuesday, 13 September from 6 p.m. The Net Location will be hosting its next event at The Shoreditch. Host David McQueen and guest speakers Venn Group, Deloitte and Kerl Haslam are on the programme for this week as well as panel discussions, business card raffle, music speed networking and whole lot of delicious cocktails.&lt;/p&gt;</long_description>
+  <venue>
+    <id>2938</id>
+    <name>The Shoreditch</name>
+    <street>145 Shoreditch High Street</street>
+    <area>Whitechapel</area>
+    <city>London</city>
+    <postcode>E1 6JE</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13493</id>
+  <name>Creative Connections</name>
+  <promoter>Coin Street Community Builders</promoter>
+  <start_time>2011-09-15T10:00:00Z</start_time>
+  <end_time>2011-09-15T17:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists></artists>
+  <tags>Japanese Art, Art, Exhibition, Southbank, London Design Festival, Design, Liberty, textile, Wagumi, Mikawa</tags>
+  <costs>FREE</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13493/original/teapot.jpg?1314027005</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.coinstreet.org/whatson/exhibitions-and-events/creative-connections.html</web_url>
+  <short_description>Japanese contemporary artisans' exhibition, showcasing wide range of their exquisite design products at gallery@oxo, Oxo Tower Wharf, SE1 9PH from 15 September 2011 to 2 October 2011.</short_description>
+  <long_description>&lt;p&gt;A new design project team "wagumi" launches its first exhibition Creative Connections to showcase exciting collaborations between British design and Japanese craftmanship. The exhibition shows the first collaborative product - a tote bag - a partnership between Japanese textile company Tanei and LIBERTY of London. The exhibition also shows a range of contemporary craft and applied art from all over Japan including laquer work, ceramics and metalware. The items are created by skilled crafts people who combine their knowledge of materials and design passed down from generation to generation with a contemporary twist. Tanei is a textile company from Mikawa, a famous cotton production area in Japan, and has been making hand-woven 'sashiko' fabric for over 100 years using their locally sourced cotton. Traditionally 'sashiko' has been used for clothing for firemen, fishermen and in the practise of martial arts. Now it provides the outer layer of a compact and multi-functional tote bag with LIBERTY fabric for the lining. This product will be exclusively for sale at the gallery. Part of London Design Festival.&lt;/p&gt;</long_description>
+  <venue>
+    <id>2551</id>
+    <name>OXO Tower</name>
+    <street>South Bank</street>
+    <area>Southbank</area>
+    <city>London</city>
+    <postcode>SE1 9PH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5083866</latitude>
+      <longitude>-0.1085998</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13333</id>
+  <name>Pascal Ancel Bartholdi private view </name>
+  <promoter>Free Space Gallery</promoter>
+  <start_time>2011-09-15T17:00:00Z</start_time>
+  <end_time>2011-09-15T20:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>Pascal Ancel Bartholdi</artists>
+  <tags>photography,  art, Pascal Ancel Bartholdi, Free Space Gallery, Gallery, exhibition, private view, Queens Crescent, monochrome, black and white</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13333/original/extinct-formations1-w-1.jpg?1313680243</image_url>
+  <ticket_url>http://www.facebook.com/event.php?eid=206639772726187</ticket_url>
+  <web_url>http://www.freespaceatthewigg.wordpress.com</web_url>
+  <short_description>Pascal Ancel Bartholdi launches his new works at the Free Space Gallery's smaller sister space 76 Queens Crescent. The private view will be a celebration of all things monochromatic.</short_description>
+  <long_description>&lt;p&gt;Pascal Ancel Bartholdi a photographer who manipulates his photographs with a variety of techniques to produce works which draw the viewer in to the story behind the work. Working exclusively in black and white his images are full of contrast and intrigue. This exhibition sees his new works on display for the first time. Come and meet Barrtholdi in this small and intimate north London venue and celebrate all that is monochromatic! 76 Queens Crescent London NW5 4EB nearest tube Chalk Farm&lt;/p&gt;</long_description>
+  <venue>
+    <id>4011</id>
+    <name>Queens Crescent Arts Space</name>
+    <street>76 Queens Crescent </street>
+    <area>Kentish Town </area>
+    <city>London </city>
+    <postcode>NW5 4EB</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5496917</latitude>
+      <longitude>-0.1520471</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13647</id>
+  <name>Landmark Autumn Wedding Fair</name>
+  <promoter>Landmark Arts Centre</promoter>
+  <start_time>2011-09-25T09:30:00Z</start_time>
+  <end_time>2011-09-25T15:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists></artists>
+  <tags>weddings, bridal, getting married, honeymoon, love</tags>
+  <costs>&#163;4,  under 16s free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13647/original/wf_logo.JPG?1314290611</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.landmarkartscentre.org</web_url>
+  <short_description>THE premier wedding fair in South West London with everything you need for the perfect day.</short_description>
+  <long_description>&lt;p&gt;A fabulous opportunity to meet over 50 suppliers who have everything you need to make your wedding a unique day to remember. Jewellery, bridal &amp; mens' wear, photographers, cakes, florists and more. Find out more at www.landmarkartscentre.org&lt;/p&gt;</long_description>
+  <venue>
+    <id>3902</id>
+    <name>Landmark Arts Centre</name>
+    <street>Ferry Road</street>
+    <area>Teddington</area>
+    <city>London</city>
+    <postcode>TW11 9NN</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4288907</latitude>
+      <longitude>-0.3242041</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13490</id>
+  <name>Showcase Cities</name>
+  <promoter>Rich Mix</promoter>
+  <start_time>2011-09-28T17:00:00Z</start_time>
+  <end_time>2011-09-28T23:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists></artists>
+  <tags>Visual Arts, Emerging art, Exhibition, Live music, Comedy</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13490/original/SC_RM_Web_02.jpg?1314026055</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.richmix.org.uk/whats-on/event/showcase-cities-280911/</web_url>
+  <short_description>The platform for emerging artists
+
+</short_description>
+  <long_description>&lt;p&gt;The platform for emerging artists Beautifully presented, brilliantly lit exhibitions offer a fantastic opportunity to see emerging artists display new ideas, new work and new styles. All our exhibitions include live music &amp; occasionally comedy too! Facebook www.facebook.com/ShowcaseCities&lt;/p&gt;</long_description>
+  <venue>
+    <id>3239</id>
+    <name>RichMix</name>
+    <street>35-47 Bethnal Green Rd</street>
+    <area>Shoreditch </area>
+    <city>London</city>
+    <postcode>E1 6LA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13122</id>
+  <name>DRAW 11</name>
+  <promoter>Bullseyehub</promoter>
+  <start_time>2011-10-03T10:00:00Z</start_time>
+  <end_time>2011-10-03T17:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists></artists>
+  <tags>art, drawing, graffiti, big draw, exhibition, SGFA, Menier Gallery</tags>
+  <costs>free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13122/original/image_2.jpg?1313160077</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://sgfa.org.uk</web_url>
+  <short_description>Celebrating the drawing skills of artists</short_description>
+  <long_description>&lt;p&gt;Celebrating the work of artists who encompass a wealth of traditional and modern drawing skills. The exhibition theme this year is &#8216;Graffiti&#8217; 20+ &#8216;Big Draw&#8217; events &#8211; drop-in demonstrations, workshops and meet the artist sessions taking place during the exhibition.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3980</id>
+    <name>Menier Gallery</name>
+    <street>51 Southwark Street</street>
+    <area></area>
+    <city>London </city>
+    <postcode>SE1 1RU</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5047327</latitude>
+      <longitude>-0.0936023</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10236</id>
+  <name>phobophobia at the london bridge experience</name>
+  <promoter>The London Bridge Experience</promoter>
+  <start_time>2011-10-17T09:00:00Z</start_time>
+  <end_time>2011-10-17T23:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>zombies, vampires, ghosts, ghouls</artists>
+  <tags>phobophobia, london tombs, london bridge experience, halloween</tags>
+  <costs>Adult &#163;23.00, Children &#163;17.00, Family &#163;74.00, Concessions &#163;21.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10236/original/HALLOWEEN-WEB.png?1307364543</image_url>
+  <ticket_url>http://www.ticketmaster.co.uk/London-Bridge-Experience-tickets-London/venue/253975?brand=uk_lbe</ticket_url>
+  <web_url>http://www.thelondonbridgeexperience.com/</web_url>
+  <short_description>This Halloween Phobophobia is back...and it&#8217;s more terrifying than ever! Our Phobophobia experience will leave you wondering if you have reached the very limit of your fear, and promises to chill you to the bone!</short_description>
+  <long_description>&lt;p&gt;Phobophobia is back...and it&#8217;s more terrifying than ever! The London Bridge Experience &amp; London Tombs, winners of the UK&#8217;s Scariest Attraction for the past three years, invite you, your friends and your family to join us this Halloween. Our Phobophobia experience will leave you wondering if you have reached the very limit of your fear, and promises to chill you to the bone! Halloween is the time of year when the darkest creatures dare to venture out to come and play. Attacking all of your senses, and challenging all of your phobias, The London Bridge Experience and The London Tombs have pulled out all of the stops to create a show that will test your nerve! During the day... History behind the horror! 10am-6pm 17th October - 1st November (Family friendly). Our family shows are suitable for all ages, exploring 2000 years of London Bridges dark history. Travel back in time and be taken on a journey led by first class actors and the stunning special effects. After The London Bridge Experience you will be given the option to descend into the London Tombs-winner of the &#8220;Best Year Round Scare attraction&#8221; at the Screamie Awards for the past 3 years. We do offer a guardian angel tour for our younger guests allowing them to experience the tombs in a less scary format. EAfter dark... Extreme scares - Halloweens most hellish event! 7pm-Late 27thOctober-31st October (over 11's only). What can only be described as the ultimate Halloween show, Phobophobia focuses on the fear of fear itself. Phobophobia, 2011 brings you face to face with the subject of common phobias, as well as a few bizarre ones. Make your way past walls that are dripping in blood, squeeze through confined spaces and gasp in terror as you're met with spiders, snakes, cackling witches and creepy clowns. Deep within the catacombs under London Bridge sinister spirits and creepy clowns are poised to prey on unsuspecting visitors. The London Bridge Experience and the London Tombs have joined forces to create Phobophobia 2011 to ensure Halloween is a genuine fright fest! The London Bridge Experience &amp; London Tombs General Manager, James Kislingbury comments: &#8217;Halloween is a large and ever-growing celebration, we take it as a personal challenge here at The London Bridge Experience to bring in a show that will leave London trembling.&#160; The fear industry is getting better and scarier, combining real fear with the latest technology to stun, scare and entertain visitors.&#8217; &#160;This Halloween, The London Bridge Experience &amp; London Tombs leave you at the mercy of the Bloody Butcher and his hellish clan, guaranteeing to give you the scariest, nerve shredding, most exhilarating and pulse racing Halloween yet!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3603</id>
+    <name>The London Bridge Experience</name>
+    <street>2-4 Tooley Street</street>
+    <area>London Bridge</area>
+    <city>London</city>
+    <postcode>SE1 2PF</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12674</id>
+  <name>CAPTURE CURE</name>
+  <promoter>Capture Cure</promoter>
+  <start_time>2011-10-28T17:00:00Z</start_time>
+  <end_time>2011-10-28T21:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists></artists>
+  <tags>art cancer exhibition breast music fundraising </tags>
+  <costs>FREE</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12674/original/Capture_Cure.jpg?1312386095</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.facebook.com/CaptureCure</web_url>
+  <short_description>An art exhibition and auction raising funds for 
+Breakthrough Breast Cancer. Pimlico Academy, Lupus Street, 
+SW1V 3AT on Friday 28th October 2011 - keep the date free if 
+you want to attend. </short_description>
+  <long_description>&lt;p&gt;The idea behind Capture Cure is to gather together art, which fans vote for on the Capture Cure Facebook Page. Those paintings (or photographs, illustrations sculptures) which get the most &#8216;like&#8217; responses are then displayed in an exhibition and auctioned off. Last year, we managed to get 70 works of art submitted &#8211; 35 then starred in the exhibition, attended by 130 people (we raised &#163;4,287).&lt;/p&gt;</long_description>
+  <venue>
+    <id>3956</id>
+    <name>Pimlico Academy</name>
+    <street> Lupus Street</street>
+    <area></area>
+    <city>London</city>
+    <postcode>SW1V 3AT</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4879341</latitude>
+      <longitude>-0.1399151</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13161</id>
+  <name>Art Expo Radlett 2012</name>
+  <promoter>Bullseyehub</promoter>
+  <start_time>2012-01-15T10:30:00Z</start_time>
+  <end_time>2012-01-15T16:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>Beryl Cook</artists>
+  <tags>Beryl Cook, Art Exhibitions in Hertfordshire, Art Exhibitions, Antiques Fairs, Antiques in Hertfordshire, Art and Antiques near St. Albans, Berl Cook Radlett, antiques Fair Radlett</tags>
+  <costs>&#163;2</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13161/original/artexpo.jpg?1313404449</image_url>
+  <ticket_url>http://www.artexporadlett.co.uk</ticket_url>
+  <web_url>http://www.artexporadlett.co.uk</web_url>
+  <short_description>An exhibition of collectable,signed Limited Edition Prints together with a wide range of Original Paintings,Glass, Photography,Sculptures and Antiques will be available for sale at this 1 Day Art and Antiques Fair.</short_description>
+  <long_description>&lt;p&gt;Art Expo Radlett 2012 will be offering a diverse collection of Original Paintings,Glass, Photography and Sculpture. The Exhibition of more than 30 Artists works will be on display at The Radlett Centres Foyer and Apthorp Gallery together with an Exhibition of Signed Limited Edition Prints by the late Beryl Cook o.b.e. The Expo will include the opportunity to meet many of the Artists on Wednesday evening 11th January 2012,admission free. On Sunday 15th January 2012 the event will include a 1 Day Art and Antiques Fair from 10.30am to 4pm Limited parking and disabled parking is available at The Radlett Centre, directly opposite is a large public car park at the rear of Budgens in Watling Street. A coffee shop serving drinks and light snacks is open within The Radlett Centre throughout the day.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3989</id>
+    <name>The Radlett Centre</name>
+    <street>1 Aldenham Avenue</street>
+    <area>Watling Street</area>
+    <city>Radlett</city>
+    <postcode>WD7 8HL</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.695895</latitude>
+      <longitude>-0.3240675</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>4340</id>
+  <name>Deaf Business Exhibition 2012</name>
+  <promoter>Sign Language Brings Freedom</promoter>
+  <start_time>2012-07-22T11:00:00Z</start_time>
+  <end_time>2012-07-22T19:00:00Z</end_time>
+  <genre>Exhibitions</genre>
+  <artists>SLbF Ltd. &amp; If You Can We Can</artists>
+  <tags>Exhibitions, experience, workshop, speeker, speech, lounge, visitors, education, empowering, business, work, starters, entrepreneurs, business owners, business link, setting your own business</tags>
+  <costs>&#163;50 entrance fee (for stall/stand holders please email to deafexpo2012@btinternet.com)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/4340/original/Welcome.jpg?1294403336</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.deafbizexpo2012.com</web_url>
+  <short_description>UK Deaf Business Expo 2012
+
+For the first time ever UK Deaf Business Expo 2012
+</short_description>
+  <long_description>&lt;p&gt;An exhibition for empowering and educating young business starters, future entrepreneurs, and new small business owners. This Exhibition will be held from Sunday, 22nd July 2012 until Wednesday, 25th July 2012.&lt;/p&gt;</long_description>
+  <venue>
+    <id>195</id>
+    <name>Congress Centre</name>
+    <street>28 Great Russell Street</street>
+    <area>Bloomsbury</area>
+    <city>London</city>
+    <postcode>WC1B 3LS</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5172747</latitude>
+      <longitude>-0.1284724</longitude>
+    </location>
+  </venue>
+</event>
+</events>

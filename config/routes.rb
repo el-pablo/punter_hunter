@@ -1,5 +1,6 @@
 PunterHunter::Application.routes.draw do
   get "events/nearby"
+  get "events/all"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.

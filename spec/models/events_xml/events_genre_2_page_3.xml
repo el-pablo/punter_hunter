@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xsi:schemaLocation="http://app.bullseyehub.com/api/events.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13208</id>
+  <name>Homework</name>
+  <promoter>Working Mens Club</promoter>
+  <start_time>2011-08-31T18:30:00Z</start_time>
+  <end_time>2011-08-31T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>John Osborne, Tim Clare, Luke Wright, Ross Sutherland, Joe Dunthorne</artists>
+  <tags>literature, literary cabaret, poetry, comedy, spoken word</tags>
+  <costs>&#163;5 </costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13208/original/joesmall.jpg?1313491252</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.workersplaytime.net</web_url>
+  <short_description>A mix of poetry, stand-up, literature and music. HOMEWORK residents &#8211; poetry collective Aisle16 &#8211; showcase new work, alongside big name guest performers. Previous guests have included Kate Nash, Jon Ronson, and Fringe award-winner Tim Key. </short_description>
+  <long_description>&lt;p&gt;We&#8217;re proud to announce that our literary cabaret night returns for it's third instalment! Residents John Osborne, Tim Clare, Luke Wright, Ross Sutherland and Joe Dunthorne return for another year of vague literary ephemera. Last season ended with every audience member in the venue wearing a Tom Cruise mask, shouting out the poem from the movie Cocktail. It was our most fun night to-date, raising the bar in terms of entertainment, whilst simultaneously lowering the bar for quality of work. GOOD JOB TEAM! Season 4 runs June-November 2011. It happens on the last Wednesday of every month! 3. Wild Abandon The launch of Joe Dunthorne&#8217;s new novel, Wild Abandon, with a specially devised live reading from the book. The book follows the story of Albert and Kate, brother and sister, who are not yet the last two human beings on earth, but Albert is hopeful. Support from John Osborne and Ross Sutherland, plus an extra special guest.&lt;/p&gt;</long_description>
+  <venue>
+    <id>95</id>
+    <name>Bethnal Green Working Men&amp;#39;s Club</name>
+    <street>42 Pollard Row</street>
+    <area>Bethnal Green</area>
+    <city>London</city>
+    <postcode>E2 6NB</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13292</id>
+  <name>Best in Stand Up with Pierre Hollins and Chris McCausland</name>
+  <promoter>The Comedy Cafe</promoter>
+  <start_time>2011-09-01T18:00:00Z</start_time>
+  <end_time>2011-09-01T22:15:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Johnny Candon, Geoff Norcott, Pierre Hollins, Chris McCausland</artists>
+  <tags>Comedy, Stand Up, Comedian, Late Night, Bar, Inn, Drinks, Dinner, Show, What&#8217;s On, Night Out, London, Comedy Club</tags>
+  <costs>10</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13292/original/Chris_McCausland.jpg?1313597985</image_url>
+  <ticket_url>http://www.comedycafe.co.uk/index.php?id_page=274&amp;id_language=1&amp;id_gig=9411</ticket_url>
+  <web_url>http://www.comedycafe.co.uk</web_url>
+  <short_description>Chris McCausland and Pierre Hollins headline The Comedy Cafe, with Geoff Norcott and Johnny Candon</short_description>
+  <long_description>&lt;p&gt;CHRIS MCCAUSLAND After a harebrained idea that went just a bit too far Chris first gave stand-up a go in the summer of 2003. In the 12 months that followed he was not only voted Jongleurs best newcomer but also achieved a top three placing in another three premier national competitions including Channel Four's "So You Think You're Funny?". He's now playing some of the top clubs in London and around the country including Jongleurs and The Comedy Store, and with his services continuing to increase in demand. Although registered blind, Chris chooses to talk only occasionally about his disability as he believes that the audience should be able to relate to as much of his material as possible. Instead his material spans from the real to the ridiculous - whether it be about university shenanigans or the all too depressing world of the giraffe&#8230; and with the odd tale of embarrassment thrown in for good measure! "An absolute natural!" - Dave Spikey (Phoenix Nights) "Shining Light!" - Sunday Express "The new face of comedy in the UK" - London Tonight, ITN "A stirling set - Elegantly written and engagingly performed" - Cho PIERRE HOLLINS Has been an audience favourite on the comedy circuit for many years, and has headlined at clubs throughout the UK, Europe, the Middle East and Asia. In the early days he worked as a support act to Lenny Henry and Rory Bremner; appeared in the West End with Rita Rudner; and toured with The Flying Pickets, and Willie Rushton &amp; Barry Cryer. He has completely re-invented his act several times (from the early days of acrobatic spectacle and frivolous audience abuse - where he was described as &#8216;far fetched and semi dangerous&#8217; Time Out). In a more recent incarnation he was found weilding an electric squash racket - &#8216;must be seen to be believed&#8217; Chortle; &#8216;comedy rock and roll heaven&#8217; Hot Tickets. &#8216;An unsung hero of new comedy. Don&#8217;t miss this true professional at work. Bloody funny.&#8217; TIME OUT &#8216;A crowd favourite with a stage presence and delivery style that is the envy of many of his peers.&#8217; HONG KONG TIMES &#8216;Wild and wonderful.&#8217; VENUE &#8216;A &#8216;must see&#8217;...&#8217; THE GUARDIAN &#8216;Hugely talented, hugely experienced, comedy maestro.&#8217; KOMEDIA&lt;/p&gt;</long_description>
+  <venue>
+    <id>3524</id>
+    <name>Comedy Cafe</name>
+    <street>66/68 Rivington Street</street>
+    <area>Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 3AY</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13759</id>
+  <name>The Topsecretcomedyclub presents Frank Sanazi</name>
+  <promoter>The Garden Comedy Club</promoter>
+  <start_time>2011-09-01T19:00:00Z</start_time>
+  <end_time>2011-09-01T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Frank Sanazi Joseph Wilson and Johnny Kats  </artists>
+  <tags>stand up comedy, comedy live , covent garden , stand up live , johnny kats , frank sanazi , joseph wilson</tags>
+  <costs>2 for 1 @ &#163;7</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13759/original/top-secret-comedy-club_LOGO.jpg?1314606814</image_url>
+  <ticket_url>http://www.thetopsecretcomedyclub.co.uk/tickets/</ticket_url>
+  <web_url>http://www.thetopsecretcomedyclub.co.uk/thursday</web_url>
+  <short_description>We are a great little comedy club in Covent Garden. We have the privilege of being supported by  some of the greatest comedians in the country. Our Thursday night line up includes Frank Sanazi, Johnny Kats and Joseph Wilson. 2 for 1 entry &#163;7</short_description>
+  <long_description>&lt;p&gt;The topsecretcomedyclub is going from strength to strength with a sell out everyday we opened last week. We are proud to say we are an all seating comedy club and you will not be left standing in our venue. The cheapest bar in the West End opens at 7pm and the comedy starts from 8pm. Join us and find out the secret.See you there! We are a great little comedy club in Covent Garden. We have the privilege of being supported by some of the greatest comedians in the country. Our Thursday night line up includes Frank Sanazi, Johnny Kats and Joseph Wilson. 2 for 1 entry &#163;7&lt;/p&gt;</long_description>
+  <venue>
+    <id>3453</id>
+    <name>The Top Secret Comedy Club Basement of the Africa Centre</name>
+    <street>38 King Street</street>
+    <area></area>
+    <city>London</city>
+    <postcode>WC2E 8JT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13760</id>
+  <name>The Topsecretcomedyclub presents Ria Lina</name>
+  <promoter>The Garden Comedy Club</promoter>
+  <start_time>2011-09-02T19:00:00Z</start_time>
+  <end_time>2011-09-02T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Johnny Kats and Ria Lina</artists>
+  <tags>comedy live , stand up comedy, live comedy , comedy club , ria lina , johnny kats</tags>
+  <costs>&#163;8</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13760/original/top-secret-comedy-club_LOGO.jpg?1314607209</image_url>
+  <ticket_url>http://www.thetopsecretcomedyclub.co.uk/tickets/</ticket_url>
+  <web_url>http://www.thetopsecretcomedyclub.co.uk/friday</web_url>
+  <short_description>We are a great little comedy club in Covent Garden. We have the privilege of being supported by  some of the greatest comedians in the country. Our Friday night line up includes Ria Lina and Johnny Kats &#163;8 entry The secret is getting out fast.</short_description>
+  <long_description>&lt;p&gt;We are proud to say we are an all seating comedy club and you will not be left standing in our venue. The cheapest bar in the West End opens at 7pm and the comedy starts from 8pm. Join us and find out the secret.See you there!We are a great little comedy club in Covent Garden. We have the privilege of being supported by some of the greatest comedians in the country. Our Friday night line up includes Ria Lina and Johnny Kats &#163;8 entry The secret is getting out fast.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3453</id>
+    <name>The Top Secret Comedy Club Basement of the Africa Centre</name>
+    <street>38 King Street</street>
+    <area></area>
+    <city>London</city>
+    <postcode>WC2E 8JT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13761</id>
+  <name>The Topsecretcomedyclub presents Ria Lina</name>
+  <promoter>The Garden Comedy Club</promoter>
+  <start_time>2011-09-03T19:00:00Z</start_time>
+  <end_time>2011-09-03T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Ria Lina </artists>
+  <tags>comedy live , stand up comedy, Ria Lina, comedy club, covent garden comedy club</tags>
+  <costs>&#163;10</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13761/original/top-secret-comedy-club_LOGO.jpg?1314607794</image_url>
+  <ticket_url>http://www.thetopsecretcomedyclub.co.uk/tickets/</ticket_url>
+  <web_url>http://www.thetopsecretcomedyclub.co.uk/saturday</web_url>
+  <short_description>We are a great little comedy club in Covent Garden. We have the privilege of being supported by  some of the greatest comedians in the country. Our Saturday night line up includes Ria Lina &#163;10 entry.</short_description>
+  <long_description>&lt;p&gt;We are proud to say we are an all seating comedy club and you will not be left standing in our venue. The cheapest bar in the West End opens at 7pm and the comedy starts from 8pm. Join us and find out the secret.See you there!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3453</id>
+    <name>The Top Secret Comedy Club Basement of the Africa Centre</name>
+    <street>38 King Street</street>
+    <area></area>
+    <city>London</city>
+    <postcode>WC2E 8JT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13442</id>
+  <name>Sunday Comedy Club @ Hideaway, Streatham</name>
+  <promoter>AOB Limited</promoter>
+  <start_time>2011-09-04T18:00:00Z</start_time>
+  <end_time>2011-09-04T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>TBC</artists>
+  <tags>live comedy, comedy club, stand up, comedians, touch of class, comedy roast , credit crunch comedy , hideaway, london comedy</tags>
+  <costs>&#163;10 on the door</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13442/original/Sunday_Comedy_Club_flyer.jpg?1314004811</image_url>
+  <ticket_url>http://bit.ly/p2XUfW</ticket_url>
+  <web_url>http://www.hideawaylive.co.uk</web_url>
+  <short_description>Stand up comedy from the promoters who do the big theatre comedy shows such as Touch of Class, Comedy Roast and Credit Crunch Comedy &#8211; each show features at least five acts, with a star headliner! </short_description>
+  <long_description>&lt;p&gt;Promising a marvellous 5-act line-up each week, The Sunday Comedy Club never fails to bring you a unique collection of urban comedians with regular appearances from the biggest and funniest names in comedy, including Richard Blackwood, Kane Brown, Slim, Will E Robo, Tony Hendrix, Quincy, Wayne &#8220;Dibbi&#8221; Rollins, Annette Fagon, Mr Cee, Kevin J, Jamie Howard, Kwaku, Little Man, Axel The Entertainer, Johnny Cochran, Maureen Younger, Kayleigh Lewis, Jags, Variety D. This night is being organised by the two promoters behind big theatre comedy nights Comedy Roast, Touch Of Class and Credit Crunch Comedy. They have joined forces to bring you a new weekly comedy club. Please note - due to high demand, tables for the Sunday Comedy Club are only guaranteed for purchases of 4 or more tickets.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3801</id>
+    <name>Hideaway</name>
+    <street>2 Empire Mews</street>
+    <area>Streatham</area>
+    <city>London</city>
+    <postcode>SW16 2ED</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4271977</latitude>
+      <longitude>-0.1308318</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13665</id>
+  <name>Comedy Virgins!</name>
+  <promoter>The Cavendish Arms</promoter>
+  <start_time>2011-09-05T18:00:00Z</start_time>
+  <end_time>2011-09-05T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Gemma Beagley</artists>
+  <tags>free comedy, Open mic</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13665/original/Gemma_Beagley.jpg?1314295889</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thecavendisharmsstockwell.co.uk</web_url>
+  <short_description>Free entry stand up comedy open mic night</short_description>
+  <long_description>&lt;p&gt;Busy, friendly open mic night for new and established comics every Monday and Tuesday at The Cavendish Arms. 15 booked acts perform 5mins each plus 5 open spots for sign up on the night. Beautiful seated venue, fully compered show, email in advance to book seats! Hosted by Gemma Beagley Food available.10mins walk to Stockwell and Vauxhall tubes. www.thecavendisharmsstockwell.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>2764</id>
+    <name>Cavendish Arms</name>
+    <street>128 Hartington Road</street>
+    <area>Vauxhall</area>
+    <city>London</city>
+    <postcode>SW8 2HJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.476544</latitude>
+      <longitude>-0.127692</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13666</id>
+  <name>Comedy Virgins!</name>
+  <promoter>The Cavendish Arms</promoter>
+  <start_time>2011-09-06T18:00:00Z</start_time>
+  <end_time>2011-09-06T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>David Armitage</artists>
+  <tags>free comedy</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13666/original/Comedy_Panorama.jpg?1314296142</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thecavendisharmsstockwell.co.uk</web_url>
+  <short_description>Free entry stand up comedy open mic night</short_description>
+  <long_description>&lt;p&gt;Busy, friendly open mic night for new and established comics every Monday and Tuesday at The Cavendish Arms. 15 booked acts perform 5mins each plus 5 open spots for sign up on the night. Beautiful seated venue, fully compered show, email in advance to book seats! Hosted by Dave 'dead baby bird' Armitage. Food available.10mins walk to Stockwell and Vauxhall tubes. www.thecavendisharmsstockwell.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>2764</id>
+    <name>Cavendish Arms</name>
+    <street>128 Hartington Road</street>
+    <area>Vauxhall</area>
+    <city>London</city>
+    <postcode>SW8 2HJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.476544</latitude>
+      <longitude>-0.127692</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13581</id>
+  <name>Gits &amp; Shiggles Comedy Night</name>
+  <promoter>Half Moon Putney</promoter>
+  <start_time>2011-09-06T19:00:00Z</start_time>
+  <end_time>2011-09-06T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Chris Dangerfield, Banjo Lizard, Hannah Warman, Hannah Kemsley, Bobby Freeman, Stream of Piffle, Jim Campbell MC</artists>
+  <tags>Comedy, Hannah Warman, Hannah Kemsley, Bobby Freeman, Jim Campbell, Gits, Shiggles, git, Gits &amp; Shiggles, Stream of Piffle</tags>
+  <costs>&#163;5</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13581/original/shiggles_sept.gif?1314187766</image_url>
+  <ticket_url>http://www.ticketweb.co.uk/user/?region=gb_london&amp;query=detail&amp;event=465004&amp;interface=halfmoon</ticket_url>
+  <web_url>http://www.halfmoon.co.uk</web_url>
+  <short_description>The new monthly comedy night from The Half Moon!</short_description>
+  <long_description>&lt;p&gt;Tonight sees Original, Surreal and filthy Chris Dangerfield headline. "He's a very very amusing fellow - funnier than an unsuspecting lump sought out by horror stricken fingers" - Will Self "Goes where other comics fear to tread. A much needed breath of vulgarity" - Julian Clary. Along with London based comedian Hannah Warman, delivering a set packed full of jokes, energy and silliness. &#8220;Exuberant with genuine comedy nuggets.**** (4 stars)&#8221; Three Weeks Harriet Kemsley - she won Funny&#8217;s Funny, was named Up The Creek&#8217;s &#8216;One To Watch&#8217; and became a semi finalist for So You Think You&#8217;re Funny. Harriet&#8217;s performing regularly round the place since getting her first professional spot at Crack Comedy on the Southbank and after a run of gigs in Paris this summer. Chortle, &#8220;Excellent writing.&#8221; Large Man, &#8220;That was shit hot love.&#8221; Funny&#8217;s Funny, &#8220; Fresh. Different. Brilliant.&#8221; All this plus more from Stream of Piffle and Improv from Banjo. Jim Campbell MC. Food served til late! First Tuesday of the month!&lt;/p&gt;</long_description>
+  <venue>
+    <id>2337</id>
+    <name>Half Moon Putney</name>
+    <street>93 Lower Richmond Road</street>
+    <area>Putney</area>
+    <city>London</city>
+    <postcode>SW15 1EU</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4668541</latitude>
+      <longitude>-0.2200624</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13524</id>
+  <name>The Intimate Strangers' Concept Album</name>
+  <promoter>Confugium Film Ltd</promoter>
+  <start_time>2011-09-08T18:30:00Z</start_time>
+  <end_time>2011-09-08T20:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>The Intimate Strangers</artists>
+  <tags>Sketch comedy, comedy, intimate strangers, weybridge, confugium, live comedy</tags>
+  <costs>&#163;10, &#163;7.50 U16's</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13524/original/202207_10150120829203406_8484608405_6460858_3903731_o-1.jpg?1314056979</image_url>
+  <ticket_url>http://www.seetickets.com/Event/THE-INTIMATE-STRANGERS-CONCEPT-ALBUM/Cleves-School/575205</ticket_url>
+  <web_url>http://www.intimatestrangers.net/nextshow.html</web_url>
+  <short_description>Live sketch comedy from The Intimate Strangers along with a preview of their new web series.</short_description>
+  <long_description>&lt;p&gt;For five years The Intimate Strangers have been producing critically-acclaimed sketch shows. But this year it's going to be different. This year they're going to break some serious ground. This year they're going to change the world. Fresh from a successful London run, come witness a show that claims to be the dress rehearsal of the show you are already watching (it's not that complicated we promise, it's mostly just funny), along with a preview of our new web series! "A thing of beauty, smart, funny and original" - Remotegoat "Had the audience laughing throughout" - Guide2bath For more details and a tasty trailer visit http://www.intimatestrangers.net/nextshow.html&lt;/p&gt;</long_description>
+  <venue>
+    <id>4024</id>
+    <name>Cleves School</name>
+    <street>Oatlands Avenue</street>
+    <area></area>
+    <city>Weybridge</city>
+    <postcode>KT13 9TS</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.369049</latitude>
+      <longitude>-0.43505</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12638</id>
+  <name>Scipmylo Comedy Festival</name>
+  <promoter>Scipmylo Festival</promoter>
+  <start_time>2011-09-08T19:00:00Z</start_time>
+  <end_time>2011-09-08T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>MIss Behave, Jonny Woo, Jerry Sadowitz, Marawa The Amazing, Simon Evans, Tom Allen</artists>
+  <tags>Scipmylo, Scipmylo.co.uk, Olympics, Jerry Sadowitz, Jonny Woo, Miss Behave, Tom Allen, Simon Evans, Marawa The Amazing, Shoreditch Town Hall, Comedy Festival, Comedy Cafe, Comedy, Shoreditch, www.scipmylo.co.uk</tags>
+  <costs>Assembly Hall - &#163;17.50 - &#163;16.00 Concession, Large Committee Room - &#163;12.00 - &#163;11.00 Concession, Council Chamber - &#163;12.00 - &#163;11.00 Concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12638/original/COMEDYMASTHEAD.jpg?1312371949</image_url>
+  <ticket_url>http://www.ticketweb.co.uk/scipmylo/</ticket_url>
+  <web_url>http://www.scipmylo.co.uk</web_url>
+  <short_description>East London is set to become a destination in its own right as a result of the Olympics, and the launch of Scipmylo brings a compelling reason for people to visit this fantastic, undiscovered corner of London long after the athletes have left. </short_description>
+  <long_description>&lt;p&gt;Miss Behave in Dark Purple Chocolate &amp; Other Guilty Pleasures - Shoreditch Town Hall / The Assembly Hall: 8.30pm Queen of London's decadent cabaret Amy Miss Behave, conducts an evening of dark and delicious cabaret, comedy and showmanship with tranny-tastic Jonny Woo performing his world renowned show and Marawa The Amazing dazzling with her incredible feats of skill. Amazing comedian, magician and psychopath Jerry Sadowitz headlines with his unique brand of 'in your face' stand up and magic. Tom Allen's Evening Soiree - Shoreditch Town Hall / Large Committee Room: 8.00pm Fresh from appearing at the Edinburgh Festival, multi award winning comic Tom Allen brings his hit Fringe teatime chat show to the twilight hour with his Evening Soir&#233;e at the ScipMylo Festival. Join Tom for an exciting hour of sparkling conversation with top festival performers and comedians mixed with a whirlwind of intelligent satire, anarchic parlour games and his own inimitable brand of sublime comedy. Tom has performed at festivals around the world, is the star of BBC&#8217;s Sony Award winning Bleak Expectations and has been seen in such shows as the Stephen K Amos Show and Big Brother&#8217;s Big Mouth. Simon Evans: Fringe Magnet - Shoreditch Town Hall / The Council Chamber: 8.00pm Simon Evans is a veteran of sell-out shows - the Edinburgh Festival, Montreal's Just for Laughs (headlining the Brit-Com package show and appearing in the world famous Gala to great acclaim) and the Aspen International Comedy Festival, where in 2004 he was one of only three British acts invited to appear (the others, Eddie Izzard and Stewart Lee). Intelligent, supremely well-composed. Observational comedy at its very bestDan Rider, The Scotsman Go to www.scipmylo.co.uk or www.ticketweb.co.uk/scipmylo/ for tickets&lt;/p&gt;</long_description>
+  <venue>
+    <id>1388</id>
+    <name>Shoreditch Town Hall</name>
+    <street></street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC1V 9LT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12639</id>
+  <name>Scipmylo Comedy Festival</name>
+  <promoter>Scipmylo Festival</promoter>
+  <start_time>2011-09-09T18:00:00Z</start_time>
+  <end_time>2011-09-09T22:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Milton Jones, Stephen K Amos, Hal Cruttenden, Andrew Zaltman, Tom Allen</artists>
+  <tags>scipmylo.co.uk, scipmylo, www.scipmylo.co.uk, Milton Jones, Hal Cruttenden, Andrew Zaltman, Comedy Festival, Comedy Cafe, Comedy, Shoreditch, Shoreditch Town Hall, Stephen K Amos, Tom Allen</tags>
+  <costs>Assembly Hall - &#163;17.50 - &#163;16.00 Concession, Large Committee Room - &#163;12.00 - &#163;11.00 Concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12639/original/COMEDYMASTHEAD.jpg?1312372947</image_url>
+  <ticket_url>http://www.ticketweb.co.uk/scipmylo/ </ticket_url>
+  <web_url>http://www.scipmylo.co.uk</web_url>
+  <short_description>East London is set to become a destination in its own right as a result of the Olympics, and the launch of Scipmylo brings a compelling reason for people to visit this fantastic, undiscovered corner of London long after the athletes have left.</short_description>
+  <long_description>&lt;p&gt;Milton Jones &amp; Hal Cruttenden Plus Special Guests - Shoreditch Town Hall / Assembly Hall: 7.30pm Milton Jones star of the Michael McIntyre Roadshow, and the voice of numerous Radio 4 shows and all sorts of other radio and television as well known for being 'The best one-liner merchant in British comedy' (Chortle.co.uk). As a performer, Pete Johansson "ticks all the boxes, yet is never one to play it safe" &#9733;&#9733;&#9733;&#9733; Steve Bennett (Chortle). Fresh off the back of his first national solo tour, Hal Cruttenden brings his incredible show to Shoreditch" done with high camp and nattily constructed punchlines, it definitely holds charm." (The Guardian) Stephen K Amos &amp; Andrew Zaltman Plus Very Special International Guest - Shoreditch Town Hall / Assembley Hall: 9.30pm Stephen K Amos has charmed and entertained audiences all over the world with his natural, assured delivery and his honest, original material. "Born to entertain" (The Guardian). A circuit stalwart, Stephen K Amos made his Edinburgh debut in 2001, returned in 2003, and has performed there every year since. He has also appeared the Melbourne Comedy Festival every year from 2006 to 2009 Tom Allen's Evening Soiree - Shoreditch Town Hall / Large Committee Room: 7.30pm Fresh from appearing at the Edinburgh Festival, multi award winning comic Tom Allen brings his hit Fringe teatime chat show to the twilight hour with his Evening Soir&#233;e at the ScipMylo Festival. Join Tom for an exciting hour of sparkling conversation with top festival performers and comedians mixed with a whirlwind of intelligent satire, anarchic parlour games and his own inimitable brand of sublime comedy. Tom has performed at festivals around the world, is the star of BBC&#8217;s Sony Award winning Bleak Expectations and has been seen in such shows as the Stephen K Amos Show and Big Brother&#8217;s Big Mouth. Go to www.scipmylo.co.uk or www.ticketweb.co.uk/scipmylo/ for tickets&lt;/p&gt;</long_description>
+  <venue>
+    <id>1388</id>
+    <name>Shoreditch Town Hall</name>
+    <street></street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC1V 9LT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13444</id>
+  <name>Streatham Comedy Club @ Hideaway, Streatham</name>
+  <promoter>AOB Limited</promoter>
+  <start_time>2011-09-09T18:00:00Z</start_time>
+  <end_time>2011-09-09T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Andrew Watts, Jonny Awsum, Sarah Hendrickx, Nick Helm, More acts TBC</artists>
+  <tags>Comedy, streatham, hideaway, nick helm , jonny awsum, andrew watts, sarah hendrickx, london comedy, live comedy, stand up, streatham comedy club</tags>
+  <costs>&#163;10</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13444/original/streathamcomedyclub.jpg?1314007119</image_url>
+  <ticket_url>http://bit.ly/ronnZm</ticket_url>
+  <web_url>http://www.hideawaylive.co.uk</web_url>
+  <short_description>Mixing established UK circuit comedians with exciting up-and-coming acts on the verge of becoming stars, The Streatham Comedy Club promises a friendly night of comedy with a fantastic variety. </short_description>
+  <long_description>&lt;p&gt;You&#8217;re sure to have your sides splitting at The Streatham Comedy Club. With regular 6-act line ups, you&#8217;ll get a fantastic variety on the night. Tonight&#8217;s performers include Andrew Watts, offering &#8220;a winning mixture of pomposity, insecurity and emotional incompetence&#8221; (Chortle); Jonny Awsum, whom the Daily Star describe as &#8220;cooler than a hypothermic Samuel L Jackson&#8221;; Sarah Hendrickx, a sharp act with a &#8220;wealth of punchy material in her arsenal&#8221; (Chortle); and the headliner, the mind-blowing Nick Helm, described as &#8220;comedy&#8217;s answer to glam rock, all swaggering machismo, aggressive posturing and energetic showmanship&#8221; by Chortle at this year&#8217;s Edinburgh Fringe. Food is available to order on the night, as well as a selection of chilled wines, delicious cocktails and cold beers on tap. We recommend you book early online to avoid disappointment.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3801</id>
+    <name>Hideaway</name>
+    <street>2 Empire Mews</street>
+    <area>Streatham</area>
+    <city>London</city>
+    <postcode>SW16 2ED</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4271977</latitude>
+      <longitude>-0.1308318</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13691</id>
+  <name>Angel Comedy</name>
+  <promoter>Angel Comedy</promoter>
+  <start_time>2011-09-10T19:00:00Z</start_time>
+  <end_time>2011-09-10T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Ian Stone, Inel Tomlinson, Darius Davies, Rob Auton</artists>
+  <tags>Free comedy london,  stand up, Angel, Islington, comedy, Camden Head, Professional comedy, Free, Best free comedy night in london, stand up comedy, hilarious</tags>
+  <costs>FREE</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13691/original/free_comedy_london.jpg?1314322061</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.angelcomedy.co.uk</web_url>
+  <short_description>The only professional free stand up comedy night has another very strong line up with "Mock the Week" and "Have I got News for You" and Comedy Store regular, Ian Stone headlining - and all for free!</short_description>
+  <long_description>&lt;p&gt;The only free professional Comedy club in London. Every week in Islington, Angel. Every week there are TV comedians as well as the best new comedians. - all for free! This week there are Finallists and professionals Galore. As well as Comedy Store and TV regular, Ian Stone (Have I got news for you/ Mock the week) there is Hackney Empire new act of the year finalists - Inel Tomlinson and Darius Davies, as well as Comedy Poet extraordinaire Rob Auton and Comdey svengali Sarah Pearce! All MC'd by master of TME Barry Ferns&lt;/p&gt;</long_description>
+  <venue>
+    <id>1448</id>
+    <name>Camden Head</name>
+    <street>2 Camden Walk</street>
+    <area>Islington</area>
+    <city>London</city>
+    <postcode>N1 8DY</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5356296</latitude>
+      <longitude>-0.103164</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13447</id>
+  <name>Sunday Comedy Club @ Hideaway, Streatham</name>
+  <promoter>AOB Limited</promoter>
+  <start_time>2011-09-11T18:00:00Z</start_time>
+  <end_time>2011-09-11T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>TBC</artists>
+  <tags>live comedy, hideaway, comedians, comedy club, credit crunch comedy, comedy roast, london comedy, stand up, touch of class</tags>
+  <costs>&#163;10 on the door</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13447/original/Sunday_Comedy_Club_flyer.jpg?1314007859</image_url>
+  <ticket_url>http://bit.ly/or83xy</ticket_url>
+  <web_url>http://www.hideawaylive.co.uk</web_url>
+  <short_description>Stand up comedy from the promoters who do the big theatre comedy shows such as Touch of Class, Comedy Roast and Credit Crunch Comedy &#8211; each show features at least five acts, with a star headliner!</short_description>
+  <long_description>&lt;p&gt;Promising a marvellous 5-act line-up each week, The Sunday Comedy Club never fails to bring you a unique collection of urban comedians with regular appearances from the biggest and funniest names in comedy, including Richard Blackwood, Kane Brown, Slim, Will E Robo, Tony Hendrix, Quincy, Wayne &#8220;Dibbi&#8221; Rollins, Annette Fagon, Mr Cee, Kevin J, Jamie Howard, Kwaku, Little Man, Axel The Entertainer, Johnny Cochran, Maureen Younger, Kayleigh Lewis, Jags, Variety D. This night is being organised by the two promoters behind big theatre comedy nights Comedy Roast, Touch Of Class and Credit Crunch Comedy. They have joined forces to bring you a new weekly comedy club. Please note - due to high demand, tables for the Sunday Comedy Club are only guaranteed for purchases of 4 or more tickets.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3801</id>
+    <name>Hideaway</name>
+    <street>2 Empire Mews</street>
+    <area>Streatham</area>
+    <city>London</city>
+    <postcode>SW16 2ED</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4271977</latitude>
+      <longitude>-0.1308318</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13667</id>
+  <name>Comedy Virgins!</name>
+  <promoter>The Cavendish Arms</promoter>
+  <start_time>2011-09-12T18:00:00Z</start_time>
+  <end_time>2011-09-12T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Gemma Beagley</artists>
+  <tags>free comedy</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13667/original/Gemma_Beagley.jpg?1314296355</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thecavendisharmsstockwell.co.uk</web_url>
+  <short_description>Free entry stand up comedy open mic night</short_description>
+  <long_description>&lt;p&gt;Busy, friendly open mic night for new and established comics every Monday and Tuesday at The Cavendish Arms. 15 booked acts perform 5mins each plus 5 open spots for sign up on the night. Beautiful seated venue, fully compered show, email in advance to book seats! Hosted by Gemma Beagley. Food available.10mins walk to Stockwell and Vauxhall tubes. www.thecavendisharmsstockwell.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>2764</id>
+    <name>Cavendish Arms</name>
+    <street>128 Hartington Road</street>
+    <area>Vauxhall</area>
+    <city>London</city>
+    <postcode>SW8 2HJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.476544</latitude>
+      <longitude>-0.127692</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13668</id>
+  <name>Comedy Virgins!</name>
+  <promoter>The Cavendish Arms</promoter>
+  <start_time>2011-09-13T18:00:00Z</start_time>
+  <end_time>2011-09-13T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>David Armitage</artists>
+  <tags>free comedy</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13668/original/Comedy_Panorama.jpg?1314296803</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thecavendisharmsstockwell.co.uk</web_url>
+  <short_description>Free entry stand up comedy open mic night</short_description>
+  <long_description>&lt;p&gt;Busy, friendly open mic night for new and established comics every Monday and Tuesday at The Cavendish Arms. 15 booked acts perform 5mins each plus 5 open spots for sign up on the night. Beautiful seated venue, fully compered show, email in advance to book seats! Hosted by Dave 'dead baby bird' Armitage. Food available.10mins walk to Stockwell and Vauxhall tubes. www.thecavendisharmsstockwell.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>2764</id>
+    <name>Cavendish Arms</name>
+    <street>128 Hartington Road</street>
+    <area>Vauxhall</area>
+    <city>London</city>
+    <postcode>SW8 2HJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.476544</latitude>
+      <longitude>-0.127692</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13669</id>
+  <name>Comedy Virgins!</name>
+  <promoter>The Cavendish Arms</promoter>
+  <start_time>2011-09-13T18:00:00Z</start_time>
+  <end_time>2011-09-13T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>David Armitage</artists>
+  <tags>free comedy</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13669/original/Comedy_Panorama.jpg?1314296925</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thecavendisharmsstockwell.co.uk</web_url>
+  <short_description>Free entry stand up comedy open mic night</short_description>
+  <long_description>&lt;p&gt;Busy, friendly open mic night for new and established comics every Monday and Tuesday at The Cavendish Arms. 15 booked acts perform 5mins each plus 5 open spots for sign up on the night. Beautiful seated venue, fully compered show, email in advance to book seats! Hosted by Dave 'dead baby bird' Armitage. Food available.10mins walk to Stockwell and Vauxhall tubes. www.thecavendisharmsstockwell.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>2764</id>
+    <name>Cavendish Arms</name>
+    <street>128 Hartington Road</street>
+    <area>Vauxhall</area>
+    <city>London</city>
+    <postcode>SW8 2HJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.476544</latitude>
+      <longitude>-0.127692</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12641</id>
+  <name>Scipmylo Comedy Festival</name>
+  <promoter>Scipmylo Festival</promoter>
+  <start_time>2011-09-13T19:30:00Z</start_time>
+  <end_time>2011-09-13T21:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Abandoman, Simon Munnery, John Maloney, Gorden Southern</artists>
+  <tags>Scipmylo, Scipmylo.co.uk, Shoreditch, Shoreditch Town Hall, Comedy, Comedy Cafe, Comedy Festival, Simon Munnery, Gordon Southern, Abandoman, John Maloney, House With A Heart, www.scipmylo.co.uk</tags>
+  <costs>Assembly Hall - &#163;17.50 - &#163;16.00 Concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12641/original/COMEDYMASTHEAD.jpg?1312373402</image_url>
+  <ticket_url>http://www.ticketweb.co.uk/scipmylo/</ticket_url>
+  <web_url>http://www.scipmylo.co.uk </web_url>
+  <short_description>East London is set to become a destination in its own right as a result of the Olympics, and the launch of Scipmylo brings a compelling reason for people to visit this fantastic, undiscovered corner of London long after the athletes have left. </short_description>
+  <long_description>&lt;p&gt;House With A Heart Benefit Night: Simon Munnery &amp; John Maloney Plus Special Guests - Shoreditch Town Hall / The Assembly Hall: 8.30pm John Moloney and Simon Munnery present a benefit night in aid of the House with a Heart. Ghar Sita Mutu is a charity that provides a home for abandoned children, a training center for destitute women, and an outreach program for needy families in Kathmandu, Nepal. Abandoman: Winners of both Hackney Empire New Act of the Year 2010 and The Musical Comedy Awards 2010, Abandoman create hilarious musical sketches at lightning speed live in front of their audience. No two gigs are ever the same. The project sees frontman Rob and multi-instrumentalist James Hancox reinventing hip hop in a way that appeals to all age groups. Abandoman are are regular performers on the Now Show and The Vote Now Show (BBC Radio 4) and regular contributors to the Chris Hawkins Breakfast Show (BBC 6 Music). The group recently sold out their entire 28-day run at the Edinburgh Fringe Festival, where they were also invited to perform alongside Jimmy Carr, John Bishop, Brendan Burns, Rich Fulcher and many others. "Flight of the Conchords meets 8 Mile. Nothing short of genius." - Chortle.co.uk Gordon Southern With years of comedy experience under his belt Gordon Southern is one of the most sought after headline acts on the UK and international circuit. His upbeat and energetic delivery combined with his fantastically funny observational comedy &amp; quick witted improvisation has secured his place as an audience favourite. An award winning writer with critical acclaim for numerous projects that he has worked on, Southern has written for some of the most memorable comedy shows of the last decade. Best Of The Fest - Australia - April 2009 - Beat Magazine "Top class all round" The Sunday Times "Razor sharp wit and cavernous imagination" Evening Standard "Hugely talented... Very funny" Time Out "Worth the admission price alone" City Life "An energetic mirth making talent that would shame many comics with years more experience... A cracking night" The Scotsman Go to www.scipmylo.co.uk or www.ticketweb.co.uk/scipmylo/ for tickets&lt;/p&gt;</long_description>
+  <venue>
+    <id>1388</id>
+    <name>Shoreditch Town Hall</name>
+    <street></street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC1V 9LT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13567</id>
+  <name>Laugh</name>
+  <promoter>Ginglik</promoter>
+  <start_time>2011-09-13T19:30:00Z</start_time>
+  <end_time>2011-09-13T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Tony Law, Horse &amp; Louis, Chris Turner, Joe Wilson, MC Tom Allen</artists>
+  <tags>stand up, comedy, tuesday, Tony Law, Horse &amp; Louis, Chris Turner, Joe Wilson, MC Tom Allen</tags>
+  <costs>&#163;8 book in advance by calling 02073488968</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13567/original/tony-law-picture.jpg?1314176663</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.ginglik.co.uk</web_url>
+  <short_description>Ginglik&#8217;s fortnightly stand up comedy night brings you high quality comedy from the best on the circuit.</short_description>
+  <long_description>&lt;p&gt;Ginglik&#8217;s fortnightly stand up comedy night brings you high quality comedy from the best on the circuit. This week we have: Tony Law Winner Of The 2E Fringe Award 2011 Horse &amp; Louis &#8220;Folk, rock comedy extravaganza! &#8220; Stage Chris Turner Finalist In The BBC New Comedian Of The Year 2011 Joe Wilson &#8220;Excellent&#8221; Channel 4 MC Tom Allen &#8216;An absolute must see&#8217; **** ThreeWeeks &#8216;Delightful&#8217; **** Chortle Laugh at Ginglik is recommended by Londonisfunny.com Booked by CKP www.ginglik.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>6</id>
+    <name>Ginglik</name>
+    <street>1 Shepherds Bush Green</street>
+    <area>Shepherds Bush</area>
+    <city>London</city>
+    <postcode>W12 8PH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5042906</latitude>
+      <longitude>-0.2196216</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13579</id>
+  <name>Red in the Face Comedy at nYne Lounge , Bexleyheath</name>
+  <promoter>Nyne Lounge</promoter>
+  <start_time>2011-09-14T17:00:00Z</start_time>
+  <end_time>2011-09-14T22:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Christian Steel, Nik Coppin, Ben Harrington , David Baker</artists>
+  <tags>Comedy , Bexleyheath, Nyne Lounge, Bexley,  Red In The Face</tags>
+  <costs>&#163;6 - Advance Tickets available from nYne Lounge Bexleyheath </costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13579/original/red_in_the_face.jpg?1314187361</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.nynelounge.com </web_url>
+  <short_description>Join us for our 1st Birthday Celebrations and see the best, live stand-up comedy in the intimate nYne Lounge, Bexleyheath. Fresh from the London circuit our comedians guarantee a great night out. 
+It's central London entertainment on your doorstep.</short_description>
+  <long_description>&lt;p&gt;Red in the Face is back at nYne Lounge on Wednesday 14th September with three amazing acts, a top compere plus a first birthday to celebrate. This night is guaranteed to be unmissable as all our comedians come fresh from the London circuit and we are proud to give you a taste of the city on your doorstep. Advance Tickets - &#163;6 Doors - 6pm Comedians - from 8PM MC - Christian Steel A huge Red in the Face favourite who is a regular at The Comedy Cafe and Jongleurs and has been compere several times at nYne Lounge. Christian will be welcoming three top comedians to the stage on nYne Lounge we are proud to be hosting such Comedy talent. Nik Coppin has performed all over the world bringing his style and finesse to the international masses. As well as a regular on the UK comedy circuit and across Europe he has also performed as far afield as New Zealand and Australia. Ben Harrington is a regular across the South East Ben is equally at home as MC or in a stand up spot and has a great way with the audience. David Baker is one of only five British stand up comedians have been a guest on 'The Tonight Show with Jay Leno' - Ricky Gervais, Eddie Izzard, Russell Brand, Jimmy Carr and David Baker. David performs world-wide, including the UK, US, Canada and Australia. Over the past few years David Baker has won a host of prestigious awards and he will be headlining on this special night. Our previous Comedy nights have always sold out so make sure you get to nYne lounge to purchase your tickets asap and as always our bar-tending team will be on stand by ready to shake you up a cocktail or two so it is one not to be missed. Web : http://www.nynelounge.com Facebook : NYne Bexleyheath&lt;/p&gt;</long_description>
+  <venue>
+    <id>4029</id>
+    <name>nYne Lounge</name>
+    <street>267 Broadway </street>
+    <area>Bexleyheath</area>
+    <city>Kent </city>
+    <postcode>DA6 8DB</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4577559</latitude>
+      <longitude>0.1366643</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13070</id>
+  <name>Com Comedy presents The Edinburgh Wrap Party</name>
+  <promoter>Mothership London Ltd</promoter>
+  <start_time>2011-09-14T18:30:00Z</start_time>
+  <end_time>2011-09-14T23:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Joel Dommett</artists>
+  <tags>Comedy, Stand Up, Shoreditch, Comedians, Joel Dommett, Edinburgh Fringe Festival, Pick of the Fringe</tags>
+  <costs>&#163;5 after 7.30pm</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13070/original/JoelDommett.jpg?1313079469</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thequeenofhoxton.co.uk</web_url>
+  <short_description>Com Comedy present the latest acts from the Stand Up Comedy World selected from the best of this years Edinburgh Fringe Festival. Joel Dommett hosts with special guests fresh from the fringe.</short_description>
+  <long_description>&lt;p&gt;ComComedy Live are hosting a wrap party to welcome our favourite acts back to London. The night will be hosted by the incredible Joel Dommett, and the line up will consist of the finest acts ComComedy have discovered over their month at Edinburgh.&lt;/p&gt;</long_description>
+  <venue>
+    <id>1397</id>
+    <name>Queen Of Hoxton</name>
+    <street>1 Curtain Road</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 3JX</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5222659</latitude>
+      <longitude>-0.0811886</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12646</id>
+  <name>Scipmylo Comedy Festival</name>
+  <promoter>Scipmylo Festival</promoter>
+  <start_time>2011-09-14T19:00:00Z</start_time>
+  <end_time>2011-09-14T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Michael Legge, Los Quatros C**ts, Hal Cruttenden, Phil Nichol, Kevin Eldon, Joe Lycett, Sarah Calman, Boy With Tape on His Face</artists>
+  <tags>Michael Legge, Hal Cruttenden, Phil Nichol, Kevin Eldon, Comedy Festival, Sarah Calman, Boy With Tape On His Face, Scipmylo, Scipmylo.co.uk, www.scipmylo.co.uk, Comedy Festival, Comedy, Comedy Cafe, Shoreditch, Shoreditch Townhall, Los Quatros C**nts, Joe</tags>
+  <costs>Assembly Hall - &#163;17.50 - &#163;16.00 Concession, Large Committee Room - &#163;12.00 - &#163;11.00 Concession, Mayors Parlour - &#163;9.00 - &#163;8.00 Concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12646/original/COMEDYMASTHEAD.jpg?1312374872</image_url>
+  <ticket_url>http://www.ticketweb.co.uk/scipmylo/</ticket_url>
+  <web_url>http://www.scipmylo.co.uk </web_url>
+  <short_description>East London is set to become a destination in its own right as a result of the Olympics, and the launch of Scipmylo brings a compelling reason for people to visit this fantastic, undiscovered corner of London long after the athletes have left. </short_description>
+  <long_description>&lt;p&gt;Best of the Chrotle Awards - Shoreditch Town Hall / The Assembly Hall: 8.30pm The Chortle Awards are among the most prestigious on the comedy circuit and will be showcasing some of the brightest talent on the comedy circuit today Among the winners appearing at Shoreditch Town Hall on September 14 is one of the most familiar faces in British comedy, Kevin Eldon, winner of the best show accolade this year. His CV is a catalogue of the finest comedy films and TV programmes in recent years, including Hot Fuzz, Nighty Night, Smack The Pony, Brass Eye, Hyperdrive and Stewart Lee&#8217;s Comedy Vehicle. This fabulous show will be compered by Susan Calman, one of the fastest rising stars in comedy who was nominated as best compere this year, and will be especially well known to audiences of Radio 4&#8217;s News Quiz. She&#8217;s got an infectious bubbly manner but a caustic edge too, and both will yield comedy gold in Shoreditch this September. Kiwi comic Sam Wills, known as The Boy With Tape on His Face was the 2011 Breakthrough Act Award Winner, with an act that is now making waves on the international comedy circuit. Delightful, wry, many-layered and hilarious, The Boy With Tape on His Face transcends the barriers of language and culture. Phil Nichol: Simple Hour - Shoreditch Town Hall / Large Committee Room: 8.30pm Phil Nichol is a truly unique performer. An acclaimed actor, multi award winning comedian, producer, presenter, writer and musician there is no end to his talent. "seismically powerful award-winning comic force" (The Scotsman) Hal Cruttenden - Shoreditch Town Hall / The Mayors Parlour: 8.00pm Hal Cruttenden brings his incredible show to Shoreditch "done with high camp and nattily constructed punchlines, it definitely holds charm."(The Guardian) Michael Legge Presents Los Quattros C**ts - Shoreditch Town Hall / The Council Chamber: 8.00pm Michael Legge, Dan Mersh, Jeremy Limb and Paul Litchfield force comedic magic down the throat of a paying audience in this lovely show. Prepare to be forcibly charmed and violently tickled with sketches and laughs aplenty. These blood-thirsty scamps will certainly have you rolling for mercy in the aisles. Go to www.scipmylo.co.uk or www.ticketweb.co.uk/scipmylo/ for tickets&lt;/p&gt;</long_description>
+  <venue>
+    <id>1388</id>
+    <name>Shoreditch Town Hall</name>
+    <street></street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC1V 9LT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12648</id>
+  <name>Scipmylo Comedy Festival</name>
+  <promoter>Scipmylo Festival</promoter>
+  <start_time>2011-09-14T19:00:00Z</start_time>
+  <end_time>2011-09-14T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Michael Legge, Los Quatros C**ts, Hal Cruttenden, Phil Nichol, Kevin Eldon, Joe Lycett, Sarah Calman, Boy With Tape on His Face</artists>
+  <tags>Michael Legge, Hal Cruttenden, Phil Nichol, Kevin Eldon, Comedy Festival, Sarah Calman, Boy With Tape On His Face, Scipmylo, Scipmylo.co.uk, www.scipmylo.co.uk, Comedy Festival, Comedy, Comedy Cafe, Shoreditch, Shoreditch Townhall, Los Quatros C**nts, Joe</tags>
+  <costs>Assembly Hall - &#163;17.50 - &#163;16.00 Concession, Large Committee Room - &#163;12.00 - &#163;11.00 Concession, Mayors Parlour - &#163;9.00 - &#163;8.00 Concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12648/original/COMEDYMASTHEAD.jpg?1312375262</image_url>
+  <ticket_url>http://www.ticketweb.co.uk/scipmylo/</ticket_url>
+  <web_url>http://www.scipmylo.co.uk</web_url>
+  <short_description>East London is set to become a destination in its own right as a result of the Olympics, and the launch of Scipmylo brings a compelling reason for people to visit this fantastic, undiscovered corner of London long after the athletes have left. </short_description>
+  <long_description>&lt;p&gt;Best of the Chrotle Awards - Shoreditch Town Hall / The Assembly Hall: 8.30pm The Chortle Awards are among the most prestigious on the comedy circuit and will be showcasing some of the brightest talent on the comedy circuit today Among the winners appearing at Shoreditch Town Hall on September 14 is one of the most familiar faces in British comedy, Kevin Eldon, winner of the best show accolade this year. His CV is a catalogue of the finest comedy films and TV programmes in recent years, including Hot Fuzz, Nighty Night, Smack The Pony, Brass Eye, Hyperdrive and Stewart Lee&#8217;s Comedy Vehicle. This fabulous show will be compered by Susan Calman, one of the fastest rising stars in comedy who was nominated as best compere this year, and will be especially well known to audiences of Radio 4&#8217;s News Quiz. She&#8217;s got an infectious bubbly manner but a caustic edge too, and both will yield comedy gold in Shoreditch this September. Kiwi comic Sam Wills, known as The Boy With Tape on His Face was the 2011 Breakthrough Act Award Winner, with an act that is now making waves on the international comedy circuit. Delightful, wry, many-layered and hilarious, The Boy With Tape on His Face transcends the barriers of language and culture. Phil Nichol: Simple Hour - Shoreditch Town Hall / Large Committee Room: 8.30pm Phil Nichol is a truly unique performer. An acclaimed actor, multi award winning comedian, producer, presenter, writer and musician there is no end to his talent. "seismically powerful award-winning comic force" (The Scotsman) Hal Cruttenden - Shoreditch Town Hall / The Mayors Parlour: 8.00pm Hal Cruttenden brings his incredible show to Shoreditch "done with high camp and nattily constructed punchlines, it definitely holds charm."(The Guardian) Michael Legge Presents Los Quattros C**ts - Shoreditch Town Hall / The Council Chamber: 8.00pm Michael Legge, Dan Mersh, Jeremy Limb and Paul Litchfield force comedic magic down the throat of a paying audience in this lovely show. Prepare to be forcibly charmed and violently tickled with sketches and laughs aplenty. These blood-thirsty scamps will certainly have you rolling for mercy in the aisles. Go to www.scipmylo.co.uk or www.ticketweb.co.uk/scipmylo/ for tickets&lt;/p&gt;</long_description>
+  <venue>
+    <id>1388</id>
+    <name>Shoreditch Town Hall</name>
+    <street></street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC1V 9LT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12364</id>
+  <name>Hardeep Singh Kohli - The Nearly Naked Chef</name>
+  <promoter>Landmark Arts Centre</promoter>
+  <start_time>2011-09-15T18:30:00Z</start_time>
+  <end_time>2011-09-15T20:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Hardeep Singh Kohli</artists>
+  <tags>Cooking, comedy, Hardeep Singh Kohli, One man show</tags>
+  <costs>&#163;15 , &#163;13 </costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12364/original/Hardeep_SK.JPG?1311870975</image_url>
+  <ticket_url>http://www.wegottickets.com</ticket_url>
+  <web_url>http://www.landmarkartscentre.org</web_url>
+  <short_description>Grab a seat and tuck in as this celebrated broadcaster , raconteur &amp; writer combines comedy &amp; cooking in a wonderful, laid back evening show.</short_description>
+  <long_description>&lt;p&gt;Just think Ready, Steady, Cook but with great cooking (Hardeep was a finalist on the first series of Celebrity Masterchef) and funny anecdotes, all delivered by Hardeep in his own unique, articulate and utterley charming way.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3902</id>
+    <name>Landmark Arts Centre</name>
+    <street>Ferry Road</street>
+    <area>Teddington</area>
+    <city>London</city>
+    <postcode>TW11 9NN</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4288907</latitude>
+      <longitude>-0.3242041</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12614</id>
+  <name>Jim Davidson The Legend</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-09-15T18:30:00Z</start_time>
+  <end_time>2011-09-15T21:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Jim Davidson </artists>
+  <tags>Comedy, Jim Davidson</tags>
+  <costs>&#163;20.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12614/original/Copy_of_Jim-The_Legend_pic.jpg?1312365036</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3475&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/whats-on/jim-davidson-the-legend/</web_url>
+  <short_description>A hysterical evening of stand up comedy featuring one of
+Britain&#8217;s greatest ever comedians.</short_description>
+  <long_description>&lt;p&gt;The incomparable JIM DAVIDSON live, dangerous and as uncompromising as ever. A hysterical evening of stand up comedy featuring one of Britain&#8217;s greatest ever comedians. For a limited tour, the legend that is JIM DAVIDSON &#8211; Live on stage. A night not to be missed! STRICTLY ADULTS ONLY 18+&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12653</id>
+  <name>Scipmylo Comedy Festival</name>
+  <promoter>Scipmylo Festival</promoter>
+  <start_time>2011-09-15T19:00:00Z</start_time>
+  <end_time>2011-09-15T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Katherine Ryan, Paul Chowdhry, Imran Yusuf, Slim, Kojo, Prince Abdi, Rudi Lickwood, Rob Tarbuck, Phil Nichol, Eddie Kadi</artists>
+  <tags>Katherine Ryan, Rudi Lickwood, Eddi Kadi, Kojo, Slim, Prince Abdi, Phil Nichol, Rob Tarbuck</tags>
+  <costs>Assembly Hall - &#163;15.00 - &#163;14.00 Concession, Large Committee Room - &#163;12.00 - &#163;11.00 Concession, Mayors Parlour - &#163;8.00 - &#163;7.00 Concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12653/original/COMEDYMASTHEAD.jpg?1312376524</image_url>
+  <ticket_url>http://www.ticketweb.co.uk/scipmylo/</ticket_url>
+  <web_url>http://www.scipmylo.co.uk </web_url>
+  <short_description>East London is set to become a destination in its own right as a result of the Olympics, and the launch of Scipmylo brings a compelling reason for people to visit this fantastic, undiscovered corner of London long after the athletes have left. </short_description>
+  <long_description>&lt;p&gt;Rudi Lickwood Presents The Urbann Comedy Trip - Shoreditch Town Hall / Assembly Hall: 8.30pm Scipmylo and Rudi Lickwood proudly presents London's best line up of Urban Comedy this year featuring Eddie Kadi who is literally cleaning up on the comedy circuit. Alongside Eddie Kadi, there is also Kojo, The Fresh Prince of Hackney bringing his rocking set home, Slim, Imran Yusuf and Prince Abdi the award winning Anglo-Somali stand and the brilliantly self assured Paul Chowdhry - "Destined for greatness" - BBC Radio London Katherine Ryan: Little Miss Conception - Shoreditch Town Hall / The Mayors Parlour: 8.00pm Can we ever truly escape our childhood indoctrinations? A dazzling show with twisted observations, invigorating pop music parodies, and more from this hilarious award-winning stand up. 'Warped wit...striking presence...killer lines...calm confidence' (Scotsman) As seen on C4's CAMPUS, Big Brother's Big Mouth and the BAFTA-nominated Routes. Phil Nichol: Simple Hour - Shoreditch Town Hall / Large Committee Room: 8.30pm Phil Nichol is a truly unique performer. An acclaimed actor, multi award winning comedian, producer, presenter, writer and musician there is no end to his talent. "seismically powerful award-winning comic force" (The Scotsman) Go to www.scipmylo.co.uk or www.ticketweb.co.uk/scipmylo/ for tickets&lt;/p&gt;</long_description>
+  <venue>
+    <id>1388</id>
+    <name>Shoreditch Town Hall</name>
+    <street></street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC1V 9LT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13692</id>
+  <name>Free and Funny in Angel</name>
+  <promoter>Angel Comedy</promoter>
+  <start_time>2011-09-15T19:00:00Z</start_time>
+  <end_time>2011-09-15T19:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Luke Toulson, Phil Higgins, James Gill, Barry Ferns</artists>
+  <tags>Free stand up comedy, Stand up, comedy, stand up comedy, free comedy, free stand up, Open mic comedy, open spot , new acts, new comedians, best open mic night, london comedy, london stand up, angel stand up, Islington comedy</tags>
+  <costs>FREE</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13692/original/open-mic.jpg?1314322673</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.freeandfunny.co.uk</web_url>
+  <short_description>The best free new act and new material open mic night in London returns with Hackney Empire new act of the year, Luke Toulson, headlining. A fun night and enjoyable atmosphere guaranteed. And it's free!</short_description>
+  <long_description>&lt;p&gt;The friendliest and most free (!) new act night in London returns for it's regular Thursday slot with a host of new comedians and more experienced acts trying new sets. A fun and energetic night is guaranteed with Barry Ferns hosting and Luke Toulson headlining.&lt;/p&gt;</long_description>
+  <venue>
+    <id>1448</id>
+    <name>Camden Head</name>
+    <street>2 Camden Walk</street>
+    <area>Islington</area>
+    <city>London</city>
+    <postcode>N1 8DY</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5356296</latitude>
+      <longitude>-0.103164</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12661</id>
+  <name>Scipmylo Comedy Festival</name>
+  <promoter>Scipmylo Festival</promoter>
+  <start_time>2011-09-16T18:00:00Z</start_time>
+  <end_time>2011-09-16T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Paul Daniels, John Archer, Javier Jarquin, Dana Alexander, Sean Hughes, Carl Donnelly, Cuban Brothers, Tiernan Douieb</artists>
+  <tags>The Cuban Brothers, Comedy Cafe, Comedy Festival, Comedy, Paul Daniels, John Archer, Javier Jarquin, Tiernan Douieb, Sean Hughes, Carl Donnelly, Scipmylo, scipmylo.co.uk, www.scipmylo.co.uk, Shoreditch, Shoreditch Town Hall, East End, Dana Alexander, Debb</tags>
+  <costs>Assembly Hall - &#163;17.50 - &#163;16.00 Concession, Large Committee Room - &#163;12.00 - &#163;11.00 Concession, Mayors Parlour - &#163;9.00 - &#163;8.00 Concession, Council Chamber - &#163;12.00 - &#163;11.00 Concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12661/original/COMEDYMASTHEAD.jpg?1312380748</image_url>
+  <ticket_url>http://www.ticketweb.co.uk/scipmylo/</ticket_url>
+  <web_url>http://www.scipmylo.co.uk</web_url>
+  <short_description>East London is set to become a destination in its own right as a result of the Olympics, and the launch of Scipmylo brings a compelling reason for people to visit this fantastic, undiscovered corner of London long after the athletes have left.</short_description>
+  <long_description>&lt;p&gt;Magic &amp; Mischief with Paul Daniels, John Archer and Magical Guests - Shoreditch Town Hall / Assembly Room: 7.00pm TV Star and comedy magician Paul Daniels headlines a huge line up of magic, mystery, mirth and mischief. Daniels is one of the biggest names in the magic world and one of the most entertaining stage magicians in the UK today. Magic &amp; Mischief is also starring John Archer, winner of the 'Magic Circle Stage Magician of the Year' and one of the funniest and most talented magicians in the UK (and the go-to guy for Derren Browns parties). You'll also see Xavier Mortimer, famous in Paris for his awe inspiring illusions, witty and playful characters and theatrical musical pieces filled with flawless magic, mime and juggling. Also performing is Javier Jarquin 'The Card Ninja', who's skills with cards is inspiring, the stunts he can perform with a regular deck of cards will surprise you as he compares one of the finest magic shows London has seen this year. Tiernan Douieb : Tiernan Douieb Vs The World - Shoreditch Town Hall / Large Committee Room: 7.00pm Tiernan Douieb : Tiernan Douieb takes his comedy in a brave new direction with his new show, Tiernan Douieb Vs The World. For 30 years, Tiernan has blissfully ignored politics. Incredulous at the state of the world around him, he now finds himself on a steep political learning curve as he tackles everything from the coalition and the cuts to the burka and the Middle East. But plagued by the arguments and injustices he encounters, he wonders if ignorance might be bliss after all. He has supported Jim Jefferies, Russell Howard and worked as warm up for Mark Watson&#8217;s We Needs Answers and Dick and Dom&#8217;s Funny Business and, in 2009, invented and ran the world&#8217;s first ever Twitter Comedy Club with an estimated 14,000 viewers. Dana Alexander: New Arrival - Shoreditch Town Hall / The Mayors Parlour: 7.00pm One of Canada&#8217;s most outspoken and hilarious women is packing her bags for the UK and arriving on Edinburgh&#8217;s doorstep for a debut run at the festival this year. The only black female comedian currently on the circuit in Canada, Dana's comedic style is both refreshing and irreverent, drawing her material from her diverse lifestyle, her gay friends and her crazy Jamaican family. We are lucky enough to catch her festival debut direct from Edinburgh Fringe in London at the ScipMylo Comedy Festival. Sean Hughes - Shoreditch Town Hall / Council Chamber: 7.30pm Sean Hughes is best-known to TV audiences for his long-running stint as team captain on &#8216;Never Mind The Buzzcocks&#8217;. After an extended hiatus, Perrier award winner Hughes returns with his hugely impressive and intelligent stand up show, noted in equal measure for it's hilarity and raucous dark undercurrents. 'One of the best stand-ups of his generation' (Daily Telegraph) Carl Donnelly: Carl Donnelier - Shoreditch Town Hall / Council Chamber: 9.00pm Truly one of the UK's most up and coming comedians, Carl Donnelly comes to Shoreditch with another year's worth of tales of idiocy that critics and audiences have been flocking to see all over the UK. Two years ago, Carl was nominated for the Edinburgh Comedy Award Best Newcomer, and this third solo show proves he is already one of the UK's finest. "Donnelly is a class act... he can squeeze a great deal of laughter out of the most mundane realities of every day existence" EDINBURGH FESTIVAL MAGAZINE Vegas Nights: The Best In Stand Up &amp; The Cuban Brothers - Shoreditch Town Hall / Assembly Hall: 9.30pm Born of the loins of seventies Havana, nurtured on a diet of soulful, sexy tunes and inspired by Cuban historical fact and mythology The Cuban Brothers deliver fresh live entertainment guaranteed to whip up a frenzy at every gig. Their legendary performance combines music, riotous comedy, and sensational dancing. 'A seriously A-list act' (The Guardian) the Cuban&#8217;s are joined by two Very Special Guests. Go to www.scipmylo.co.uk or www.ticketweb.co.uk/scipmylo/ for tickets&lt;/p&gt;</long_description>
+  <venue>
+    <id>1388</id>
+    <name>Shoreditch Town Hall</name>
+    <street></street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC1V 9LT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13449</id>
+  <name>Crack Comedy @ Hideaway, Streatham </name>
+  <promoter>AOB Limited</promoter>
+  <start_time>2011-09-16T18:00:00Z</start_time>
+  <end_time>2011-09-16T22:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Steve Best, Spencer Brown, Sarah Kendall, Sol Bernstein </artists>
+  <tags>live comedy, stand up, london comedy, crack comedy club, steve best, hideaway, sol bernstein , sarah kendall, spencer brown</tags>
+  <costs>&#163;10 in advance, &#163;12 on door, &#163;6 students</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13449/original/Crack_Comedy.jpg?1314008964</image_url>
+  <ticket_url>http://bit.ly/rfAHj9</ticket_url>
+  <web_url>http://www.hideawaylive.co.uk</web_url>
+  <short_description>Crack Comedy Club brings the best stand-up comics to London every week and &#8220;delivers a regular deluge of laughs&#8221; (spoonfed.co.uk). If you love comedy, you'll love Crack Comedy. </short_description>
+  <long_description>&lt;p&gt;Bringing you some of today's best stand-up comics every week, The Crack Comedy Club &#8220;delivers a regular deluge of laughs&#8221; (spoonfed.co.uk) and promises a fantastic night in this cosy and intimate venue. This week&#8217;s fabulous artists include the great visual comic, Steve Best, whom the Guardian describe as &#8220;rip-roaringly funny&#8221; with his mind-boggling array of gadgets, gags and guitar playing that keep his audiences in stitches; Spencer Brown, a young, and refreshingly goofy comedian who wows crowds with his childlike anarchy and Looney Tunes physicality in performances described by Time Out as &#8220;more an event than a gig.&#8221; Sarah Kendall also takes to the stage, a "thoughtful, intelligent, subtle, enlightening and&#8230; really funny&#8221; young Australian comedian with tonnes of international experience; as well as the legendary Sol Bernstein, &#8220;an instantly winning creation&#8221; say The Independent, who has broken all the barriers in comedy and promises a performance like nothing you&#8217;ve ever seen before! If you love comedy, you'll love Crack Comedy. Valid student ID required&lt;/p&gt;</long_description>
+  <venue>
+    <id>3801</id>
+    <name>Hideaway</name>
+    <street>2 Empire Mews</street>
+    <area>Streatham</area>
+    <city>London</city>
+    <postcode>SW16 2ED</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4271977</latitude>
+      <longitude>-0.1308318</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12665</id>
+  <name>Scipmylo Comedy Festival</name>
+  <promoter>Scipmylo Festival</promoter>
+  <start_time>2011-09-17T18:00:00Z</start_time>
+  <end_time>2011-09-17T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Ed Byrne, Kate Lucas, Andrew Maxwell</artists>
+  <tags>scipmylo.co.uk, Scipmylo, www.scipmylo.co.uk, Ed Byrne, Kate Lucas, Andrew Maxwell, Shoreditch Town Hall, Shoreditch, Comedy, Comedy Festival, Comedy Cafe, Olympics</tags>
+  <costs>Assembly Hall - &#163;17.50 - &#163;16.00 Concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12665/original/COMEDYMASTHEAD.jpg?1312382073</image_url>
+  <ticket_url>http://www.ticketweb.co.uk/scipmylo/</ticket_url>
+  <web_url>http://www.scipmylo.co.uk</web_url>
+  <short_description>East London is set to become a destination in its own right as a result of the Olympics, and the launch of Scipmylo brings a compelling reason for people to visit this fantastic, undiscovered corner of London long after the athletes have left. </short_description>
+  <long_description>&lt;p&gt;Ed Byrne with Kate Lucas - Shoreditch Town Hall / Assembly Hall: 7.00pm Star of Mock the Week and veteran stand-up, Irish comic superstar Ed Byrne descends upon Shoreditch with his razor sharp witticism and intelligent observations. "Byrne is at the top of his game&#8221; (The Sunday Telegraph) &#8220;Ed Byrne is a class apart" (London Evening Standard). Exploding onto the comedy scene Kate Lucas delivers a unique blend of sweet, self-deprecating humour with a dark, dry wit that resonates through her songs and playfully bitter musings on life. Andrew Maxwell - Shoreditch Town Hall / Assembly Hall: 9.30pm Andrew continues to dominate the live and festival circuits. Notable appearances have included several sell-out shows at the Edinburgh Festival Fringe, The Amnesty / Channel Four Secret Policeman's Ball (alongside Eddie Izzard, Chevy Chase and Dylan Moran, The HBO US Comedy &amp; Arts Festival in Las Vegas (alongside Jerry Seinfeld and Chris Rock), several sell-out runs in the main house of London's Soho Theatre, Kilkenny Cat Laughs Festival, Glastonbury and the Montreal Just for Laughs Festival. Go to www.scipmylo.co.uk or www.ticketweb.co.uk/scipmylo/ for tickets&lt;/p&gt;</long_description>
+  <venue>
+    <id>1388</id>
+    <name>Shoreditch Town Hall</name>
+    <street></street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC1V 9LT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13693</id>
+  <name>Angel Comedy</name>
+  <promoter>Angel Comedy</promoter>
+  <start_time>2011-09-17T19:00:00Z</start_time>
+  <end_time>2011-09-17T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Tim Shishodia, Jim Cambell, David Bussell, Tony Tinman, Barry Ferns</artists>
+  <tags>Free stand up comedy, Free comedy london, Free stand up london, Free comedy Islington, Comedy Angel, stand up  islington, stand up angel, Free angel, free islington, free london, best free comedy night london</tags>
+  <costs>FREE</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13693/original/free_comedy_london.jpg?1314323227</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.angelcomedy.co.uk</web_url>
+  <short_description>The only free professional stand up comedy night in London hosts a wonderful and fun night of comedy and all for free in Angel, Islington. A fun and excellent night of comedy is guaranteed.</short_description>
+  <long_description>&lt;p&gt;This free, professional stand up comedy night in Angel, Islington, London is running a night of wonderful acts this week with some of the very best finallists and new acts on the circuit. The line-up this evening includes Leicester Square new act of the year 2011 - Tim Shishodia, FHM new act finallist - Jim Campbell, MOBI laugh winner David Bussell, among another winning and hilarious bill of comedians in this, the only free stand up comedy night in London. A professional night full of laughs guaranteed. All MC'd by TME sensei Barry Ferns&lt;/p&gt;</long_description>
+  <venue>
+    <id>1448</id>
+    <name>Camden Head</name>
+    <street>2 Camden Walk</street>
+    <area>Islington</area>
+    <city>London</city>
+    <postcode>N1 8DY</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5356296</latitude>
+      <longitude>-0.103164</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13218</id>
+  <name>James Mullinger, Live Stand Up</name>
+  <promoter>The Exhibit</promoter>
+  <start_time>2011-09-18T18:00:00Z</start_time>
+  <end_time>2011-09-18T20:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>James Mullinger</artists>
+  <tags>James Mullinger, Live Comedy, The Exhibit</tags>
+  <costs>&#163;5</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13218/original/jm_5110_1_.jpg?1313499591</image_url>
+  <ticket_url>http://www.wegottickets.com/event/123388</ticket_url>
+  <web_url>http://www.theexhibit.co.uk</web_url>
+  <short_description>Straight from his last sold out tour, James Mullinger comes to his hometown with a brand new hour of the hilarious and insightful anecdote based stand up.</short_description>
+  <long_description>&lt;p&gt;Straight from his last sold out tour, James Mullinger comes to his hometown with a brand new hour of the hilarious and insightful anecdote based stand up that has made him one of the most popular comedians on the international circuit and led the Evening Standard to describe him as "something of a sensation". Mullinger began his stand up career in 2004 and then stormed the Just For Laughs festival in Montreal in 2005 and 2006. Since then, he has been seen performing with Jimmy Carr on his DVD 'Stand Up' (Carr describes Mullinger as "a great stand up") and also alongside Robin Ince and Rufus Hound on panel show Street Cred Sudoku. His first tour about his life as a male feminist 'The Bad Boy Of Feminism' was Pick Of The Week in both The Guardian and The Sunday Times Culture and was described by Shappi Khorsandi as "fast paced, intelligent and very very funny" and by Iain Morris (creator of The Inbetweeners) as "hernia inducingly funny". The Guardian recently described Mullinger as "one to watch" and the Mail On Sunday commented that "At the heart of this raw show lie some serious points". It's an hour of pure, unadulterated stand up and stories from Mullinger's unique life. Be sure to book early &#8211; his last show at The Exhibit sold out in days.&lt;/p&gt;</long_description>
+  <venue>
+    <id>48</id>
+    <name>The Exhibit</name>
+    <street>12 Balham Station Road</street>
+    <area>Balham</area>
+    <city>London</city>
+    <postcode>SW12 9SG</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4433297</latitude>
+      <longitude>-0.1516076</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13450</id>
+  <name>Sunday Comedy Club @ Hideaway, Streatham</name>
+  <promoter>AOB Limited</promoter>
+  <start_time>2011-09-18T18:00:00Z</start_time>
+  <end_time>2011-09-18T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>TBC</artists>
+  <tags>live comedy, london comedy, hideaway, comedy club, credit crunch comedy, touch of class, comedians, comedy roast</tags>
+  <costs>&#163;10 on the door</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13450/original/Sunday_Comedy_Club_flyer.jpg?1314009422</image_url>
+  <ticket_url>http://bit.ly/oBSQ1r</ticket_url>
+  <web_url>http://www.hideawaylive.co.uk</web_url>
+  <short_description>Stand up comedy from the promoters who do the big theatre comedy shows such as Touch of Class, Comedy Roast and Credit Crunch Comedy &#8211; each show features at least five acts, with a star headliner! </short_description>
+  <long_description>&lt;p&gt;Promising a marvellous 5-act line-up each week, The Sunday Comedy Club never fails to bring you a unique collection of urban comedians with regular appearances from the biggest and funniest names in comedy, including Richard Blackwood, Kane Brown, Slim, Will E Robo, Tony Hendrix, Quincy, Wayne &#8220;Dibbi&#8221; Rollins, Annette Fagon, Mr Cee, Kevin J, Jamie Howard, Kwaku, Little Man, Axel The Entertainer, Johnny Cochran, Maureen Younger, Kayleigh Lewis, Jags, Variety D. This night is being organised by the two promoters behind big theatre comedy nights Comedy Roast, Touch Of Class and Credit Crunch Comedy. They have joined forces to bring you a new weekly comedy club. Please note - due to high demand, tables for the Sunday Comedy Club are only guaranteed for purchases of 4 or more tickets.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3801</id>
+    <name>Hideaway</name>
+    <street>2 Empire Mews</street>
+    <area>Streatham</area>
+    <city>London</city>
+    <postcode>SW16 2ED</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4271977</latitude>
+      <longitude>-0.1308318</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13684</id>
+  <name>Comedy Virgins!</name>
+  <promoter>The Cavendish Arms</promoter>
+  <start_time>2011-09-19T18:00:00Z</start_time>
+  <end_time>2011-09-19T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Gemma Beagley</artists>
+  <tags>free comedy</tags>
+  <costs>Free entry</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13684/original/Gemma_Beagley.jpg?1314301610</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thecavendisharmsstockwell.co.uk</web_url>
+  <short_description>Free entry open mic comedy night</short_description>
+  <long_description>&lt;p&gt;Busy, friendly open mic night for new and established comics every Monday and Tuesday at The Cavendish Arms. 15 booked acts perform 5mins each plus 5 open spots for sign up on the night. Beautiful seated venue, fully compered show, email in advance to book seats! Hosted by Gemma Beagley Food available.10mins walk to Stockwell and Vauxhall tubes. www.thecavendisharmsstockwell.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>2764</id>
+    <name>Cavendish Arms</name>
+    <street>128 Hartington Road</street>
+    <area>Vauxhall</area>
+    <city>London</city>
+    <postcode>SW8 2HJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.476544</latitude>
+      <longitude>-0.127692</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13687</id>
+  <name>Comedy Virgins!</name>
+  <promoter>The Cavendish Arms</promoter>
+  <start_time>2011-09-20T18:00:00Z</start_time>
+  <end_time>2011-09-20T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>David Armitage</artists>
+  <tags>free comedy</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13687/original/Comedy_Panorama.jpg?1314301948</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thecavendisharmsstockwell.co.uk</web_url>
+  <short_description>Free entry stand up comedy open mic night</short_description>
+  <long_description>&lt;p&gt;Busy, friendly open mic night for new and established comics every Monday and Tuesday at The Cavendish Arms. 15 booked acts perform 5mins each plus 5 open spots for sign up on the night. Beautiful seated venue, fully compered show, email in advance to book seats! Hosted by Dave 'dead baby bird' Armitage. Food available.10mins walk to Stockwell and Vauxhall tubes. www.thecavendisharmsstockwell.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>2764</id>
+    <name>Cavendish Arms</name>
+    <street>128 Hartington Road</street>
+    <area>Vauxhall</area>
+    <city>London</city>
+    <postcode>SW8 2HJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.476544</latitude>
+      <longitude>-0.127692</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13289</id>
+  <name>Barry Hilton Live</name>
+  <promoter>Clapham Grand</promoter>
+  <start_time>2011-09-22T18:00:00Z</start_time>
+  <end_time>2011-09-22T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Barry Hilton</artists>
+  <tags>Comedy , South African , Exclusive London Show, The Cousin</tags>
+  <costs>Tickets &#163;20</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13289/original/Barry_Hilton_Lon_4e2f1496b6bea_150x150.jpg?1313595807</image_url>
+  <ticket_url>http://www.satickets.co.uk/buy-tickets/details/32-barry-hilton-serial-comic</ticket_url>
+  <web_url>http://www.claphamgrand.com</web_url>
+  <short_description>Barry Hilton LIVE in London. 18+</short_description>
+  <long_description>&lt;p&gt;Barry Hilton LIVE in London as part of his "Serical Comic" UK and World Tour 2011. Come and join "The Cousin" for some Recession Depression Therapy for one night only at the Clapham Grand and in Bournemouth at the Marriott Bournemouth Highcliff Hotel. Doors open 7pm and show starts around 8pm. (show times vary) Tickets &#163;20 each and numbers limited as he will only have one show in London. 18+&lt;/p&gt;</long_description>
+  <venue>
+    <id>584</id>
+    <name>Clapham Grand</name>
+    <street>21-25 St John's Hill</street>
+    <area>Clapham</area>
+    <city>London</city>
+    <postcode>SW11 1TT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13694</id>
+  <name>Free and Funny in Angel</name>
+  <promoter>Angel Comedy</promoter>
+  <start_time>2011-09-22T19:00:00Z</start_time>
+  <end_time>2011-09-22T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Rosie Wilby, Pat Burtscher, Andrew Watts, David Kelly, Barry Ferns</artists>
+  <tags>Free stand up comedy london, Free comedy Angel, Islington comedy, Islington free, comedy free, open mic free, london comedy, london new act night, angel comedy, free and funny comedy</tags>
+  <costs>FREE</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13694/original/open-mic.jpg?1314323957</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.freeandfunny.co.uk</web_url>
+  <short_description>The best open mic stand up comedy night in London hosts a coterie of experienced and award winning acts tonight along with some acts trying stand up for the first time. A fun and cracking night is guaranteed - and all for free</short_description>
+  <long_description>&lt;p&gt;BBC Radio 4's Rosie Wilby headlines this night with Laughing horse new act finallist Andrew Watts, Multiple finallist Pat Burtscher and David Kelly performing as experienced acts as other comedians try stand up for the first time. A wonderful, friendly and fun night is guaranteed with MC Barry Ferns leading the carousel of comedy&lt;/p&gt;</long_description>
+  <venue>
+    <id>1448</id>
+    <name>Camden Head</name>
+    <street>2 Camden Walk</street>
+    <area>Islington</area>
+    <city>London</city>
+    <postcode>N1 8DY</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5356296</latitude>
+      <longitude>-0.103164</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13451</id>
+  <name>Crack Comedy @ Hideaway, Streatham</name>
+  <promoter>AOB Limited</promoter>
+  <start_time>2011-09-23T18:00:00Z</start_time>
+  <end_time>2011-09-23T22:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Jeff Innocent, Steve N Allen, Sol Bernstein, Special Guest</artists>
+  <tags>live comedy, crack comedy club, hideaway, london comedy, stand up, jeff innocent, steve n allen, sol bernstein</tags>
+  <costs>&#163;10 in advance, &#163;12 on door, &#163;6 students</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13451/original/Crack_Comedy.jpg?1314009861</image_url>
+  <ticket_url>http://bit.ly/rfAHj9</ticket_url>
+  <web_url>http://www.hideawaylive.co.uk</web_url>
+  <short_description>Crack Comedy Club brings the best stand-up comics to London every week and &#8220;delivers a regular deluge of laughs&#8221; (spoonfed.co.uk). If you love comedy, you'll love Crack Comedy. </short_description>
+  <long_description>&lt;p&gt;Bringing you some of today's best stand-up comics every week, The Crack Comedy Club &#8220;delivers a regular deluge of laughs&#8221; (spoonfed.co.uk) and promises a fantastic night in this cosy and intimate venue. This week&#8217;s boasts a truly brilliant line-up, including Jeff Innocent, so hilarious that the Evening Standard suggests &#8220;laws should be made ensuring every British Citizen goes and sees him&#8221;, this top comedy star will never disappoint with his &#8220;strong gags, confidence, and style that has the audience bending to his every whim" (Chortle); Steve N Allen also appears, a superb &#8220;charming and witty&#8221; (Chortle) comedian who mixes topical and observational material with an array of neat one-liners. As well as a special guest, the legendary Sol Bernstein will be taking the stage, &#8220;an instantly winning creation&#8221; say The Independent, who has broken all the barriers in comedy and promises a performance like nothing you&#8217;ve ever seen before! If you love comedy, you'll love Crack Comedy. Valid student ID required&lt;/p&gt;</long_description>
+  <venue>
+    <id>3801</id>
+    <name>Hideaway</name>
+    <street>2 Empire Mews</street>
+    <area>Streatham</area>
+    <city>London</city>
+    <postcode>SW16 2ED</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4271977</latitude>
+      <longitude>-0.1308318</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13695</id>
+  <name>Angel Comedy</name>
+  <promoter>Angel Comedy</promoter>
+  <start_time>2011-09-24T19:00:00Z</start_time>
+  <end_time>2011-09-24T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Adam Bloom, Prince Abdi, Paul Duncan McGarrity, Katerina Vrana</artists>
+  <tags>Free comedy london, free stand up london, Free Angel, Free Islington, Comedy Angel, Stand up Islington, Stand up angel, London free, Comedy night london, Professional comedy night london, Best comedy, fun comedy</tags>
+  <costs>FREE</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13695/original/free_comedy_london.jpg?1314326084</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.angelcomedy.co.uk</web_url>
+  <short_description>Adam Bloom heads the line up at London's only free professional stand up comedy night</short_description>
+  <long_description>&lt;p&gt;The only free professional stand up comedy night in London hosts Comedy Legend Adam Bloom as well as ITV "Show Me the Funny" star Prince Abdi. There will also be comedy from Katerina Vrana, Phil Higgins, Paul Duncan McGarrity and Sarah Pearce. MC Barry Ferns always creates a crackling atmosphere. Arrive early to avoid disappointment!&lt;/p&gt;</long_description>
+  <venue>
+    <id>1448</id>
+    <name>Camden Head</name>
+    <street>2 Camden Walk</street>
+    <area>Islington</area>
+    <city>London</city>
+    <postcode>N1 8DY</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5356296</latitude>
+      <longitude>-0.103164</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13453</id>
+  <name>Sunday Comedy Club @ Hideaway, Streatham</name>
+  <promoter>AOB Limited</promoter>
+  <start_time>2011-09-25T18:00:00Z</start_time>
+  <end_time>2011-09-25T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>TBC</artists>
+  <tags>live comedy, stand up, touch of class, comedy club, comedy roast, credit crunch comedy, comedians, london comedy, hideaway</tags>
+  <costs>&#163;10 on the door</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13453/original/Sunday_Comedy_Club_flyer.jpg?1314010395</image_url>
+  <ticket_url>http://bit.ly/o4D4y1</ticket_url>
+  <web_url>http://www.hideawaylive.co.uk</web_url>
+  <short_description>Stand up comedy from the promoters who do the big theatre comedy shows such as Touch of Class, Comedy Roast and Credit Crunch Comedy &#8211; each show features at least five acts, with a star headliner! </short_description>
+  <long_description>&lt;p&gt;Promising a marvellous 5-act line-up each week, The Sunday Comedy Club never fails to bring you a unique collection of urban comedians with regular appearances from the biggest and funniest names in comedy, including Richard Blackwood, Kane Brown, Slim, Will E Robo, Tony Hendrix, Quincy, Wayne &#8220;Dibbi&#8221; Rollins, Annette Fagon, Mr Cee, Kevin J, Jamie Howard, Kwaku, Little Man, Axel The Entertainer, Johnny Cochran, Maureen Younger, Kayleigh Lewis, Jags, Variety D. This night is being organised by the two promoters behind big theatre comedy nights Comedy Roast, Touch Of Class and Credit Crunch Comedy. They have joined forces to bring you a new weekly comedy club. Please note - due to high demand, tables for the Sunday Comedy Club are only guaranteed for purchases of 4 or more tickets.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3801</id>
+    <name>Hideaway</name>
+    <street>2 Empire Mews</street>
+    <area>Streatham</area>
+    <city>London</city>
+    <postcode>SW16 2ED</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4271977</latitude>
+      <longitude>-0.1308318</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13688</id>
+  <name>Comedy Virgins!</name>
+  <promoter>The Cavendish Arms</promoter>
+  <start_time>2011-09-26T18:00:00Z</start_time>
+  <end_time>2011-09-26T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Gemma Beagley</artists>
+  <tags>free comedy</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13688/original/IMG_6160.jpg?1314302265</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thecavendisharmsstockwell.co.uk</web_url>
+  <short_description>Free entry stand up open mic comedy night</short_description>
+  <long_description>&lt;p&gt;Busy, friendly open mic night for new and established comics every Monday and Tuesday at The Cavendish Arms. 15 booked acts perform 5mins each plus 5 open spots for sign up on the night. Beautiful seated venue, fully compered show, email in advance to book seats! Hosted by Gemma Beagley Food available.10mins walk to Stockwell and Vauxhall tubes. www.thecavendisharmsstockwell.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>2764</id>
+    <name>Cavendish Arms</name>
+    <street>128 Hartington Road</street>
+    <area>Vauxhall</area>
+    <city>London</city>
+    <postcode>SW8 2HJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.476544</latitude>
+      <longitude>-0.127692</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13689</id>
+  <name>Comedy Virgins!</name>
+  <promoter>The Cavendish Arms</promoter>
+  <start_time>2011-09-27T18:00:00Z</start_time>
+  <end_time>2011-09-27T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>David Armitage</artists>
+  <tags>free comedy</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13689/original/comedy.jpg?1314302724</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thecavendisharmsstockwell.co.uk</web_url>
+  <short_description>Free entry stand up open mic comedy night</short_description>
+  <long_description>&lt;p&gt;Busy, friendly open mic night for new and established comics every Monday and Tuesday at The Cavendish Arms. 15 booked acts perform 5mins each plus 5 open spots for sign up on the night. Beautiful seated venue, fully compered show, email in advance to book seats! Hosted by Dave 'dead baby bird' Armitage. Food available.10mins walk to Stockwell and Vauxhall tubes. www.thecavendisharmsstockwell.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>2764</id>
+    <name>Cavendish Arms</name>
+    <street>128 Hartington Road</street>
+    <area>Vauxhall</area>
+    <city>London</city>
+    <postcode>SW8 2HJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.476544</latitude>
+      <longitude>-0.127692</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13568</id>
+  <name>Laugh</name>
+  <promoter>Ginglik</promoter>
+  <start_time>2011-09-27T19:30:00Z</start_time>
+  <end_time>2011-09-27T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Adam Bloom, Joe K, Barnaby Slater, Laurence Tuck, MC Tom Craine</artists>
+  <tags>Stand up, comedy, Tuesday, Adam Bloom, Joe K, Barnaby Slater, Laurence Tuck, Tom Craine</tags>
+  <costs>&#163;8 book in advance by calling 02073488968</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13568/original/Adam-Bloom-new-col2.jpg?1314177268</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.ginglik.co.uk</web_url>
+  <short_description>Ginglik&#8217;s long running stand up comedy night brings you a bill of top quality comedians every fortnight.</short_description>
+  <long_description>&lt;p&gt;Ginglik&#8217;s long running stand up comedy night brings you a bill of top quality comedians every fortnight. This week we have: Adam Bloom &#8220;In the premier league of comedy&#8221; Independent &#8220;One of my favorite stand ups&#8221; Ricky Gervais &#8220;Bloom is perhaps the perfect comedian&#8221; The List Joe K As seen on Comedy Central&#8217;s World Stands Up Barnaby Slater &#8220;Brilliant, must see&#8221; ThreeWeeks Laurence Tuck &#8220;Brilliant&#8221; BBC MC Tom Craine &#8220;Wise, funny and Lyrical&#8221; The Observer Laugh at Ginglik is recommended by Londonisfunny.com Booked by CKP www.ginglik.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>6</id>
+    <name>Ginglik</name>
+    <street>1 Shepherds Bush Green</street>
+    <area>Shepherds Bush</area>
+    <city>London</city>
+    <postcode>W12 8PH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5042906</latitude>
+      <longitude>-0.2196216</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11272</id>
+  <name>Fascinating Aida: The Cheap Flights Tour</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-09-29T19:00:00Z</start_time>
+  <end_time>2011-09-29T21:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists></artists>
+  <tags>Olivier Award, Budget travel, Cheap Flights, Cabaret</tags>
+  <costs>&#163;17, &#163;19</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11272/original/Fascinating_Aida_Cheap_Flights_8_photo_credit_Steve_Ullathorne.jpg?1309516558</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>Three times Olivier Award nominated and now a worldwide internet sensation, Fascinating Aida are still Britain's best comedy cabaret trio.  </short_description>
+  <long_description>&lt;p&gt;This brand new show will include their infamous anthem to budget travel 'Cheap Flights' (which has had well over seven million hits on YouTube) as well as (according to The Times).... 'the dirtiest &amp; funniest song of the century so far', together with some old favourites. Take heed of the Mail on Sunday and 'see them before you die otherwise your life will have been meaningless'.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13641</id>
+  <name>Comedy Works at the Landmark</name>
+  <promoter>Landmark Arts Centre</promoter>
+  <start_time>2011-09-29T19:00:00Z</start_time>
+  <end_time>2011-09-29T21:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Tom Wrigglesworth,  The Raymond &amp; Mr Timpkins Revue</artists>
+  <tags>Tom Wrigglesworth, The Raymond &amp; Mr Timpkins Revue, Stand up, Comedy , Comedy club</tags>
+  <costs>&#163;10 in advance,  &#163;12 on the door., &#163;9 if you buy 6 or more tickets before September 22nd. Offernot available online</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13641/original/twrigglesworth08.jpg?1314287725</image_url>
+  <ticket_url>http://www.landmarkartscentre.org</ticket_url>
+  <web_url>http://www.landmarkartscentre.org</web_url>
+  <short_description>First acts confirmed for Landmark Art Centre's September comedy night.</short_description>
+  <long_description>&lt;p&gt;The Landmark's regular Comedy Works night has built up a reputation for top class live stand up comedy in an unusual setting. Is this the only comedy club in a former church? Further acts to be announced on our website www.landmarkartscentre.org , but please note acts can change at short notice. Doors &amp; bar open 7pm.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3902</id>
+    <name>Landmark Arts Centre</name>
+    <street>Ferry Road</street>
+    <area>Teddington</area>
+    <city>London</city>
+    <postcode>TW11 9NN</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4288907</latitude>
+      <longitude>-0.3242041</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13456</id>
+  <name>Crack Comedy @ Hideaway, Streatham</name>
+  <promoter>AOB Limited</promoter>
+  <start_time>2011-09-30T18:00:00Z</start_time>
+  <end_time>2011-09-30T22:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Erich McElroy, many more acts TBC</artists>
+  <tags>hideaway, london comedy, stand up, comedians, crack comedy club, live comedy, erich mcelroy</tags>
+  <costs>&#163;10 in advance, &#163;12 on door, &#163;6 students</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13456/original/Crack_Comedy.jpg?1314011568</image_url>
+  <ticket_url>http://bit.ly/rfAHj9</ticket_url>
+  <web_url>http://www.hideawaylive.co.uk</web_url>
+  <short_description>Crack Comedy Club brings the best stand-up comics to London every week and &#8220;delivers a regular deluge of laughs&#8221; (spoonfed.co.uk). If you love comedy, you'll love Crack Comedy. </short_description>
+  <long_description>&lt;p&gt;Bringing you some of today's best stand-up comics every week, The Crack Comedy Club &#8220;delivers a regular deluge of laughs&#8221; (spoonfed.co.uk) and promises a fantastic night in this cosy and intimate venue. As well as many more top name acts, the award winning Erich McElroy will take to the stage this week. This experienced and hilariously insightful comic writer is &#8220;funny from the start&#8221; say The List, and promises a "well-crafted show with jokes that hit" (The Scotsman). Promising performances like nothing you&#8217;ve ever seen before, if you love comedy, you'll love Crack Comedy! Valid student ID required.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3801</id>
+    <name>Hideaway</name>
+    <street>2 Empire Mews</street>
+    <area>Streatham</area>
+    <city>London</city>
+    <postcode>SW16 2ED</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4271977</latitude>
+      <longitude>-0.1308318</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13497</id>
+  <name>Dibbi's Rice 'n' Peas</name>
+  <promoter>Rich Mix</promoter>
+  <start_time>2011-09-30T19:00:00Z</start_time>
+  <end_time>2011-09-30T23:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Dibbi</artists>
+  <tags>Comedy, Black comedy</tags>
+  <costs>&#163;10, &#163;8 student / concs</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13497/original/comedy_dibbis.jpg?1314028134</image_url>
+  <ticket_url>http://www.richmix.org.uk/whats-on/event/dibbis-rice-n-peas/</ticket_url>
+  <web_url>https://uk.patronbase.com/_RM/Seats/NumSeats?prod_id=AB30&amp;perf_id=1&amp;section_id=BAR&amp;seat_type_id=S</web_url>
+  <short_description>New Variety Lives presents a weekend of heart warming comic delight, cherry picked from the rich abundance of Britain&#8217;s cultural mix.  Laughter is the spice of life and there&#8217;s truly something for everyone.
+
+</short_description>
+  <long_description>&lt;p&gt;New Variety Lives presents a weekend of heart warming comic delight, cherry picked from the rich abundance of Britain&#8217;s cultural mix. Laughter is the spice of life and there&#8217;s truly something for everyone. You are invited to an intimate rendezvous of &#8216;Fun&#8217; and a guaranteed outrageous, sexy, rude, and hilarious night out with Dibbi, the Black Comedy diva and her very special guests. Dibbi, Wayne Rollins&#8217; hilarious crossed-dressed comic character, is loved by everyone. She&#8217;s played with them all and performed all over the world. She&#8217;s looking for a TV deal, nice part in a soap opera, host a quiz show, shopping channel.... Tonight the delectable bearded Bajan bombshell sets out her comedy stall and kicks off Black History Month in a first class show, brimming with great music, sharp comedy the unforgettable Rice &#8216;n&#8217; Peas game show!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3239</id>
+    <name>RichMix</name>
+    <street>35-47 Bethnal Green Rd</street>
+    <area>Shoreditch </area>
+    <city>London</city>
+    <postcode>E1 6LA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12663</id>
+  <name>2Funy Comedy Show </name>
+  <promoter>2Funky</promoter>
+  <start_time>2011-10-01T18:45:00Z</start_time>
+  <end_time>2011-10-01T21:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Slim, Annette Fagan, Hyde Panaser, Mike Belgrave</artists>
+  <tags>Slim,  Comedy, Curve, Leicester, annette fagan, mike belgrave, hyde panaser</tags>
+  <costs>&#163;15</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12663/original/2Funy_Curve_E-Flyer_FRONT.jpg?1312382024</image_url>
+  <ticket_url>https://www.curvetickets.co.uk/online/mapSelect.asp</ticket_url>
+  <web_url>http://www.facebook.com/event.php?eid=167388889993592&amp;ref=ts</web_url>
+  <short_description>Be prepared for an evening of great laughter.</short_description>
+  <long_description>&lt;p&gt;Be prepared for an evening of great laughter (and strong language and explicit adult humour!) with some of the best comedian&#8217;s on the circuit. Headlining will be comedy&#8217;s best kept secret, Slim, fresh from his sold out one man tour. Joining him is Leicester&#8217;s Annette Fagan and Humili-Asian&#8217;s Hyde Panaser. Your compere is Mike Belgrave.&lt;/p&gt;</long_description>
+  <venue>
+    <id>474</id>
+    <name>Barbican: The Curve</name>
+    <street>Silk Street</street>
+    <area>City</area>
+    <city>London</city>
+    <postcode>EC2Y 8DS</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5195703</latitude>
+      <longitude>-0.0932128</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11335</id>
+  <name>Little Howard's Big Show</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-10-02T12:00:00Z</start_time>
+  <end_time>2011-10-02T14:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Little Howard</artists>
+  <tags>Children's comedy, Kids, CBBC</tags>
+  <costs>&#163;10, &#163;12, &#163;40 Family</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11335/original/Little_Howard_Big_Chance_image_1.jpg?1309774020</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>The Perrier Nominees and Royal Variet stars return with their biggest show yet.</short_description>
+  <long_description>&lt;p&gt;Big Howard and Little Howard's massively popular BBC1 show 'Little Howard's Big Question' is in danger after someone accidentally called the boss of CBBC a 'steaming bum face'. But tonight's show could turn their whole world around... as long as they don't muck anything up that is. Suggested for ages 6-11 years.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11336</id>
+  <name>Little Howard's Big Show</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-10-02T14:30:00Z</start_time>
+  <end_time>2011-10-02T16:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Little Howard</artists>
+  <tags>Children's comedy, Kids, CBBC</tags>
+  <costs>&#163;10, &#163;12, &#163;40 Family</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11336/original/Little_Howard_Big_Chance_image_1.jpg?1309774534</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>The Perrier Nominees and Royal Variety stars return with their biggest show yet.</short_description>
+  <long_description>&lt;p&gt;Big Howard and Little Howard's massively popular BBC1 show 'Little Howard's Big Question' is in danger after someone accidentally called the boss of CBBC a 'steaming bum-face'. But tonight's show could turn their whole world around... as long as they don't muck anything up that is. Suggested for ages 6-11 years.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10703</id>
+  <name>Milton Jone: Lion Whisperer</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-10-05T19:00:00Z</start_time>
+  <end_time>2011-10-05T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Milton Jones</artists>
+  <tags>Milton Jones, St Albans, Hertfordshire, The Alban Arena, Comedy, Mock the Week</tags>
+  <costs>&#163;17.50</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10703/original/Milton_Jones_S.jpg?1308579547</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3464&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/whats-on/milton-jones---lion-whisperer-/</web_url>
+  <short_description>Milton Jones: Lion Whisperer
+Support from James &#8216;Legend&#8217; Acaster
+
+&#8220;The best one-liner merchant in British Comedy&#8221; Chortle website.</short_description>
+  <long_description>&lt;p&gt;Wednesday 5 October 8.00pm Milton Jones, - you know the weird bloke with the shirts from Mock the Week. As well as star of the Michael Mcintyre Roadshow, and the voice of 9 series for Radio 4 (including The Very World of Milton Jones and Another Case of Milton Jones) and all sorts of other radio and telly as well. Awards too. Well it&#8217;s his new show with new stuff, not in his last show. Youtube him or something&#8230;. &#8216;Sultan of the surreal&#8217; The Guardian www.miltonjones.com&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10881</id>
+  <name>Bad Film Club: Anaconda</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-15T18:30:00Z</start_time>
+  <end_time>2011-10-15T20:45:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Jennifer Lopez, Ice Cube, Jon Voight, Owen Wilson</artists>
+  <tags>funny</tags>
+  <costs>&#163;5 </costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10881/original/Thumb-Bad-Film-Club-Anaconda.jpg?1308823097</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;badfilmclub</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>have you ever been stuck watching a film at the cinema and wanted to laugh out loud at the saccharine sweetness of a sappy moment?            </short_description>
+  <long_description>&lt;p&gt;have you ever been stuck watching a film at the cinema and wanted to laugh out loud at the saccharine sweetness of a sappy moment?Wanted to shout, &#8220;that would never happen&#8221; during any number of films starring Tom Cruise? Felt the urge to throw popcorn at the screen in protest? Well now you can!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10706</id>
+  <name>Fascinating Aida: The Cheap Flights Tour</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-10-18T18:30:00Z</start_time>
+  <end_time>2011-10-18T21:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Fascinating Aida</artists>
+  <tags>The Alban Arena, Hertfordshire, St Albans, Comedy, Fascinating Aida, Cabaret trio</tags>
+  <costs>&#163;18.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10706/original/Fascinating_Aida_S.jpg?1308580465</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3465&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/whats-on/fascinating-aida/</web_url>
+  <short_description>Fascinating A&#239;da: The Cheap Flights Tour</short_description>
+  <long_description>&lt;p&gt;Tuesday 18 October 7.30pm Three times Olivier Award nominated and now a global internet sensation, Fascinating A&#239;da are still Britain's best comedy cabaret trio. This brand new show will include several numbers hot off the press, plus a few old favourites including their infamous anthem to budget travel, Cheap Flights (6 million plus hits on YouTube) as well as The Dogging Song, a fond homage to the joys of al fresco sex. "Hilarious" **** Telegraph &#8220;The glamour is magnetic, the satire razor-sharp, the lyrics brilliant...intensely poignant&#8221; The Guardian "See them before you die otherwise your life will have been meaningless" Mail on Sunday www.fascinatingaida.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10707</id>
+  <name>Puppetry of the Penis</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-10-25T19:00:00Z</start_time>
+  <end_time>2011-10-25T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Puppetry of the Penis</artists>
+  <tags>St Albans, The Alban Arena, Hertfordshire, Comedy, Puppetry of the Penis</tags>
+  <costs>&#163;18.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10707/original/Puppetry_of_the_penis_S.jpg?1308581790</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3466&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/whats-on/puppetry-of-the-penis-2011/</web_url>
+  <short_description>The astonishing &amp; unforgettable ancient Australian art of genital origami &#8216;Puppetry Of The Penis&#8217; is back with a brand new show, and this time in 3D.
+</short_description>
+  <long_description>&lt;p&gt;Tuesday 25th October 8.00pm For the last dickade &#8216;Puppetry Of The Penis&#8217; has broken all box office records Worldwide. The new show will be utilizing the latest 3D projection technology with the audience been given 3D glasses to wear; experiencing this head shaking, outrageously funny production as it&#8217;s never been seen before. So real you can almost touch it!! Warning: This show contains traces of nut Puppetry of the Penis is a mind-blowing show featuring two strapping puppeteers who manipulate their genitals into various shapes, objects and landmarks. A video camera projects intimate details of these incredible phenomena onto a large screen ensuring that little can be missed, and this time in 3D, even in the cheap seats! &#8220;Charming&#8230;extraordinary&#8230; Don't try this at home&#8221; The Guardian &#8216;Dementedly good fun&#8217; Vanity Fair "Does exactly what it says in the packet unbelievable" Times, UK "The lovable and energetic duo wins big points for getting a rise out of impervious New Yorkers." NY Times&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13373</id>
+  <name>The Funny Side of Song</name>
+  <promoter>JamHouse Birmingham</promoter>
+  <start_time>2011-10-26T17:00:00Z</start_time>
+  <end_time>2011-10-26T23:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Alfie Moore, Shazia Mirza, Ray Green, Ben Drummond, Spiky Mike</artists>
+  <tags>Alfie Moore, Shazia Mirza, Ray Green, Ben Drummond, Spiky Mike, Acoustic</tags>
+  <costs>Free Entry All Night</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13373/original/1484-the-funny-side-of-song-867-main.jpg_400.jpg?1313769934</image_url>
+  <ticket_url>http://www.thejamhouse.com/birmingham/live-music/event/1484/the-funny-side-of-song-october-2011.htm</ticket_url>
+  <web_url>http://www.thejamhouse.com</web_url>
+  <short_description>The Jam House presents a night of stand-up and outstanding musicianship with the likes of Alfie Moore, Shazia Mirza, Ray Green, and Ben Drummond, with your compere for the evening, Spiky Mike. A fantastic line-up</short_description>
+  <long_description>&lt;p&gt;Event Details: The Jam House presents a night of stand-up and outstanding musicianship with the likes of Alfie Moore, Shazia Mirza, Ray Green, and Ben Drummond, with your compere for the evening, Spiky Mike. A fantastic line-up Restaurant &amp; bars open from 6pm Show begins at 8pm Dress code: Smart dress - no trainers, ripped denim. Shirts for gentlemen please Admission Information: To reserve your table in the restaurant, please call us on: 0121 200 3030.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3691</id>
+    <name>The Jam House</name>
+    <street>3-5 St Pauls Square</street>
+    <area>Jewellery Quarter</area>
+    <city>Birmingham</city>
+    <postcode>B3 1QU</postcode>
+    <phone></phone>
+    <location>
+      <latitude>52.485093</latitude>
+      <longitude>-1.9043857</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>9479</id>
+  <name>Jason Byrne: Cirque Du Byrne</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-10-27T19:00:00Z</start_time>
+  <end_time>2011-10-27T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Jason Byrne</artists>
+  <tags>Jason Byrne, comedy, st albans, hertfordshire, the alban arena</tags>
+  <costs>&#163;15.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/9479/original/Jason_20Byrne_20HP.jpg?1305899497</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3379&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/whats-on/jason-byrne-cirque-du-byrne/</web_url>
+  <short_description>As seen on Dave&#8217;s One Night Stand (Dave), Live At The Apollo (BBC1), Comedy Rocks with Jason Manford (ITV1), Marco&#8217;s Kitchen Burnout (itv1), and as heard on The Jason Byrne Show (Radio 2), The Odd Half Hour (Radio 4) and Father Figure (Radio 2).</short_description>
+  <long_description>&lt;p&gt;Roll up, roll up as Edinburgh&#8217;s top selling comedian Jason Byrne takes to the road to hotwire your comedy funny bones with his brand new show, Cirque du Byrne! Brought to you by the ringmaster of tom-foolery himself, this promises to be an anarchy packed show of acrobatic proportions. Encounter deviously constructed comic spectacle, be tamed by on-stage farce and audience interaction, and gasp in awe at daring comic stunts as the definitive clown of comedy pushes his riotous show to the edge. Jason&#8217;s inspired, original brand of high-energy intelligent lunacy ensures that there is no other comedian like him and his sell out shows have attracted accolades including Chortle Award for Best Headliner 2007, Perrier Newcomer Award Nomination 1998 and Perrier Award Nomination 2001. "It&#8217;s hard to think of any other comic who matches Jason Byrne for ebullient energy and regulated chaos" Independent. "An hour of stand-up so joyous the clinically depressed should get it on prescription" Metro &#8220;Full-on, doubled-up, gasping-for-oxygen hilarious&#8221; Chortle &#8220;A comedy God&#8221; Mirror.co.uk This show is recommended for over 16s only. www.jasonbyrne.ie&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>9480</id>
+  <name>Lee Nelson...LIVE!</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-10-28T19:00:00Z</start_time>
+  <end_time>2011-10-28T21:30:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Lee Nelson</artists>
+  <tags>Lee Nelson, comedy, st albans, the alban arena, hertfordshire</tags>
+  <costs>&#163;22.50</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/9480/original/Lee_20Nelson_20S.jpg?1305899641</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3382&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/whats-on/lee-nelson---live-/</web_url>
+  <short_description>Lee Nelson...LIVE!</short_description>
+  <long_description>&lt;p&gt;hello u blurb readin legend! Its lee nelson here from off ur tele + i&#8217;m coming to a crap town near u with my well new tour! its gonna b bigga, betta + even funnier than my last tour + a lot fatter as well coz this time i&#8217;m bringing my best mate + fat legend Omelette! so dont b a mug - stop readin this rubbish + get urself a ticket! do it, do it, do it, do it, do it, do it!! Qwaliteeeeeee! special note 2 birds - if u ask nicely i&#8217;ll sign any part of ur body afta the show !&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13202</id>
+  <name>Last Laugh</name>
+  <promoter>2Funky</promoter>
+  <start_time>2011-10-29T19:00:00Z</start_time>
+  <end_time>2011-10-29T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Kat (MTV), Kane Brown, Kevin J, Shazia Mirza, Toju, Mr Frazier</artists>
+  <tags>comedy, leicester, athena, kat, mtv, kane brown, kevin j, shazia mirza, mr frazier, real mccoy, toju, balls of steel</tags>
+  <costs>&#163;15 Standard, &#163;20 VIP</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13202/original/enlarge_Last_Laugh_Poster_1_.jpg?1313486602</image_url>
+  <ticket_url>http://www.2funkytickets.co.uk/site/32.asp?catID=668</ticket_url>
+  <web_url>http://www.facebook.com/event.php?eid=161535730581282</web_url>
+  <short_description>Leicesters BIGGEST comedy show returns Saturday October 29th with the BIGGEST comedians on the circuit.
+</short_description>
+  <long_description>&lt;p&gt;More info Leicesters BIGGEST comedy show returns Saturday October 29th with the BIGGEST comedians on the circuit. Kat - (MTV) Kat is a comedian best known for his appearances on MTV Base's The Lick Parties (with Trevor Nelson) and The Request Show. An all round entertainer Kat has created his own enormous following, he is an entertainer that can perform to any crowd. He is described as; a legend and &#8220;One of the best entertainers in the UK&#8221;. Anyone who sees Kat perform is left amazed by his variety of skills and talents. Mr Frazier - The Real McCoy Mr Frazier aka Leo Muhammed is a stand-up comedian from the TV series &#8220;The Real McCoy&#8221;. The Real McCoy was a BBC TV comedy show which ran from 1991 to 1996. During this time Mr Frazier got to work with the likes of Felix Dexter and Robbie Gee. Leo Muhammed is described as a man who knows things, he gives his audience laughter yet learning too. His audience are left some what intrigued by his performance. Toju - (BALLS OF STEEL &#8211; CH4) Toju is a comedian, impressionist, actor, presenter and writer. As well as appearing on Channel 4's Balls of Steel as the militant black guy several times other TV credits include: BBC1 The Jack Dee show and BBC2 The Real McCoy. He has been described as; &#8220;One of the best comedians in Britain&#8221; and he has been dubbed a &#8220;Hip-hop Impressionist&#8221; because of his skilful blending of stand-up and impressions drawn from rap and music culture. Kane Brown (UK Comedy Clash Champion) Massively talented Kane Brown has performed throughout the country as well as overseas. He is a skilful stand-up comedian and compare. Some of his most credible gigs include performances at MTV Base's Comedy Fun House, 02 Arena, Shepard's Bush Theatre, Hackney Empire and Jongluers. He has also worked with 1 XTRA and Choice FM. Kane Brown never fails to leave his audience amazed by his straight talking sense of humour and bubbly character, a performance not to be missed. Kevin J (I Love Comedy) After less than two years in stand-up Kevin J has been labelled the cocky, cheeky, London- centric new kid on the block. He has been involved in some of the biggest UK comedy productions including Kojo's Comedy Fun House which aired on MTV Base where Kevin J was said to be the star of the show!! Shazia Mirza (BBC) Shazia Mirza is a very funny award winning British Asian stand up Comedian from Bir-mingham England.She works all over the world and has toured the US, Sweden, Den-mark, France Holland and Germany. She has appeared on CBS 60 Minutes, NBC's Last Comic Standing, and Have I got News for You (BBC). ADDICT Explosive dance performance from Addict (image) Midlands Best Dance Crew 2010 Leicesters Best Dance Crew 2010 TICKETS &#163;15 &amp; &#163;20 VIP Caribbean food available on the night. Tickets available from 2Funky&lt;/p&gt;</long_description>
+  <venue>
+    <id>3999</id>
+    <name>Athena Venue</name>
+    <street>Queen Street</street>
+    <area>Cultural Quarter</area>
+    <city>Leicester</city>
+    <postcode>LE1</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12453</id>
+  <name>Big Pants &amp; Botox</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-05T20:00:00Z</start_time>
+  <end_time>2011-11-05T22:00:00Z</end_time>
+  <genre>Comedy</genre>
+  <artists>Louise Roche</artists>
+  <tags>Louise Roche, Girls' Night, Where the Heart Is</tags>
+  <costs>&#163;16, &#163;14 (Concessions)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12453/original/big-pants-latest.jpg?1312194315</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>From Louise Roche, the writier of 'Girls' Night' and 'Where the Heart Is'.</short_description>
+  <long_description>&lt;p&gt;Barbara has just survived an eventful 'significant' birthday, which has got her thinking for the first time about the benefits of big pants and Botox. If you have to empty your bladder before joining the kids on the trampoline, it's a few years since you've had an uninterrupted view of your feet and in your vocabulary the word piles doesn't have to be followed by the word 'of', then you'll be amused and even comforted by this hilarious, emotional and uplifting new play. Warning: Do not watch with a full bladder.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+</events>

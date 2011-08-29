@@ -6,6 +6,7 @@ Given /^I send and accept XML$/ do
 end
 
 Given /^I have imported (\d+) events near the Soho Theatre$/ do |no_events|
+  puts Time.now
   no_events_int = no_events.to_i
   (1..no_events.to_i).each { |i|
     venue = Venue.create!(:name => "test_venue"+i.to_s, :latitude => 51.515172, :longitude => -0.132737)

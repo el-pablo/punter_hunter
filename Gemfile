@@ -17,6 +17,7 @@ group :test, :development do
   gem 'capybara'
   gem 'database_cleaner'
   gem 'rack-test'
+  gem 'fakeweb'
 end
 
 # Use unicorn as the web server

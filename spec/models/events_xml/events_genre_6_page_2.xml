@@ -1,0 +1,1936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xsi:schemaLocation="http://app.bullseyehub.com/api/events.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12762</id>
+  <name>Fox Poker Club London Calling Main Event Day 2</name>
+  <promoter>Fox Poker Club</promoter>
+  <start_time>2011-08-29T13:00:00Z</start_time>
+  <end_time>2011-08-30T04:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>London poker clubs, play poker in London, london poker clubs, london poker forum, london poker tournaments, london poker league, london poker chat, london poker players, london information, london casinos, london casino, london forum, london chat, london </tags>
+  <costs>&#163;500+&#163;40, &#163;150+&#163;10</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12762/original/London-Calling-Lone-Logo-150x150.jpg?1312542735</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.foxpokerclub.com/poker/mini-fest/</web_url>
+  <short_description>Fox Poker Club are pleased to present a festival of No Limit Hold 'Em Poker over the Bank Holiday weekend at the end of August. </short_description>
+  <long_description>&lt;p&gt;As well as the conclusion of the main event, there will be another &#163;150+&#163;10 side event of no limit hold 'em poker. The main attraction will be the &#163;500+&#163;40 Two Day Event starting on the Sunday at 3pm and playing to a finish the next day when there will be a &#163;150+&#163;10 event starting at 2pm. There will be a host of guaranteed seat satellite qualifiers during the week as well as a &#163;200+&#163;15 Six-Max on the Saturday at 2pm. See the Fox Poker Club website for more details.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3673</id>
+    <name>Fox Poker Club</name>
+    <street>93-107 Shaftesbury Avenue</street>
+    <area></area>
+    <city>London</city>
+    <postcode>W1D 5DY</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5126937</latitude>
+      <longitude>-0.1302198</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11666</id>
+  <name>Last night a speed date changed my life</name>
+  <promoter>Mothership London Ltd</promoter>
+  <start_time>2011-08-29T18:00:00Z</start_time>
+  <end_time>2011-08-29T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Speed dating, Love, The Book Club</tags>
+  <costs>&#163;10 including a glass of wine and all materials</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11666/original/speed_dating.jpg?1310126760</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.wearetbc.com/</web_url>
+  <short_description>Last night a speed date changed my life is the best way to meet new friends and possibly find your loved one! It&#8217;s quick, clever and painless; a light-hearted, fun time in a relaxed atmosphere. </short_description>
+  <long_description>&lt;p&gt;Last night a speed date changed my life is the best way to meet new friends and possibly find your loved one! It&#8217;s quick, clever and painless; a light-hearted, fun time in a relaxed atmosphere. Limited places are available, age group is mid 20's to mid 30's. We must have equal numbers of ladies and gents, so booking is essential. GUYS http://www.wegottickets.com/event/125291 GIRLS http://www.wegottickets.com/event/125290&lt;/p&gt;</long_description>
+  <venue>
+    <id>1418</id>
+    <name>The Book Club</name>
+    <street>100 - 106 Leonard Street</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 4RH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.524836</latitude>
+      <longitude>-0.0814748</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11775</id>
+  <name>The Nomad Cinema presents The King's Speech @ Bodiam Castle</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-08-29T18:30:00Z</start_time>
+  <end_time>2011-08-29T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Marilyn Monroe, Tony Curtis, Jack Lemmon</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;12, &#163;10 concessions</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11775/original/colin-firth-the-kings-speech-king-george-vi-1.jpg?1310406670</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/kings-speech-12a-bodiam-castle-east-sussex/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>As part of the summer season of open-air cinema, The Nomad travels to the stunning Bodiam Castle in the East Sussex countryside for a mini-series of stunning films at this beautiful location. </short_description>
+  <long_description>&lt;p&gt;The Nomad Cinema brings Tom Hooper&#8217;s much-loved Royal drama to the wonderful Bodiam Castle, East Sussex&#8230; British Cinema&#8217;s unending fascination with Royalty was cemented this year with Tom Hooper&#8217;s money making, Oscar gobbling hit. Colin Firth plays the King in waiting who overcomes his chronic stuttering with the help of a Australian voice coach (played wonderfully by Geoffrey Rush) unwilling to play along to all the airs and graces expected of a commoner adressing his future Monarch. Firth gives the performance of his life and Helena Bonham Carter and Guy Pearce make the most of their relatively minor roles &#8211; although the less said about Timothy Spall&#8217;s Winston Churchill, the better. Hooper brings assurance and control to material that could veer into cloying sentimentality if put in the wrong hands. Yes, the story may be predictable and yes, it&#8217;s easy to sneer about how much sympathy we should feel for a rich toff, but if you join us in the glorious grounds of Bodiam Castle we&#8217;ll bet you a royal sovereign that there&#8217;ll be a tear in your eye by the time the credits begin to roll. Tickets to be bought in advance from http://www.whereisthenomad.com/events/kings-speech-12a-bodiam-castle-east-sussex/&lt;/p&gt;</long_description>
+  <venue>
+    <id>3899</id>
+    <name>Bodiam Castle</name>
+    <street>Robertsbridge</street>
+    <area></area>
+    <city>Sussex</city>
+    <postcode>TN32 5UA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.0024861</latitude>
+      <longitude>0.5434666</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13496</id>
+  <name>Body Of Work</name>
+  <promoter>Rich Mix</promoter>
+  <start_time>2011-08-29T18:30:00Z</start_time>
+  <end_time>2011-08-29T23:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Tempered Body Dance </artists>
+  <tags>Dance, Contemporary dance, Dance theatre</tags>
+  <costs>&#163;10, &#163;8 student / concs</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13496/original/Dance_tempered.jpg?1314027547</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.richmix.org.uk/whats-on/event/tempered-body-dance/</web_url>
+  <short_description>A dance theatre response to the global epidemic of body unease
+
+</short_description>
+  <long_description>&lt;p&gt;A dance theatre response to the global epidemic of body unease Choreographed by Maddy Wynne-Jones and set to an original score by Halogen, Body Of Work explores the increasing global pressure to perfect and design our bodies, as they become less where we live from and more what we can personally manufacture. Beautiful imagery and compelling viewing. Choreographer Maddy Wynne-Jones has created movement that is gripping in every way Susanne Allen, Dance Critic Fiercely evocative, this is a bold exploration into the epidemic and transgenerational transmission of body anxiety. Through daring physicality and honest frailty, Tempered Body takes an exhilarating and thought-provoking journey through the global war on bodies. Maddy Wynne-Jones&#8217; choreography is delicate and detailed. The story unfolds like a good book. Chantal Pierre-Packer, The Fringe Report Tempered Body Dance Theatre, &#8220;trailblazers in terms of quality work&#8221; (Libby Costello, LondonDance), have been gaining momentum since their beginning in 2007. Founded by Canadian choreographer Maddy Wynne-Jones, the company has been Resident Company of Chisenhale Dance Space since 2009, and in Aprill 2011 became Associate Company of Rich Mix. Body of Work, the company&#8217;s most ambitious piece to date, pushes physical and emotional boundaries and amplifies the integrity of our corporeal force. Tempered Body Dance www.temperedbody.com&lt;/p&gt;</long_description>
+  <venue>
+    <id>3239</id>
+    <name>RichMix</name>
+    <street>35-47 Bethnal Green Rd</street>
+    <area>Shoreditch </area>
+    <city>London</city>
+    <postcode>E1 6LA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12276</id>
+  <name>Thinking and Drinking: Life Drawing Sponsored by Cass Art</name>
+  <promoter>Mothership London Ltd</promoter>
+  <start_time>2011-08-30T17:30:00Z</start_time>
+  <end_time>2011-08-30T21:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Life Drawing, Art</tags>
+  <costs>&#163;10 including a glass of wine and all materials</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12276/original/2_models.jpg?1311697155</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.wearetbc.com/</web_url>
+  <short_description>Morris presents a contemporary feel to life drawing. Through his imaginative styling, composition and consideration, surreal scenes are created for the figure. </short_description>
+  <long_description>&lt;p&gt;Morris presents a contemporary feel to life drawing. Through his imaginative styling, composition and consideration, surreal scenes are created for the figure. Each class will take on a fresh dynamic, with inspirational poses and influences taken from the contemporary art and fashion world. The aim of the class is to develop individual style and personal expression. 6:30pm http://www.wegottickets.com/event/127117 8:30pm http://www.wegottickets.com/event/127118&lt;/p&gt;</long_description>
+  <venue>
+    <id>1418</id>
+    <name>The Book Club</name>
+    <street>100 - 106 Leonard Street</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 4RH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.524836</latitude>
+      <longitude>-0.0814748</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11776</id>
+  <name>The Nomad Cinema presents Indiana Jones @ Lympne Castle</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-08-31T18:00:00Z</start_time>
+  <end_time>2011-08-31T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Harrison Ford     , Karen Allen, Paul Freeman, Ronald Lacey, John Rhys-Davies, Denholm Elliott</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;10, &#163;8 concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11776/original/indiana_jones_1.jpg?1310407067</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/raiders-lost-ark-lympne-castle-kent-2/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>As part of the summer season of open-air cinema, The Nomad travels to the stunning Lympne Castle in the Kent countryside for one of many in a series of stunning films in Kent. </short_description>
+  <long_description>&lt;p&gt;The combined talents of Steven Spielberg, George Lucas, Lawrence Kasdan and Philip Kaufman conceived one of the greatest old-fashioned movie heroes of all time, introducing 80s cinema audiences to the iconic Indiana Jones. The equally iconic Harrison Ford was the perfect fit for the sardonic, reluctant army-of-one pitting his wits against Boys&#8217; Own comic book Nazis. Full of memorable characters and set-pieces, Raiders set box-offices alight and paved the way for not only the rest of the Indy franchise, but dozens of inferior imitators. There&#8217;s nothing like seeing the original adventure in the great outdoors &#8211; see you there&#8230; Tickets to be bought in advance from http://www.whereisthenomad.com/events/raiders-lost-ark-lympne-castle-kent-2/&lt;/p&gt;</long_description>
+  <venue>
+    <id>3844</id>
+    <name>Lympne Castle</name>
+    <street>The Street</street>
+    <area>Lympne</area>
+    <city>Kent</city>
+    <postcode>CT21 4LQ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.0743859</latitude>
+      <longitude>1.0230855</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12277</id>
+  <name>Thinking and Drinking: Spine TV Video Club</name>
+  <promoter>Mothership London Ltd</promoter>
+  <start_time>2011-08-31T18:00:00Z</start_time>
+  <end_time>2011-08-31T23:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Spine TV, Documentary shorts</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12277/original/Sonic_Manipulator.jpg?1311697541</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.wearetbc.com/</web_url>
+  <short_description>Spine TV http://www.spinetv.net/ are excited to announce their inaugural film and party night, Spine TV Video Club. Become a member and join them as they showcase a range of films from their archives.</short_description>
+  <long_description>&lt;p&gt;Spine TV http://www.spinetv.net/ are excited to announce their inaugural film and party night, Spine TV Video Club. Become a member and join them as they showcase a range of films from their archives; the beautifully executed Stolen Moments series; a light-hearted look at sci-fi culture with Sci Fi Love; and, City Series, intriguing stories from Berlin and New York. And the fun and frolics don&#8217;t end there as our DJ takes the reins to get you through the rest of the night.&lt;/p&gt;</long_description>
+  <venue>
+    <id>1418</id>
+    <name>The Book Club</name>
+    <street>100 - 106 Leonard Street</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 4RH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.524836</latitude>
+      <longitude>-0.0814748</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13325</id>
+  <name>Life Drawing at The Baby Bathhouse</name>
+  <promoter>The Bathhouse</promoter>
+  <start_time>2011-08-31T18:30:00Z</start_time>
+  <end_time>2011-08-31T20:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Life drawing, art, cocktails, free, all levels, wednesday, group, friendly, activity, stoke newington, north london, pizza, drinks, dating, friendship</tags>
+  <costs>&#163;3</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13325/original/drawing_event.jpg?1313673455</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thebathhousevenue.com/BabyBathhouse/Events/Upcoming-Events.aspx</web_url>
+  <short_description>Life Drawing sessions with a guide to take you through drawing techniques &amp; composition. ALL abilities welcome</short_description>
+  <long_description>&lt;p&gt;Life Drawing Sessions - every Wednesday 7.30pm - 9.30pm in the Baby Bathhouse basement &#163;3 entry - please email baby@thebathhousevenue.com to book a place or for any enquiries. You can turn up on the day and see if we have spaces too! The Baby Bathhouse basement, 125 Stoke Newington, N16 0UH. Paper &amp; drawing equpiment provided (or bring your own).&lt;/p&gt;</long_description>
+  <venue>
+    <id>3651</id>
+    <name>The Baby Bathhouse</name>
+    <street>125 Church Street</street>
+    <area>Stoke Newington</area>
+    <city>London</city>
+    <postcode>N16 0UH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5616963</latitude>
+      <longitude>-0.0810729</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12489</id>
+  <name>All New WEEKLY QUIZ NIGHT @ The Horatia, Islington</name>
+  <promoter>Horatia/ Horse &amp; Groom</promoter>
+  <start_time>2011-08-31T19:00:00Z</start_time>
+  <end_time>2011-09-01T01:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>quiz, quiz night, pub quiz, pub, Wednesday, pub quiz Wednesday, Wednesday night, pub quiz London, pub quiz north London, north London, highbury, Islington, n7, weekly, Holloway road, food, drink, drinks, trivia, prizes, fun, pub fun, Wednesday fun, bar, j</tags>
+  <costs>&#163;1 entry (per person)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12489/original/The_Horatia_Quiz_Night_Poster_WEB.jpg?1312200200</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thehoratia.co.uk</web_url>
+  <short_description>The Horatia WEEKLY QUIZ NIGHT. Every Wednesday. Kicks off 8pm. &#163;1 entry per person. Fantastic prizes to be won! For bookings e-mail: info@thehoratia.co.uk or call 0207 503 9421.</short_description>
+  <long_description>&lt;p&gt;The Horatia WEEKLY QUIZ NIGHT Every Wednesday Kicks off 8pm &#163;1 entry (per person) Fantastic prizes to be won! Want to beat the midweek blues? Then wind your way on down to The Horatia in Islington for the all new Wednesday Night Quiz! Warm up the old grey matter with an evening of quizzing, fun and &#8211; of course &#8211; fantastic prizes. With generous helpings of music and film trivia, complemented by lashings of general knowledge, we&#8217;ve a little something for everyone. The Horatia pub has a fantastic selection of premium beers, ciders, ales and wines, plus the Horatia food kitchen will be open for mouthwatering meals and snacks. To book a table for your friends and workmates: E-mail: info@thehoratia.co.uk Call: 0207 503 9421 The Horatia, 98-102 Holloway Road, Islington, London N7 8JE Nearest tube stations: Highbury &amp; Islington or Holloway Road Visit our website: http://www.thehoratia.co.uk Follow us on Twitter: http://twitter.com/#!/theHoratia&lt;/p&gt;</long_description>
+  <venue>
+    <id>3301</id>
+    <name>The Horatia</name>
+    <street>Holloway Rd</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N7 8JE</postcode>
+    <phone>4498102</phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13415</id>
+  <name>The Nomad Cinema presents E.T. @ Bushy Park</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-01T17:30:00Z</start_time>
+  <end_time>2011-09-01T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Henry Thomas, Drew Barrymore, Dee Wallace, Robert MacNaughton, Peter Coyote</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;12.50</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13415/original/et2.jpg?1313922387</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/e-t-extra-terrestrial-bushy-park-london/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>Join The Nomad's roaming pop-up cinema as E.T. touches down in amongst the trees in Bushy Park, as our Nostalgic Adventure mini-season continues with perhaps Spielberg&#8217;s best-loved movie.</short_description>
+  <long_description>&lt;p&gt;For one night only, E.T. touches down in amongst the trees in Bushy Park, as our Nostalgic Adventure mini-season continues with perhaps Spielberg&#8217;s best-loved movie. As the great, smooth and oddly oblong-faced Roger Ebert puts it: &#8221;E.T. The Extra-Terrestrial&#8221; is a reminder of what movies are for. Most movies are not for any one thing, of course. Some are to make us think, some to make us feel, some to take us away from our problems, some to help us examine them. What is enchanting about &#8220;E.T.&#8221; is that, in some measure, it does all of those things. Famously based on an imaginary friend Spielberg invented during his parents&#8217; messy divorce, the film was knocked back initially by Columbia Pictures, who described it as &#8220;a wimpy Disney movie&#8221;, only to be picked up by MCA &#8211; d&#8217;oh! There are so many great scenes and sequences, such inspirational music and effects, so many great ideas (leading to soooo many merchandising opportunities), so much heart, charm and love in the film, it&#8217;s easy to forget that this &#8220;wimpy Disney movie&#8221; is also quite a dark look at childhood, families and &#8220;the suburban ideal&#8221;. Come relive it yourself, or introduce a new generation to E.T. As with all our outdoor screenings, bring a blanket or low chair to sit on, and something warm to wear for after sunset. We&#8217;ll be doing 20 Nomad events in London&#8217;s Royal Parks this year &#8211; view the full schedule for Royal Parks outdoor cinema. And bear in mind, places are limited, so please do book in advance, to avoid disappointment! Please note that for public safety and environmental reasons, glass is not permitted anywhere in the Royal Parks. If bringing a picnic, please bring plastic cups and plastic bottles instead. Many thanks. Tickets are limited and should be purchased in advance to avoid disappointment. http://www.whereisthenomad.com/events/e-t-extra-terrestrial-bushy-park-london/&lt;/p&gt;</long_description>
+  <venue>
+    <id>1759</id>
+    <name>Bushy Park</name>
+    <street>Hampton Court Road</street>
+    <area>Kingston</area>
+    <city>London</city>
+    <postcode>TW12 2EJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4127467</latitude>
+      <longitude>-0.3590312</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13416</id>
+  <name>The Nomad Cinema presents Amelie</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-01T17:45:00Z</start_time>
+  <end_time>2011-09-01T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Audrey Tautou, Mathieu Kassovitz, Rufus, Lorella Cravotta</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;10, &#163;8 concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13416/original/01Amelie.jpg?1313923003</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/outdoor-cinema-amelie-dulwich-park-london/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>Join The Nomad pop-up cinema as it continues its roam through beautiful parks as we return to Dulwich Park for the magnificent Amelie.</short_description>
+  <long_description>&lt;p&gt;Amelie &#8211; romantic, doe-eyed sweetheart or scheming, manipulative bitch? You decide. To be honest, it&#8217;s really only the psychoanalysts in the room (park) who have a problem with the behaviour of Audrey Tautou&#8217;s unforgettable heroine in one of the most sensationally beautiful films ever created &#8211; he&#8217;s made a few, Jean Pierre-Jeunet, but this one takes the biscuit (we&#8217;re pronouncing that the French way). It&#8217;s just so beautiful to look at &#8211; the American Society of Cinematographers named it the best-shot film of the decade, and who are we to argue with them&#8230; Brilliant set-pieces, great sets, bad guys suffering, good guys getting it on &#8211; all thanks to guardian angel Amelie. It&#8217;s a film full of imagination and heart, and it&#8217;s going to look fantastic on our massive screen in the park, as the sun sets on the horizon and we open a second bottle&#8230; You&#8217;ll be greeted by intrepid gnomes who&#8217;ll help you find your way to the action and expect some lovely live music with a french feel to get you in the mood for love. Bon Appetit. Also coming to Dulwich Park near you soon: The Wicker Man on 24 July and The Goonies on 14 August. Join us for them all! Bring wine, a picnic, a blanket and something warm to wear for after sunset. See you there&#8230;&lt;/p&gt;</long_description>
+  <venue>
+    <id>3684</id>
+    <name>Dulwich Park</name>
+    <street>College Road</street>
+    <area>Dulwich</area>
+    <city>London</city>
+    <postcode>SE21 7BQ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.42628</latitude>
+      <longitude>-0.07866</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12704</id>
+  <name>NCAA Football Kick-off - LIVE</name>
+  <promoter>The Sportsman Casino</promoter>
+  <start_time>2011-09-02T00:00:00Z</start_time>
+  <end_time>2011-09-02T02:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>UNLV, Wisconsin</artists>
+  <tags>casino central london, NCAA, American Football, Bar, Restaurant, Burgers, Nachos, beer, marble arch, Sports, Live sports, casino, London</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12704/original/football2.JPG?1313240265</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.TheSportsmanCasino.com</web_url>
+  <short_description>Join us for live NCAA action at the Sportsman this season!  
+We'll be kicking off the season with the UNLV Rebels at the Wisconsin Badgers. Enjoy the game with good food at drink from our award winning restaurant! Call and book your table today!</short_description>
+  <long_description>&lt;p&gt;Join us for live NCAA action at the Sportsman this season! We'll be kicking off the season with the UNLV Rebels at the Wisconsin Badgers. Come and enjoy the game with good food at drink from our award winning restaurant! Call our reception team or email info@thesportsmancasino.com and book your table today! For more information about the Sportsman, please visit http://www.TheSportsmanCasino.com&lt;/p&gt;</long_description>
+  <venue>
+    <id>3960</id>
+    <name>The Sportsman Casino</name>
+    <street>14-22 Old Quebec Street</street>
+    <area></area>
+    <city>London</city>
+    <postcode>W1H 7AF</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5136678</latitude>
+      <longitude>-0.1577505</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13219</id>
+  <name>Gaze@ Exhibit</name>
+  <promoter>The Exhibit</promoter>
+  <start_time>2011-09-02T18:00:00Z</start_time>
+  <end_time>2011-09-03T01:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Gay night, Free Entry, DJ , Balham, The Exhibit</tags>
+  <costs>FREE!</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13219/original/twitter_icon_gaze.png?1313499836</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.theexhibit.co.uk</web_url>
+  <short_description>A new monthly gay night at the Level 3 bar in The Exhibit Balham
+
+</short_description>
+  <long_description>&lt;p&gt;A new monthly gay night at the Level 3 bar in The Exhibit Balham "We know from other 'social networks' that there are plenty of guys in and around the Balham area and so we decided that this would be a great opportunity to meet up and make new friends. It's a night where we hope people will be able to say 'we met in a bar' and mean it!"&lt;/p&gt;</long_description>
+  <venue>
+    <id>48</id>
+    <name>The Exhibit</name>
+    <street>12 Balham Station Road</street>
+    <area>Balham</area>
+    <city>London</city>
+    <postcode>SW12 9SG</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4433297</latitude>
+      <longitude>-0.1516076</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13744</id>
+  <name>Exclusive Aw11 Collection Catwalk Show!</name>
+  <promoter>Maximize Promotions</promoter>
+  <start_time>2011-09-02T21:00:00Z</start_time>
+  <end_time>2011-09-03T05:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Fashion Show,  Afterschock,  Models,  queensberry club, parties, clubbing, london, people, events, designers, fashion, celebrities, models, catwalk, makeup, maximizepromotions.com, maxiimize promotions</tags>
+  <costs>Ladies Complimentary entry until 11.30 Pm., Guys &#163;20 All night.</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13744/original/AFTERSHOCK_at_Queensberry_Club.jpg?1314393299</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.queensberryclub.com</web_url>
+  <short_description>Exclusive Aw11 Collection Catwalk Show by British Fashion House Aftershock - Friday Fashion Series.</short_description>
+  <long_description>&lt;p&gt;You're cordially invite to the Exclusive Aw11 Collection catwalk show by British Fashion House Aftershock @ Queensberry Club. RSVP: Audrey@maximizepromotions.com Partners: www.aftershockplc.com www.maximizepromotions.com www.premiereevents.co.uk www.energizebevrage.com www.orgazma.co.uk www.fashionfinest.com&lt;/p&gt;</long_description>
+  <venue>
+    <id>3942</id>
+    <name>Queensberry Club</name>
+    <street>11 Queensberry Club</street>
+    <area>South kensington</area>
+    <city>London </city>
+    <postcode>SW7 2DL</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.494426</latitude>
+      <longitude>-0.177122</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13418</id>
+  <name>The Nomad Cinema presents Napoleon Dynamite @ Queens Park</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-03T18:00:00Z</start_time>
+  <end_time>2011-09-03T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Jon Heder, Efren Ramirez, Jon Gries, Aaron Ruell</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;12.50, &#163;8.50 concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13418/original/NP3_L.jpg?1313923454</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/napoleon-dynamite-queens-park/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>The Nomad's roaming pop-up cinema (in conjunction with Kensal Rise's Lexi Cinema) touches down in West London's beautiful Queens Park with the ever brilliant Napoleon Dynamite</short_description>
+  <long_description>&lt;p&gt;There&#8217;s a fine line between really, really, really believing in yourself and massive self-delusion. Napoleon, Kip and Uncle Rico are all pretty close to that line. Just like you. Featuring some iconic fashion, BMX aerobatics, cage fighting, Tupperware, memorable part time jobs, chapped lips, the worst time machine ever, and the best political campaign ever, Napoleon Dynamite will put a stupid, slack-jawed grin on your idiot face. Again. Get down to the park early to test your Skills &#8211; you&#8217;ll have the opportunity to show them off in Napoleon&#8217;s Tetherball Arena. On the food and drink front, Uncle Rico will be inviting you to step back in time to his 1982 style margarita bar &#8211; you know, relive those glory days, maybe toss the ol&#8217; pigskin around&#8230; Airstream Alfresco will be preparing delicious quesadillas that Napoleon&#8217;s Grandma would be proud of, while Anna Mae&#8217;s Southern Street Food want your vote for their special Spicy Pedro mac &#8216;n&#8217; cheese. Needless to say, we&#8217;ll be pumping out some seriously bad taste tunes on the Nomad Sound System &#8211; so be ready to pull some sweet moves. And we&#8217;ll also have a prize for our best dressed guest on the night: bonus points for moon boots, scooby-doos and headbands &#8211; we&#8217;ll provide the awesome limited edition badges&#8230; Two other Nomad screenings on the Lexi&#8217;s home turf this year &#8211; we&#8217;re back in Queens Park on Sat 17 Sept for classic noir The Third Man, and will also be setting up camp for one night in Roundwood Park for Robert Zemeckis&#8217; feelgood 80s blockbuster, Back to the Future Part I on Sun 4 Sept. At all three events, if you&#8217;re a Lexi Cinema Member and you flash your card at us, we&#8217;ll give you a shiny &#163;2 back at the box office! Space is limited so please book your tickets in advance to avoid disappointment. http://www.whereisthenomad.com/events/napoleon-dynamite-queens-park/&lt;/p&gt;</long_description>
+  <venue>
+    <id>353</id>
+    <name>The Queens</name>
+    <street>49 Regents Park Road</street>
+    <area>Camden</area>
+    <city>London</city>
+    <postcode>NW1 8XD</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5267967</latitude>
+      <longitude>-0.1635302</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13419</id>
+  <name>The Nomad Cinema presents Back To The Future Part 1</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-04T17:30:00Z</start_time>
+  <end_time>2011-09-04T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;12.50, &#163;8.50 concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13419/original/doc-and-marty.jpg?1313924005</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/back-to-the-future-part-roundwood-park/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>Having travelled and conquered the world (well, London and the Southeast) The Nomad returns home to NW10! Join us in one of the most beautiful little natural amphitheatres in award-winning Roundwood Park for 80s feelgood classic Back to the Future.</short_description>
+  <long_description>&lt;p&gt;Having travelled and conquered the world (well, London and the Southeast) The Nomad returns home to NW10! Join us in one of the most beautiful little natural amphitheatres in award-winning Roundwood Park for 80s feelgood classic Back to the Future Part I. With more than a touch of It&#8217;s A Wonderful Life small town American dream about it, BTTF packs in action, comedy, sci-fi and romance, doesn&#8217;t waste a single line of dialogue and features career-best performances from Michael J. Fox and Christopher Lloyd. And Huey Lewis. Who&#8217;d a thunk Marty McFly could make such a charming hero &#8211; a peeping-Tom, Billy-no-mates, who hangs around with a mad scientist four times his age and finds himself in a love triangle with his mom and dad? We&#8217;ll have the iconic DeLorean car from the movie at Roundwood Park, so make sure you bring your camera and feel free to dress up in your best body warmer and hi-tops &#8211; or white boiler suit &#8211; for a nice little photo-souvenir. Grab yourself a burger and shake from Airstream Alfresco, or bring your own picnic. Pick up a cup of Spiked Prom Punch from the bar or smuggle in your own liquor &#8211; high school style, in a brown paper bag, obviously. We&#8217;ll have some limited edition Hill Valley High badges for you, and a selection of 50s Doo-Wop and early rock &#8216;n&#8217; roll to get you in the mood. And some Huey Lewis. So join us at Roundwood, to bathe in the double-nostalgia of it all &#8211; or to introduce a new generation to 1.21 gigawatts of fuuuuuuun&#8230; Oh, and if you fancy more open-air action on Lexi home turf, The Nomad will be popping up in Queens Park just down the road on Sat 3 Sept for Napoleon Dynamite and Sat 17 Sept for The Third Man. PS. If you&#8217;re a Lexi Cinema member, flash your card at us at the box office and we&#8217;ll give you a shiny &#163;2 nugget back! Space is limited so please book your tickets in advance to avoid disappointment. http://www.whereisthenomad.com/events/back-to-the-future-part-roundwood-park/&lt;/p&gt;</long_description>
+  <venue>
+    <id>4015</id>
+    <name>Roundwood Park</name>
+    <street>Harlesden Road</street>
+    <area></area>
+    <city>London</city>
+    <postcode>NW10 3SH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.541676</latitude>
+      <longitude>-0.23532</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13420</id>
+  <name>The Nomad Cinema presents Troy</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-04T17:30:00Z</start_time>
+  <end_time>2011-09-04T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Brad Pitt, Eric Bana, Orlando Bloom, Julian Glover</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;10, &#163;8 concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13420/original/troy.jpg?1313924395</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/troy-richborough-roman-fort-kent/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>The Nomad Cinema bring Wolfgang Peterson&#8217;s epic to the English Heritage site from which the Roman Army launched their successful invasion of Britain in 43AD.</short_description>
+  <long_description>&lt;p&gt;The Nomad Cinema bring Wolfgang Peterson&#8217;s epic to the English Heritage site from which the Roman Army launched their successful invasion of Britain in 43AD. Although it was Gladiator that made swords and sandals cool again, Wolfgang Peterson&#8217;s 2004 adaptation of Homer&#8217;s The Ilyiad redefined the word &#8216;epic&#8217; for modern Hollywood cinema. Brad Pitt stars as Achilles, a legendary warrior drawn into battle alongside the forces of ancient Greece against the people of Troy after their prince Paris (a snotty-nosed Orlando Bloom) runs away with the wife of a Greek King. This selfish act is the catalyst for a devastating war and the eventual destruction of an entire nation. And let&#8217;s not forget about that pesky horse&#8230; Peterson assembled a whopping cast &#8211; Eric Bana, Brian Cox, Brendan Gleeson, Diane Kruger and a rare appearance from a frazzled-looking screen legend Peter O&#8217;Toole are all stand-outs &#8211; and brings us some of the biggest and baddest battles ever committed to celluloid. It&#8217;s a film that demands to seen on a big screen, so where better than under the stars on a site that has seen its fair share of bloodshed over the years. We know it&#8217;s Roman rather than ancient Greek, but unless you want to pay for our airfare to Athens, we&#8217;ll be laying cinematic siege to this Historic site. There&#8217;ll be delicious catering on site and if you decide to come in fitting attire, remember to bring a lambskin cloak as it may well get chilly after the sun has set. Space is limited so tickets should be bought in advance to avoid disappointment - http://www.whereisthenomad.com/events/troy-richborough-roman-fort-kent/&lt;/p&gt;</long_description>
+  <venue>
+    <id>4016</id>
+    <name>Richborough Roman Fort</name>
+    <street>Richborough Road</street>
+    <area>Sandwich</area>
+    <city>Kent</city>
+    <postcode>CT13 9JW</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.287268</latitude>
+      <longitude>1.32765</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13077</id>
+  <name>Spins and Needles present Surrealist Soiree</name>
+  <promoter>Mothership London Ltd</promoter>
+  <start_time>2011-09-05T18:00:00Z</start_time>
+  <end_time>2011-09-05T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Spins &amp; Needles, Craft, Art, Design, Surrealism</tags>
+  <costs>&#163;6 (materials and instructions provided)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13077/original/Spins_Needles_-_5_September.jpg?1313081783</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.wearetbc.com/</web_url>
+  <short_description>Spins &amp; Needles is a creative night out that mixes an art/craft/design project making with beats spun by DJs in galleries, bars and other spaces. It travels to different cities around the world from New York to Montreal to Berlin. </short_description>
+  <long_description>&lt;p&gt;Spins &amp; Needles is a creative night out that mixes an art/craft/design project making with beats spun by DJs in galleries, bars and other spaces. It travels to different cities around the world from New York to Montreal to Berlin. As part of of a mini-European tour this September, Spins &amp; Needles hits up The Book Club in London! The theme of tonight's art party is &#8216;surrealist soiree&#8217;. Come to a night of sublime sounds from local and international DJs, frantic visual projections, unexpected parlour games, and surrealist-themed DIY art/craft/design projects.&lt;/p&gt;</long_description>
+  <venue>
+    <id>1418</id>
+    <name>The Book Club</name>
+    <street>100 - 106 Leonard Street</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 4RH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.524836</latitude>
+      <longitude>-0.0814748</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13291</id>
+  <name>We Like Short Shorts</name>
+  <promoter>Bar Kick</promoter>
+  <start_time>2011-09-05T18:30:00Z</start_time>
+  <end_time>2011-09-05T21:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Ryan Woodward, Joe McAllister, Alex Hinx</artists>
+  <tags>film night, short film, animation, short animation, east london, East London films, Bar Kick, Shoreditch, charity fundraiser</tags>
+  <costs>&#163;3</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13291/original/We_like_Short_Shorts.jpg?1313597958</image_url>
+  <ticket_url>http://www.cafekick.co.uk/bar-kick/contact.html</ticket_url>
+  <web_url>http://www.cafekick.co.uk/index.html</web_url>
+  <short_description>An evening of short films and animation with a different monthly theme. Entry &#163;3, with ALL proceeds going to the children's charity 'Action Medical Research'. Tonight: "SHORTS - THE MUSICAL"</short_description>
+  <long_description>&lt;p&gt;Frogbear's presents...'We Like Short Shorts' An evening showcasing the very best in short film and animation. Some new releases as well as some good old favourite shorts are carefully chosen and put together under a different monthly theme for a night of cinematic joy. September's theme: 'Shorts: The Musical', and that's not just music videos! Some films are made much more interesting, intense, comedic or emotional with the use of the right music. Tonight Frogbear will be showcasing such short films - little musical short stories for your pleasure. Tonight&#8217;s films include: * "Thought Of You" by Ryan Woodward - a beautiful story of lost love shown through animated dance * "Stand Alone" by Joe McAllister - a short animation inspired by a story of bullying, from the comedic viewpoint of the bullied child * "Love Lost" by Alex Hinx - a competition entry to become the official Temper Trap video uses the song to show a twisted but sweet love story And that's just for starters... If you are interested in showing your film at &#8216;We like short shorts&#8217;, contact Dali at dalidewdrop@gmail.com. Doors open 7:30, first film start 8pm. ALL proceeds go to the children's charity 'Action Medical Research'. http://www.cafekick.co.uk/bar-kick/contact.html http://www.cafekick.co.uk/index.html&lt;/p&gt;</long_description>
+  <venue>
+    <id>2915</id>
+    <name>Bar Kick</name>
+    <street>127 Shoreditch High Street</street>
+    <area>Shoreditch</area>
+    <city>London</city>
+    <postcode>E1 6JE</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13175</id>
+  <name>Science In The Pub: ASTRONOMY SPECIAL #Pubsci</name>
+  <promoter>Upstairs at the Ritzy</promoter>
+  <start_time>2011-09-06T19:00:00Z</start_time>
+  <end_time>2011-09-06T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>#Pubsci, Ritzy, Brixton</tags>
+  <costs>&#163;3pp</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13175/original/Science_in_the_Pub_September_2011.jpg?1313411352</image_url>
+  <ticket_url>http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/Upstairs/</ticket_url>
+  <web_url>http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/</web_url>
+  <short_description>#PubSci are going all Patrick Moore on you&#8230; With guest presentation by Alice Sheppard.</short_description>
+  <long_description>&lt;p&gt;Alice has run the Galaxy Zoo Forum since &#8217;07; the discussion area for an online astronomy project with 300,000 members worldwide. Alice takes us through some of the best and worst of astronomical history, and what ancient and modern mistakes are made today. Followed by a live experiment and discussion as always. Info:www.scienceinthepub.co.uk. The ultimate drinking and thinking combo.&lt;/p&gt;</long_description>
+  <venue>
+    <id>268</id>
+    <name>The Ritzy</name>
+    <street>Brixton Oval</street>
+    <area>Brixton</area>
+    <city>London</city>
+    <postcode>SW2 1JG</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13492</id>
+  <name>Return</name>
+  <promoter>Apples and Snakes</promoter>
+  <start_time>2011-09-06T19:00:00Z</start_time>
+  <end_time>2011-09-06T21:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Polarbear</artists>
+  <tags>poetry, performance poetry, spoken word</tags>
+  <costs>&#163;9 / &#163;5</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13492/original/polarbear.jpg?1314026639</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.northdevontheatres.org.uk/</web_url>
+  <short_description>Polarbear presents Return</short_description>
+  <long_description>&lt;p&gt;Apples and Snakes presents Return Birmingham-born wordsmith Polarbear follows the successful national tour of If You Cover My Nose, You Can't See Me with a new forward-thinking live literature piece. Return tells the story of Noah, a man trying to figure out where he fits. Convinced he had to leave home in order to make his mark, Noah returns to find a world where a lot of things seem the same but nothing actually is. Combining storytelling with a distinctive lighting and projection design, Return exploits its relationship with cinematic genres. The show journeys through scenes and landscapes, encouraging you to explore and, like a film director, be challenged to re-imagine as the story unfolds...&lt;/p&gt;</long_description>
+  <venue>
+    <id>4023</id>
+    <name>Queen's Theatre Studio</name>
+    <street>Boutport Street</street>
+    <area></area>
+    <city>Barnstaple</city>
+    <postcode>EX31 1SY</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.081072</latitude>
+      <longitude>-4.058409</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13059</id>
+  <name>Life Drawing</name>
+  <promoter>Mothership London Ltd</promoter>
+  <start_time>2011-09-07T17:30:00Z</start_time>
+  <end_time>2011-09-07T21:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Life Drawing, Art</tags>
+  <costs>&#163;10 including a glass of wine and all materials</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13059/original/2_models.jpg?1313077611</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.wearetbc.com/</web_url>
+  <short_description>Our host Morris presents a contemporary feel to life drawing. Through imaginative styling, composition and consideration, surreal scenes are created for the figure. </short_description>
+  <long_description>&lt;p&gt;Our host Morris presents a contemporary feel to life drawing. Through imaginative styling, composition and consideration, surreal scenes are created for the figure. Each class will take on a fresh dynamic, with inspirational poses and influences taken from the contemporary art and fashion world. The aim of the class is to develop individual style and personal expression. 6:30pm - http://www.wegottickets.com/event/130300 8:30pm - http://www.wegottickets.com/event/130302&lt;/p&gt;</long_description>
+  <venue>
+    <id>1418</id>
+    <name>The Book Club</name>
+    <street>100 - 106 Leonard Street</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 4RH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.524836</latitude>
+      <longitude>-0.0814748</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13326</id>
+  <name>Life Drawing at The Baby Bathhouse</name>
+  <promoter>The Bathhouse</promoter>
+  <start_time>2011-09-07T18:30:00Z</start_time>
+  <end_time>2011-09-07T20:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Life drawing, art, cocktails, free, all levels, wednesday, group, friendly, activity, stoke newington, north london, pizza, drinks, dating, friendship</tags>
+  <costs>&#163;3</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13326/original/drawing_event.jpg?1313673628</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thebathhousevenue.com/BabyBathhouse/Events/Upcoming-Events.aspx</web_url>
+  <short_description>Life Drawing sessions with a guide to take you through drawing techniques &amp; composition. ALL abilities welcome.</short_description>
+  <long_description>&lt;p&gt;Life Drawing Sessions - every Wednesday 7.30pm - 9.30pm in the Baby Bathhouse basement &#163;3 entry - please email baby@thebathhousevenue.com to book a place or for any enquiries. You can turn up on the day and see if we have spaces too! The Baby Bathhouse basement, 125 Stoke Newington, N16 0UH. Paper &amp; drawing equpiment provided (or bring your own).&lt;/p&gt;</long_description>
+  <venue>
+    <id>3651</id>
+    <name>The Baby Bathhouse</name>
+    <street>125 Church Street</street>
+    <area>Stoke Newington</area>
+    <city>London</city>
+    <postcode>N16 0UH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5616963</latitude>
+      <longitude>-0.0810729</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13643</id>
+  <name>The Day of the Peacock with author Geoffrey Aquilina Ross</name>
+  <promoter>V &amp; A Enterprises</promoter>
+  <start_time>2011-09-08T17:45:00Z</start_time>
+  <end_time>2011-09-08T19:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>The Day of the Peacock, Vogue, Fashion, V&amp;A Reading Rooms, Geoffrey Aquilina Ross, Menswear, Talks, Free</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13643/original/The-Day-of-the-Peacock-248x300.jpg?1314288635</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.facebook.com/pages/VA-Shop</web_url>
+  <short_description>Evenings at the V&amp;A Reading Rooms
+
+The Day of the Peacock: Style for Men 1963-1973 with author Geoffrey Aquilina Ross, first men&#8217;s editor at Vogue.
+
+Celebrating Vogue&#8217;s Fashion Night Out 2011</short_description>
+  <long_description>&lt;p&gt;In the 1960s men&#8217;s fashion witnessed an extraordinary rebirth that led to lasting social, cultural and commercial change. Broad in range and scope, and neatly evoking the 1960s atmosphere of optimism and opportunity, Geoffrey reads from and looks at the eras most dashing figures &#8211; including John Stephen, Tommy Nutter, Cecil Beaton, Mick Jagger and Patrick Lichfield &#8211; and discusses such iconic shops as Granny takes a Trip, Blades, Hung on You and Mr Fish. This richly illustrated personal memoir evokes a definitive break from the past &#8211; from a time when one could invariably guess a man&#8217;s occupation from how he dressed, to a time when a man might make dressing himself his occupation.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3941</id>
+    <name>Victoria and Albert Reading Rooms</name>
+    <street>8 Exhibition Road</street>
+    <area>South Kensington</area>
+    <city>London</city>
+    <postcode>SW7 2HF</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4948897</latitude>
+      <longitude>-0.1733219</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13421</id>
+  <name>The Nomad Cinema presents Dangerous Liaisons</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-09T17:30:00Z</start_time>
+  <end_time>2011-09-09T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Glenn Close, John Malkovich, Michelle Pfeiffer, Swoosie Kurtz, Uma Thurman, Keanu Reeves</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;15</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13421/original/Dangerous_Liaisons_Movie.jpg?1313924798</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/nomad-cinema-dangerous-liaisons-fulham-palace-london/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>Join The Nomad in the elegant and swoonsome surroundings of Fulham Palace for a celebration of heaving bosoms, powdered wigs, sly sexual machinations and general aristocratic French naughtiness with a screening of Dangerous Liaisons.</short_description>
+  <long_description>&lt;p&gt;&#8220;Lust. Seduction. Revenge. The Game as you&#8217;ve never seen it played before.&#8221; Join us in the elegant and swoonsome surroundings of Fulham Palace for a celebration of heaving bosoms, powdered wigs, sly sexual machinations and general aristocratic French naughtiness. Bring your wine, your picnic, your finest stockings (gents) and your flirtiest demeanour for an evening of Rococo Royal Court posing, scheming and wooing, climaxing in a special screening under the stars of Stephen Frears&#8217; 1988 Hollywood debut, starring the incredible John Malkovich and Glenn Close &#8211; both having a ball as arch baddies &#8211; in the lead roles of the Vicomte Sebastian de Valmont and the Marquise Isabel de Meurteuil. It&#8217;s a sumptuous film, more than worthy of the Oscars it picked up for Best Costume Design, Best Art Direction and Best Adapted Screenplay for Christopher Hampton, who adapted the script from his own play, based on the 18th century novel by Pierre Choderlos de Laclos. Alors mesdames et messieurs, we look forward to making your acquaintance and enjoying a little of your company. May we recommend a blanket or low chair to sit on and perhaps something warm to cover yourself after sunset? Until then&#8230; Space is limited so please book in advance to avoid disappointment - http://www.whereisthenomad.com/events/nomad-cinema-dangerous-liaisons-fulham-palace-london/&lt;/p&gt;</long_description>
+  <venue>
+    <id>1020</id>
+    <name>Fulham Palace</name>
+    <street></street>
+    <area>Fulham</area>
+    <city>London</city>
+    <postcode>SW6 6EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4707058</latitude>
+      <longitude>-0.2160939</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12977</id>
+  <name>Windmill Golf Academy Family Fun Day</name>
+  <promoter>Bullseyehub</promoter>
+  <start_time>2011-09-10T09:00:00Z</start_time>
+  <end_time>2011-09-10T22:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Fabulous Rhythm Brothers, DJ Pop Daddy</artists>
+  <tags>golf, games, fun, bbq</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12977/original/14-3-im-Image__width_200px_-8946.jpg?1312990040</image_url>
+  <ticket_url>http://www.windmillgolfacademy.co.uk/</ticket_url>
+  <web_url>http://www.windmillgolfacademy.co.uk/</web_url>
+  <short_description>Windmill Golf Academy Family Fun Event Day raising money for Help For Heroes</short_description>
+  <long_description>&lt;p&gt;On Saturday 10th September Windmill Golf Academy will be holding a FAMILY FUN DAY in support of the "Help For Heroes" charity. This will be a fun filled day with something for everyone - there will be games and activities including Golf Competitions, an Army Assault Course, Bungee Run and Sumo Suits. There will be a BBQ throughout the day and lots of attractions. Our Sponsored Events include: &#183; A 24 Hour Golfathon with our very own David Hoey in his record breaking attempt to hit 5,000 golf balls in 24 hours. &#183; The DOG (aka Steve Scott-Bowen, Director of Golf) has reluctantly accepted his fate to have his legs waxed if we are able to raise &#163;500 before 10 September. Please see the reception staff at Windmill for our sponsorship form to help us make this happen! &#183; A "Beat the Pro's" competition for those who feel confident enough to accept the challenge! It's not every day you get this opportunity! To end the day on a more relaxed note our evening entertainment will include live music from the Fabulous Rhythm Brothers and DJ Pop Daddy (Foxy Music, Bath) then a fabulous firework display to round the day off with a big bang. Windmill Golf Academy will be donating a percentage of the day's profits to the Help for Heroes Charity. To help us maximise our support we will be asking for voluntary contributions from anyone entering our Golf Events. For further information about Help for Heroes please see the H4H website.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3970</id>
+    <name>Windmill Golf Academy</name>
+    <street>Henfield Road</street>
+    <area>Westerleigh</area>
+    <city>Bristol</city>
+    <postcode>BS36 2UP</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.495173</latitude>
+      <longitude>-2.48587</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12030</id>
+  <name>Breakdance Classes</name>
+  <promoter>The Riverhouse Barn</promoter>
+  <start_time>2011-09-10T10:00:00Z</start_time>
+  <end_time>2011-09-10T11:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Ben Taylor</artists>
+  <tags>Dance workshop, breakdance Class, 8-12 years</tags>
+  <costs>Under &#163;10</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12030/original/BairchairCompress.jpg?1311076386</image_url>
+  <ticket_url></ticket_url>
+  <web_url></web_url>
+  <short_description>Breakdance Classes for ages 8-12 with Bboyin star Ben Taylor.</short_description>
+  <long_description>&lt;p&gt;Back by popular demand this Autumn Term (2011), book now to avoid disappointment! 5 sessions &#163;7 per session or &#163;32 for all 5. 10 Sept, 8 &amp; 22 Oct, 12 Nov and 3 Dec.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3858</id>
+    <name>Riverhouse Barn Arts Centre</name>
+    <street>Manor Road</street>
+    <area>Walton-on-Thames</area>
+    <city>Near Kingston-upon-Thames</city>
+    <postcode>KT122PF</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.3900576</latitude>
+      <longitude>-0.42179</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13423</id>
+  <name>The Nomad Cinema presents Finding Nemo @ Brockwell Lido</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-10T17:30:00Z</start_time>
+  <end_time>2011-09-10T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Geoffrey Rush, Ellen DeGeneres, Albert Brooks, Willem Dafoe, Alexander Gould, Brad Garrett, Nemo, Dory</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;12.50, &#163;8.50 concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13423/original/Marlin-and-Dory-finding-nemo-1003067_800_600.jpg?1313925414</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/open-air-cinema-finding-nemo-brockwell-lido-london/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>The Nomad's roaming pop-up cinema returns to the beautifully picturesque sunny setting of Brockwell Lido for some more aquatic fun with the Disney Pixar classic, Finding Nemo.</short_description>
+  <long_description>&lt;p&gt;&#8220;A fishy favourite for all; children, adults and those wanting to watch a film just for the &#8216;halibut&#8217;! This Disney Pixar classic animation follows Marlin, a tiny clown fish, in his search to find his son Nemo (- also a tiny clown fish!) after he is scooped out of the sea by a diver and caged within a fish tank in a dental surgery. On Marlin&#8217;s mission to find Nemo, we meet memorable characters such as Dory, a Pacific Blue Regal tang with severe short-term memory loss, vegetarian sharks Bruce, Anchor and Chum, plus Mr Ray (self-explanatory!) and Crush &#8211; a surf-cultured sea turtle who has been riding the East Australian Current for 150 years. Meanwhile, captured in the fish tank in Sydney, Nemo meets the &#8216;Tank Gang&#8217; led by a crafty and ambitious moorish idol named Gill. After they try to initiate him into their gang, Nemo takes the oppor-&#8216;tuna&#8217;-ty to embark on an escape plan of his own&#8230; So &#8216;mussel&#8217; in on the action at Brockwell Lido &#8211; the perfect &#8216;plaice&#8217; for some aquatic adventures with Nemo and the gang!&#8221; Space is limited so please book your tickets in advance to avoid disappointment - http://www.whereisthenomad.com/events/open-air-cinema-finding-nemo-brockwell-lido-london/&lt;/p&gt;</long_description>
+  <venue>
+    <id>3741</id>
+    <name>Brockwell Lido</name>
+    <street>Brockwell Park</street>
+    <area>Dulwich</area>
+    <city>London</city>
+    <postcode>SE24 0PA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4543375</latitude>
+      <longitude>-0.108968</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13424</id>
+  <name>The Nomad Cinema presents Ghost @ St Augustine's Abbey</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-10T17:30:00Z</start_time>
+  <end_time>2011-09-10T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Patrick Swayze, Demi Moore, Whoopi Goldberg, Tony Goldwyn</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;12.50, &#163;10 concessions</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13424/original/ghost1l.jpg?1313926022</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/ghost-st-augustines-abbey-canterbury/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>The Nomad touches down in the wonderful city of Canterbury for our first of three special screenings at this stunning venue over the course of September&#8230;.</short_description>
+  <long_description>&lt;p&gt;The Nomad touches down in the wonderful city of Canterbury for our first of three special screenings over the course of September&#8230;. The sadly departed Patrick Swayze holds the record the playing the least scary ghost in cinema history. Fact. Maybe it&#8217;s the extravagantly volumous barnet, maybe it&#8217;s the fact that he doesn&#8217;t really get down to much in the way of haunting, but you can guarantee that even the scardest of scardy cats would feel ne&#8217;er a goose pimple. This is irrelevant as Ghost is a wonderful film and boasts the Swayze at his career best. He plays Sam, an honest joe killed during a botched mugging who remains stuck on earth to guard the love of his life (Demi Moore). Whoopie Goldberg steals every scene (almost) as a fast-talking &#8216;psychic&#8217; who&#8217;s as surprised as Sam is to learn that she can actually see the dead. To give away more would be robbing those lucky souls who are yet to experience Swayze&#8217;s mega-mullet of a truely heartwarming slice of cinema. And if you join us down at the spooky St Augustine&#8217;s Abbey, we at the Nomad will be giving you a chance to recreate scenes from the movie &#8211; and you know what scene we&#8217;re talking about! That&#8217;s right, bring some clothes that ain&#8217;t too precious and get ready for a spin on our pottery wheel &#8211; we&#8217;ll have a camera on hand to record your special moment and the best approximation of sir Patrick of Swayze&#8217;s bouffant will win you a special prize.&lt;/p&gt;</long_description>
+  <venue>
+    <id>4017</id>
+    <name>St Augustine's Abbey</name>
+    <street>Monastery Street</street>
+    <area>Canterbury</area>
+    <city>Kent</city>
+    <postcode>CT1 1PF</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.2791052</latitude>
+      <longitude>1.0866856</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10158</id>
+  <name>The London Photograph Fair</name>
+  <promoter>Alex Thompson</promoter>
+  <start_time>2011-09-11T09:00:00Z</start_time>
+  <end_time>2011-09-11T15:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Fair, Photography, Photographer, London, Collector</tags>
+  <costs>&#163;3</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10158/original/203535.png?1307101729</image_url>
+  <ticket_url>http://www.photofair.co.uk/#/contact/4544679087</ticket_url>
+  <web_url>http://www.photofair.co.uk/</web_url>
+  <short_description>The UK's premier event for collectors of all types of photography.</short_description>
+  <long_description>&lt;p&gt;The London Photograph Fair is the premier event of its type for collectors of all types of photography. The Fair brings together 40 dealers from the UK and Europe, with vintage and contemporary images offered, alongside a wide range of photo books at competitive prices. Many dealers will refund your admission charge on purchases of &#163;20 or more.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3786</id>
+    <name>The Holiday Inn - Bloomsbury</name>
+    <street>Coram Street</street>
+    <area>Bloomsbury</area>
+    <city>London</city>
+    <postcode>WC1N 1HT</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5239007</latitude>
+      <longitude>-0.1250005</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13425</id>
+  <name>The Nomad Cinema presents Romeo &amp; Juliet @ Regents Park</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-11T17:15:00Z</start_time>
+  <end_time>2011-09-11T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Leonardo DiCaprio, Claire Danes, John Leguizamo, Harold Perrineau</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;18, &#163;15</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13425/original/romeo-and-juliet.jpg?1313926411</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/regentspark/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>Join The Nomad for a one-off special screening of Baz Luhrmann&#8217;s dazzling and sumptuous Romeo + Juliet in the wonderful setting of Regent&#8217;s Park Open Air Theatre.</short_description>
+  <long_description>&lt;p&gt;Join us for a one-off special screening of Baz Luhrmann&#8217;s dazzling and sumptuous Romeo + Juliet in the wonderful setting of Regent&#8217;s Park Open Air Theatre. Pure hurtling passion, this. Luhrmann lit a rocket under the well-known tale of star-cross&#8217;d lovers, swapped daggers for guns, &#8216;fair Verona&#8217; for Verona beach &#8211; a brilliantly decaying hybrid of Miami Beach and Mexico City &#8211; and sent his camera careering across beautiful and lurid sets, beautiful young actors, to a Nellee Hooper-overseen soundtrack of pumping MTV-friendly rock, taking in The Cardigans, Kym Mazelle and Radiohead. Leonardo di Caprio and Clare Danes are perfectly cast at the centre of this, with solid support in the shape of Paul Sorvino, Pete Postlethwaite, Brian Dennehy and John Leguizamo, memorable as fiery Tybalt. The unique surroundings of Regent&#8217;s Park Open Air theatre provide the backdrop for this Nomad Cinema special, with a few surprises lined up to bring the film to life under the stars. As with all our outdoor screenings, we would suggest that you bring something warm to wear for after sunset. The theatre is a 10min walk from Baker Street underground station. There will be hot and cold food, hot drinks and a full licensed bar on site. Space is limited so please book your tickets in advance to avoid disappointment - http://www.whereisthenomad.com/events/regentspark/&lt;/p&gt;</long_description>
+  <venue>
+    <id>2331</id>
+    <name>Open Air Theatre</name>
+    <street>Regents Park</street>
+    <area>Primrose Hill</area>
+    <city>London</city>
+    <postcode>NW1 4NR</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5402349</latitude>
+      <longitude>-0.1578157</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13066</id>
+  <name>Last night a speed date changed my life</name>
+  <promoter>Mothership London Ltd</promoter>
+  <start_time>2011-09-12T18:00:00Z</start_time>
+  <end_time>2011-09-12T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Speed dating, Love , Meeting new people in London</tags>
+  <costs>&#163;10</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13066/original/speed_dating.jpg?1313078456</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.wearetbc.com/</web_url>
+  <short_description>Last night a speed date changed my life is the best way to meet new friends and possibly find your loved one! It&#8217;s quick, clever and painless; a light-hearted, fun time in a relaxed atmosphere. Age group is mid 20's to mid 30's. </short_description>
+  <long_description>&lt;p&gt;Last night a speed date changed my life is the best way to meet new friends and possibly find your loved one! It&#8217;s quick, clever and painless; a light-hearted, fun time in a relaxed atmosphere. Limited places are available, age group is mid 20's to mid 30's. We must have equal numbers of ladies and gents, so booking is essential. GUYS http://www.wegottickets.com/event/130007 GIRLS http://www.wegottickets.com/event/130008&lt;/p&gt;</long_description>
+  <venue>
+    <id>1418</id>
+    <name>The Book Club</name>
+    <street>100 - 106 Leonard Street</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 4RH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.524836</latitude>
+      <longitude>-0.0814748</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13484</id>
+  <name>University Challange Quiz Night for Marie Curie</name>
+  <promoter>Upstairs at the Ritzy</promoter>
+  <start_time>2011-09-12T18:00:00Z</start_time>
+  <end_time>2011-09-12T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Quiz</artists>
+  <tags>quiz, charity, brixton, ritzy</tags>
+  <costs>&#163;5 (per team) (goes to charity)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13484/original/University_challange_quiz_image.jpg?1314023324</image_url>
+  <ticket_url>http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/Upstairs/</ticket_url>
+  <web_url>http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/</web_url>
+  <short_description>It&#8217;s your starter for ten on Monday night!</short_description>
+  <long_description>&lt;p&gt;It&#8217;s your starter for ten on Monday night! Bring your smartest friends and enter a team, or just come along to watch and indulge your inner geek with a board game or two. All proceeds go directly to Marie Curie Cancer Care. Contact: bridie.layden@mariecurie.org.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>268</id>
+    <name>The Ritzy</name>
+    <street>Brixton Oval</street>
+    <area>Brixton</area>
+    <city>London</city>
+    <postcode>SW2 1JG</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13507</id>
+  <name>Kid, I Wrote Back</name>
+  <promoter>Bar Kick</promoter>
+  <start_time>2011-09-12T18:30:00Z</start_time>
+  <end_time>2011-09-12T21:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Joshua Idehen, Musa Okwonga, LV</artists>
+  <tags>poetry, spoken word, open mic, Joshua Idehen, Musa Okwonga, LV, Pip, The King's Will, poetry in east london, poetry in shoreditch, Bar Kick, Events on Mondays, Routes, Chimene Suleyman</tags>
+  <costs>&#163;3 on the door, Free to perform</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13507/original/kid_dodo.jpg?1314037793</image_url>
+  <ticket_url>http://www.cafekick.co.uk/bar-kick/contact.html</ticket_url>
+  <web_url>http://www.cafekick.co.uk/index.html</web_url>
+  <short_description>'Kid, I wrote back' has solidified itself as one of the most fresh, exciting and eclectic poetry and spoken word nights London has to offer. Bringing both established and new poets together for an evening of words and rhymes.</short_description>
+  <long_description>&lt;p&gt;Purposefully breaking free from promoting any one verse, word, voice or style KID, stamps a defiantly individual mark onto the capital's red-ripe spoken word and poetry scene. KID, I WROTE BACK invites both established and as yet unheard talent to the stage to perform &#8211; offering a much needed dose of full-on liberalism and authenticity &#8211; that will agitate, challenge and tickle your minds. It is a platform for current words from current poets of all styles and experience who are looking to share words and hear others in a friendly and lively environment. It is the brainchild of Chim&#232;ne Suleyman, a writer and poet who performs as part of the Rhymes Won&#8217;t Wait collective and Dylan Sage, a writer and emcee who has entertained with the likes of The Nextmen and Breaking Bread. Tonight we have Joshua Idehen and Musa Okwonga from London's poetry collective 'Pip'. LV and Joshua Idehen have recently collaborated on spoken word album 'Routes'. Musa is one half (the poetry half) of the spoken word and electronica duo The King's Will. Read a review here: http://www.factmag.com/2011/05/10/lv-joshua-idehen-routes/ &#163;3 on the door/FREE to perform. Doors open 7:30, words start at 8pm. If you would like to perform email kidiwroteback@instorage.org.uk or get there early on the night to sign up. kidiwroteback@instorage.org.uk www.facebook.com/kidiwroteback www.myspace.com/kidiwroteback&lt;/p&gt;</long_description>
+  <venue>
+    <id>2915</id>
+    <name>Bar Kick</name>
+    <street>127 Shoreditch High Street</street>
+    <area>Shoreditch</area>
+    <city>London</city>
+    <postcode>E1 6JE</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>9216</id>
+  <name>Risk Assessment</name>
+  <promoter>Occhnet Ltd</promoter>
+  <start_time>2011-09-13T08:00:00Z</start_time>
+  <end_time>2011-09-13T11:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Occhnet Ltd</artists>
+  <tags>risk, training, assessment, legilsation, health, safety</tags>
+  <costs>175</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/9216/original/Risk_assessment.jpg?1305545426</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.occhnet.co.uk</web_url>
+  <short_description>Risk Assessment Training</short_description>
+  <long_description>&lt;p&gt;&#8220;Is it Worth the Risk?&#8221; Risk Assesment Training This Risk assessor training will enable the participants to carry out basic risk assessments within the workplace in accordance with the Management of Health &amp; Safety at Work Regulations. The delegates will consider &#8226; Legislation, &#8226; Assessment &#8226; Methods, &#8226; Information gathering, &#8226; Risk evaluation and &#8226; Record keeping. Risk Assessments - are you complying?&lt;/p&gt;</long_description>
+  <venue>
+    <id>3686</id>
+    <name>Liberty Stadium</name>
+    <street>Brunel Way</street>
+    <area></area>
+    <city>Swansea</city>
+    <postcode>SA1 2FA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6421561</latitude>
+      <longitude>-3.9351185</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12010</id>
+  <name>Medieval Song Network - Recital </name>
+  <promoter>School of Advanced Study, University of London</promoter>
+  <start_time>2011-09-13T17:00:00Z</start_time>
+  <end_time>2011-09-13T19:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Orlando Consort,  Medieval Song Network, Institute of Musical Research</tags>
+  <costs>Free to attend</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12010/original/SAS.jpg?1311068969</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://music.sas.ac.uk/imr-events/event-details.html?id=9510</web_url>
+  <short_description>Institute of Musical Research, School of Advanced Study
+
+John Coffin Trust Fund recital.  The Orlando Consort
+
+</short_description>
+  <long_description>&lt;p&gt;Recital in connection with the Medieval Song Network. Location: The Priory Church of St Bartholomew the Great. For more details contact valerie.james@sas.ac.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>3927</id>
+    <name>The Priory Church of St Bartholomew the Great</name>
+    <street>West Smithfield</street>
+    <area></area>
+    <city>City of London</city>
+    <postcode>EC1A 7HW</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.51847</latitude>
+      <longitude>-0.1025988</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13327</id>
+  <name>Life Drawing at The Baby Bathhouse</name>
+  <promoter>The Bathhouse</promoter>
+  <start_time>2011-09-14T18:30:00Z</start_time>
+  <end_time>2011-09-14T20:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Life drawing, art, cocktails, free, all levels, wednesday, group, friendly, activity, stoke newington, north london, pizza, drinks, dating, friendship</tags>
+  <costs>&#163;3</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13327/original/drawing_event.jpg?1313673910</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thebathhousevenue.com/BabyBathhouse/Events/Upcoming-Events.aspx</web_url>
+  <short_description>Life Drawing sessions with a guide to take you through drawing techniques &amp; composition. ALL abilities welcome</short_description>
+  <long_description>&lt;p&gt;Life Drawing Sessions - every Wednesday 7.30pm - 9.30pm in the Baby Bathhouse basement &#163;3 entry - please email baby@thebathhousevenue.com to book a place or for any enquiries. You can turn up on the day and see if we have spaces too! The Baby Bathhouse basement, 125 Stoke Newington, N16 0UH. Paper &amp; drawing equpiment provided (or bring your own).&lt;/p&gt;</long_description>
+  <venue>
+    <id>3651</id>
+    <name>The Baby Bathhouse</name>
+    <street>125 Church Street</street>
+    <area>Stoke Newington</area>
+    <city>London</city>
+    <postcode>N16 0UH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5616963</latitude>
+      <longitude>-0.0810729</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13426</id>
+  <name>The Nomad Cinema presents Ghost @ Priory Park</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-15T17:00:00Z</start_time>
+  <end_time>2011-09-15T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Patrick Swayze, Demi Moore, Tony Goldwyn, Whoopi Goldberg</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;12.50</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13426/original/ghost1l.jpg?1313926668</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/ghost-priory-park/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>As part of a summer of pop-up open-air cinema, The Nomad travels to the beautiful Priory Park in Reigate for a special screening of Ghost </short_description>
+  <long_description>&lt;p&gt;Ghost is another one of those movies that we at Nomad HQ love to wheel out when we&#8217;re feeling romantic. We slap on The Best of the Righteous Brothers on our cassette player, we tousle our hair until it reaches the perfect Swayze-esque bouffant, fire up the potters wheel and get ready to sniffle and snuffle our way through one of modern cinema&#8217;s most romantic cheese treats. We all know the set-up; man gets killed in bungled mugging and through the power of love remains on earth to watch over his lady and help her find his killer. Chuck Whoopie Goldberg in to the mix as a fast talking con artist who can see the dead and you&#8217;ve got yourself a solid gold box office success. Airplane! Director Jerry Zucker plays all the right notes in a film that has endured. Beautiful Priory Park is worth the ticket price alone &#8211; be sure to get there early to soak up the atmosphere and enjoy the food and drink on offer from our friends at Airstream Alfresco, whose shining, curvacious trailer is a beacon of gastronomic inspiration (they do booze too). We&#8217;ll be giving you lucky punters the chance to recreate one of cinema&#8217;s iconic scenes, so make sure to dress accordingly. Remember to bring a jumper and a loved one for when the sun sets as we don&#8217;t want you catching cold. Tickets to be bought in advance from http://www.whereisthenomad.com/events/ghost-priory-park/&lt;/p&gt;</long_description>
+  <venue>
+    <id>3893</id>
+    <name>Priory Park</name>
+    <street>Bell Street</street>
+    <area>Reigate</area>
+    <city>Surrey</city>
+    <postcode>RH2 7RL</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.235401</latitude>
+      <longitude>-0.204561</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13428</id>
+  <name>The Nomad Cinema presents Mamma Mia! @ Scotney Castle</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-16T17:00:00Z</start_time>
+  <end_time>2011-09-16T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Meryl Streep, Pierce Brosnan, Colin Firth, Stellan Skarsgard, Julie Walters, Amanda Seyfried, Dominic Cooper, Christine Baranski</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;12, &#163;10 concessions</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13428/original/mamma.xlarge1.jpg?1313927286</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/mamma-mia-scotney-castle/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>Stunning Scotney Castle in Kent provides the suitably escapist venue for The Nomad's pop-up cinema and the unstoppably feelgood summertime smash that is Mamma Mia! </short_description>
+  <long_description>&lt;p&gt;The wonderful grounds of Scotney Castle provide the suitably escapist venue for the unstoppably feelgood summertime smash that is Mamma Mia! Join us under the stars for some of the best pop songs ever written. Meryl Streep reinvented herself as a musical performer of great panache and conviction, Pierce Brosnan confirmed our worst fears about his vocal ability and penchant for linen, while Colin Firth managed to escape stereotyping as an repressed English gent&#8230; The Nomad always looks forward to pink night skies, pink wine and bawling along to Mamma Mia! Doors open at 6pm. Bring a low chair or blanket to sit on, and something warm to wear for later on. Space is limited so tickets should be bought in advance to avoid disappointment - http://www.whereisthenomad.com/events/mamma-mia-scotney-castle/&lt;/p&gt;</long_description>
+  <venue>
+    <id>4018</id>
+    <name>Scotney Castle</name>
+    <street>Lamberhurst</street>
+    <area>Tunbridge Wells</area>
+    <city>Kent</city>
+    <postcode>TN3 8JN</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.0927827</latitude>
+      <longitude>0.4081979</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13427</id>
+  <name>The Nomad Cinema presents The Omen @ Fulham Palace</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-16T17:15:00Z</start_time>
+  <end_time>2011-09-16T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Gregory Peck, Lee Remick, Harvey Stephens, David Warner</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;15</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13427/original/the_Omen.jpg?1313926923</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/nomad-cinema-omen-fulham-palace-london/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>The iconic 1976 horror returns to the biggest of screens, in the grounds of Fulham Palace, Bishop&#8217;s Park, where some of the film&#8217;s most terrifying scenes were shot.</short_description>
+  <long_description>&lt;p&gt;The iconic 1976 horror returns to the biggest of screens, in the grounds of Fulham Palace, Bishop&#8217;s Park, where some of the film&#8217;s most terrifying scenes were shot. You surely know about the curse of The Omen? And that Fulham Palace is haunted? You don&#8217;t? Well, never mind about that for now &#8211; just buy your ticket, find a friend who doesn&#8217;t mind you jumping on them in terror, and bring a stiff drink with you. You might need it. So might some of our priests on duty that night&#8230; Bring something warm to wear for when the moon eclipses the sun and those shivers up your spine take over. And please present any birthmarks for inspection at the box office. May the lord be with you. Space is limited so please book your tickets in advance to avoid disappointment - http://www.whereisthenomad.com/events/nomad-cinema-omen-fulham-palace-london/&lt;/p&gt;</long_description>
+  <venue>
+    <id>1020</id>
+    <name>Fulham Palace</name>
+    <street></street>
+    <area>Fulham</area>
+    <city>London</city>
+    <postcode>SW6 6EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4707058</latitude>
+      <longitude>-0.2160939</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13429</id>
+  <name>The Nomad Cinema presents The Third Man @ Queens Park</name>
+  <promoter>Lexi Cinema presents The Nomad</promoter>
+  <start_time>2011-09-17T17:00:00Z</start_time>
+  <end_time>2011-09-17T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Joseph Cotten, Alida Valli, Orson Welles</artists>
+  <tags>al-fresco, Cinema, film, indie, open air cinema, pop-up cinema, The Nomad Cinema</tags>
+  <costs>&#163;12.50, &#163;8.50 concession</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13429/original/thethirdman-cotten-welles.jpg?1313927722</image_url>
+  <ticket_url>http://www.whereisthenomad.com/events/the-third-man-open-air-cinema-queens-park/</ticket_url>
+  <web_url>http://www.whereisthenomad.com</web_url>
+  <short_description>Classic noir under the stars in one of London&#8217;s most impressive parks: join The Nomad Cinema for a special screening of the greatest British film of all time (discuss), The Third Man. </short_description>
+  <long_description>&lt;p&gt;Classic noir under the stars, with Orson Welles as Harry Lime, one of the greatest enigmatic characters of cinema history, in what must be the greatest British film of all time. He doesn&#8217;t even pop up until halfway through the film &#8211; but, oh, what an entrance. What a beautifully shot, atmospheric setting: dark and seedy, exhausted and cynical post-war Vienna, full of smoky dens and dubious double-crossers, shades-of-grey morality and uncertain futures. A bit like Queens Park really. We invite you to join us early for some pre-film, slightly sinister jazz-noir sounds and some specially commissioned foodie treats from Anna Mae&#8217;s Southern Street Food: &#8216;The Third Mac&#8217; &#8211; delicious mac &#8216;n&#8217; cheese topped with Viennese sausage and sauerkraut. Why not wash that down with a cool Meantime Weissbier or one of Harry Lime&#8217;s Third-Man-garitas? (Ouch). If you&#8217;re looking for the inside scoop, then line up for a special shoeshine from Mr Swervy &#8211; slip him some folding money, and you might get more information than you bargained for. And be sure to dress up for our fabulous film noir photo-booth, courtesy of those kooks at Photobooth Out of Order- this is the ultimate photo-souvenir&#8230; Then pin on your limited edition Third Man badge, before settling back for some electrifying live zither music as our mystery musician treats you to that famous Anton Karas theme tune&#8230; We&#8217;re also in Queens Park on Sat 3 Sept for iconic cult comedy Napoleon Dynamite, and just up the road in Roundwood Park, we&#8217;re showing Back to the Future Part I on Sun 4 Sept. Join us for all three! PS. If you&#8217;re a Lexi Cinema member, flash your card at us at the box office and we&#8217;ll give you a shiny &#163;2 nugget back! Space is limited so please book your tickets in advance to avoid disappointment - http://www.whereisthenomad.com/events/the-third-man-open-air-cinema-queens-park/&lt;/p&gt;</long_description>
+  <venue>
+    <id>353</id>
+    <name>The Queens</name>
+    <street>49 Regents Park Road</street>
+    <area>Camden</area>
+    <city>London</city>
+    <postcode>NW1 8XD</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5267967</latitude>
+      <longitude>-0.1635302</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13073</id>
+  <name>Super/collider Science Fair&#8482;</name>
+  <promoter>Mothership London Ltd</promoter>
+  <start_time>2011-09-19T18:00:00Z</start_time>
+  <end_time>2011-09-19T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>super/collider, Science, Design, DesigningScience</tags>
+  <costs>&#163;7 including a complimentary copy of 'DesigningScience'</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13073/original/IMG_2199.jpg?1313080984</image_url>
+  <ticket_url>http://www.super-collider.com/sciencefair</ticket_url>
+  <web_url>http://www.wearetbc.com/</web_url>
+  <short_description>Join us during the London Design Festival as we celebrate the culmination of super/collider's DesigningScience project exploring the relationship between science and design. </short_description>
+  <long_description>&lt;p&gt;Join us during the London Design Festival as we celebrate the culmination of super/collider's DesigningScience project exploring the relationship between science and design. We'll be joined by participants from both worlds to explore how they influence eachother as well as launching a magazine on the night!&lt;/p&gt;</long_description>
+  <venue>
+    <id>1418</id>
+    <name>The Book Club</name>
+    <street>100 - 106 Leonard Street</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 4RH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.524836</latitude>
+      <longitude>-0.0814748</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13263</id>
+  <name>Spark London, Open Mic True Story Telling - Theme: Holidays</name>
+  <promoter>Upstairs at the Ritzy</promoter>
+  <start_time>2011-09-19T18:00:00Z</start_time>
+  <end_time>2011-09-19T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>True Story Telling, Open Mic</artists>
+  <tags>ope mic, true story telling, ritzy, brixton</tags>
+  <costs>free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13263/original/Spark_september_2011.jpg?1313585321</image_url>
+  <ticket_url>http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/Upstairs/</ticket_url>
+  <web_url>http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/</web_url>
+  <short_description>Britain&#8217;s first true story-telling club SPARK LONDON are taking London and the national press by storm.</short_description>
+  <long_description>&lt;p&gt;Britain&#8217;s first true story-telling club SPARK LONDON are taking London and the national press by storm. We are delighted to have them right here in open-mic form, with the made-for-listening tones of host Mr Michael O&#8217;Kelly. Stories must be true, first person accounts, about 5 minutes long and connected to the theme of 'PARENTS&#8217; For more details go to www.sparklondon.com. Upstairs at the Ritzy is the lovely bar and exciting venue above the Ritzy Cinema. We're open 7 nights a week and we pride ourselves on being a well-known &amp; well-loved cultural hub for Brixton. Our stage show-cases a consistently high standard of live music, from Reggae, Afro-beat &amp; Vintage-Swing, to World-Jazz, Folk, Blues, Balkan &amp; beyond! Plus we bring a monthly comedy feast, open mic, performance, workshops &amp; all sorts of exciting group activities. Full menu served all day till 8.30pm &#8211; so there&#8217;s eats to be had too! Follow us on Twitter: http://bit.ly/fi4bIz Add us on MySpace: http://mysp.ac/g3A3Egy&lt;/p&gt;</long_description>
+  <venue>
+    <id>268</id>
+    <name>The Ritzy</name>
+    <street>Brixton Oval</street>
+    <area>Brixton</area>
+    <city>London</city>
+    <postcode>SW2 1JG</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13458</id>
+  <name>WSOP Europe Super Satellite Series</name>
+  <promoter>The Casino At The Empire</promoter>
+  <start_time>2011-09-20T11:00:00Z</start_time>
+  <end_time>2011-09-20T23:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>WSOPE Super Satellite Series,  London, Leicester Square, Leicester Square Tube, Central London, WSOP Europe, Cannes, The Casino at the Empire, Poker</tags>
+  <costs>&#163;250, &#163;275, &#163;550</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13458/original/WSOPE_preview_image.JPG?1314012692</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thecasinolsq.com/home/</web_url>
+  <short_description>The WSOPE Super Satellite Series is being held at The Casino at the Empire from the 20th September - September 25th from 12pm. Each of our three events will be offering one added seat package into the corresponding WSOP Europe Bracelet Event.</short_description>
+  <long_description>&lt;p&gt;The Casino at the Empire is hosting a WSOP Europe Super Satellite Series which will take place from Tuesday 20th September until Sunday 25th September; each of our three events will be offering one added seat package into the corresponding WSOP Europe Bracelet Event. Event #1 &#163;200 + &#163;20, Six Handed No Limit Texas Hold&#8217;em, Tuesday 20th to Wednesday 21st September, 8,000 starting stack, 30 minute clock, 120 player cap. First and second place will both receive entrance into the three day, &#8364;2,680 WSOPE Event #1 - Six Handed No Limit Texas Hold&#8217;em. Taking place at the Hotel Majestic Barriere in Cannes, from Friday October 7th. One seat and accommodation package has been added to the prize pool by WSOP.com. The second seat package will be deducted from the prize pool the remaining prize pool will be divided into cash prizes. Event #2 &#163;250 + &#163;25, Pot Limit Omaha, Wednesday 21st to Thursday 22nd September, 10,000 starting stack, 45 minute clock, 160 player cap. First and second place will both receive entrance into the three day, &#8364;5,300 WSOPE Event #3 &#8211; Pot Limit Omaha. Taking place at the Hotel Majestic Barriere in Cannes, from Monday October 10th. One seat and accommodation package has been added to the prize pool by WSOP.com. The second seat package will be deducted from the prize pool the remaining prize pool will be divided into cash prizes. Event #3 &#163;500 + &#163;50, No Limit Texas Hold&#8217;em, Thursday 22nd to Sunday 25th September, two starting days, 20,000 starting stack, one hour clock, 400 player cap. First and second place will both receive entrance into the three day, &#8364;10,400 WSOPE Event #7 &#8211; No Limit Texas Hold&#8217;em, Main Event Championship. Taking place at the Hotel Majestic Barriere in Cannes, from Saturday October 15th. One seat and accommodation package has been added to the prize pool by WSOP.com. The second seat package will be deducted from the prize pool the remaining prize pool will be divided into cash prizes. Go to http://www.thecasinolsq.com/home/ for more details or contact the casino on 020 30141000&lt;/p&gt;</long_description>
+  <venue>
+    <id>1815</id>
+    <name>Casino at the Empire</name>
+    <street>5 - 6 Leicester Square</street>
+    <area>Leicester Square</area>
+    <city>London</city>
+    <postcode>WC2H 7NA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13069</id>
+  <name>Life Drawing </name>
+  <promoter>Mothership London Ltd</promoter>
+  <start_time>2011-09-20T17:30:00Z</start_time>
+  <end_time>2011-09-20T21:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Life Drawing, Art</tags>
+  <costs>&#163;10 including a glass of wine and all materials</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13069/original/male_model.jpg?1313079347</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.wearetbc.com/</web_url>
+  <short_description>Our host Morris presents a contemporary feel to life drawing. Through imaginative styling, composition and consideration, surreal scenes are created for the figure. </short_description>
+  <long_description>&lt;p&gt;Our host Morris presents a contemporary feel to life drawing. Through imaginative styling, composition and consideration, surreal scenes are created for the figure. Each class will take on a fresh dynamic, with inspirational poses and influences taken from the contemporary art and fashion world. The aim of the class is to develop individual style and personal expression. 6:30pm - http://www.wegottickets.com/event/130307 8:30pm - http://www.wegottickets.com/event/130304&lt;/p&gt;</long_description>
+  <venue>
+    <id>1418</id>
+    <name>The Book Club</name>
+    <street>100 - 106 Leonard Street</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 4RH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.524836</latitude>
+      <longitude>-0.0814748</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13264</id>
+  <name>You're Going To Need A Bigger Boat Film Quiz</name>
+  <promoter>Upstairs at the Ritzy</promoter>
+  <start_time>2011-09-20T18:00:00Z</start_time>
+  <end_time>2011-09-20T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Film Quiz</artists>
+  <tags>Film Quiz, Ritzy, Brixton</tags>
+  <costs>&#163;3pp (tickets available from 6pm on the night)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13264/original/BiggerBoat_September_2011.JPG?1313585766</image_url>
+  <ticket_url>http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/Upstairs/</ticket_url>
+  <web_url>http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/</web_url>
+  <short_description>It&#8217;s that one everyone talks about. </short_description>
+  <long_description>&lt;p&gt;It&#8217;s that one everyone talks about. The one that people travel from afar to join, and gets everyone irrationally excited about the big colourful screen, hearing loads of noises and winning stuff! and&#8230; dun dun duunn&#8230; we&#8217;ve expanded to include the plasma on the lower level. More teams welcome yo! Upstairs at the Ritzy is the lovely bar and exciting venue above the Ritzy Cinema. We're open 7 nights a week and we pride ourselves on being a well-known &amp; well-loved cultural hub for Brixton. Our stage show-cases a consistently high standard of live music, from Reggae, Afro-beat &amp; Vintage-Swing, to World-Jazz, Folk, Blues, Balkan &amp; beyond! Plus we bring a monthly comedy feast, open mic, performance, workshops &amp; all sorts of exciting group activities. Full menu served all day till 8.30pm &#8211; so there&#8217;s eats to be had too! Follow us on Twitter: http://bit.ly/fi4bIz Add us on MySpace: http://mysp.ac/g3A3Egy Tickets available from 6pm on the night.&lt;/p&gt;</long_description>
+  <venue>
+    <id>268</id>
+    <name>The Ritzy</name>
+    <street>Brixton Oval</street>
+    <area>Brixton</area>
+    <city>London</city>
+    <postcode>SW2 1JG</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10838</id>
+  <name>Sonia Sabri Company: Kathakbox </name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-09-20T18:30:00Z</start_time>
+  <end_time>2011-09-20T19:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Sarvar Sabri</artists>
+  <tags>fun</tags>
+  <costs>&#163;10.00, &#163;8.00concs</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10838/original/Thumb-Kathakbox.jpg?1308749226</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;kathakbox</ticket_url>
+  <web_url>http://www.harrowarts.com/go/dance/details/739-sonia-sabri-company-kathakbox</web_url>
+  <short_description>An energetic and uplifting production from Sonia Sabri Company which expresses the unique and diverse energy of modern Britain through a new dance style</short_description>
+  <long_description>&lt;p&gt;An energetic and uplifting production from Sonia Sabri Company which expresses the unique and diverse energy of modern Britain through a new dance style: Urban Kathak. This bold, heart-pounding production features an exceptionally talented team of dancers, spoken word, vocal and beatbox artists, including tabla maestro Sarvar Sabri. With speed, power, grace, rhyme and rhythm, this promises to be an unforgettable evening.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13494</id>
+  <name>Jawdance</name>
+  <promoter>Apples and Snakes</promoter>
+  <start_time>2011-09-21T18:30:00Z</start_time>
+  <end_time>2011-09-21T21:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>spoken word, performance poetry, poetry</tags>
+  <costs>FREE</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13494/original/Jawdance_thumbnail.jpg?1314027054</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.richmix.org.uk/</web_url>
+  <short_description>A Splurge of Spoken Word</short_description>
+  <long_description>&lt;p&gt;Apples and Snakes presents Jawdance What do you need to unlock the door to brilliant performance poetry? A skeleton key! That&#8217;s because Jawdance is your portal to some incredible spoken word. So come on in &#8211; we&#8217;ve already opened the door for you as entry is FREE! We have feature acts from the poetry hall of fame and a lively host as your gatekeeper of verse. There are poetry-films to watch and an easily-approachable bar, so do cross the threshold into our poetical sitting room. And if you&#8217;re just getting your foot in the performing door, then you can sign up for one of our open-access open-mic slots. If you&#8217;ve made a poetry-film, please drop us a line! So find passage and make an entrance at Jawdance &#8211; every third Wednesday of the month at Rich Mix! Jawdance &#8211; they&#8217;re all talking about it, and it&#8217;s all about talking.&lt;/p&gt;</long_description>
+  <venue>
+    <id>2919</id>
+    <name>Rich Mix</name>
+    <street>35-47 Bethnal Green Road</street>
+    <area>Whitechapel</area>
+    <city>London</city>
+    <postcode>E1 6LA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13486</id>
+  <name>Tongue Fu</name>
+  <promoter>Rich Mix</promoter>
+  <start_time>2011-09-21T19:00:00Z</start_time>
+  <end_time>2011-09-21T23:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Tongue Fu Band, Chris Redmond , Shane Solanki </artists>
+  <tags>Poetry, Spoken word, Live Music</tags>
+  <costs>&#163;7, &#163;5 student / conc</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13486/original/small_tonguefu3.jpg?1314024871</image_url>
+  <ticket_url>https://uk.patronbase.com/_RM/Seats/NumSeats?prod_id=AB24&amp;perf_id=1&amp;section_id=BAR&amp;seat_type_id=S</ticket_url>
+  <web_url>http://www.richmix.org.uk/whats-on/event/tongue-fu/</web_url>
+  <short_description>Tongue Fu is one of the liveliest and best-attended poetry nights in London.</short_description>
+  <long_description>&lt;p&gt;Tongue Fu is one of the liveliest and best-attended poetry nights in London. The UK&#8217;s brightest stars of performance poetry and spoken word mix it up with the supremely talented Tongue Fu Band (UNKLE, Nostalgia 77, Graham Coxon) who conjure sublime soundtracks in every style imaginable. The night is built around improvisation and risk taking, coaxing poets, band and audience to take the leap into unchartered territories. Intimate, profound and often hilarious, Tongue Fu is hosted by Chris Redmond (Ventriloquist), and features Shane Solanki (Last Mango in Paris) as poet in residence. Tongue Fu is bi-monthly at Rich Mix and in 2011 will be touring the UK. Tongue Fu has also run at Glastonbury Festival, Latitude, The Big Chill, Kendal Calling and Shoreditch Festival. It works in partnership with the Roundhouse Poetry Collective, regularly hosting their brightest young poets. Past performers include Scroobius Pip, Dizraeli, Kate Tempest, Polar Bear, Ross Sutherland, Charlie Dark, Zena Edwards, Salena Godden, Inua Ellams, Michael Horovitz, Laura Dockrill, Tim Clare, Fran Landesman, Pen Ultimate, Chris Hicks, Anthony Joseph, Caroline Bird, A Poem In Between People, Byron Vincent, Luke Wright and many more.. &#8220;It&#8217;s poetry, but not as you know it&#8230;amazing to listen to&#8221; The Guardian &#8220;the best poetry night in London&#8221; WriteOutLoud.net Line up : Sept 22nd - Sabrina Mahfouz, El Crisis &amp; John Osborne hosted by Chris Redmond feat Poet In Residence Shane Solanki Nov 24th - Inua Ellams, Aoife Mannix &amp; Liv Torc hosted by Chris Redmond feat Poet In Residence Shane Solanki&lt;/p&gt;</long_description>
+  <venue>
+    <id>3239</id>
+    <name>RichMix</name>
+    <street>35-47 Bethnal Green Rd</street>
+    <area>Shoreditch </area>
+    <city>London</city>
+    <postcode>E1 6LA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13648</id>
+  <name>DailyCandy with London Editor Malika Dalamal </name>
+  <promoter>V &amp; A Enterprises</promoter>
+  <start_time>2011-09-22T17:45:00Z</start_time>
+  <end_time>2011-09-22T19:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>DailyCandy, Malika Dalamal, Trends, Fashion, Lifestyle, V&amp;A Reading Rooms, Events, Talks</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13648/original/Daily-Candy.jpg?1314290915</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.vandashop.com/product.php?xProd=10065&amp;xSec=411&amp;navlock=1</web_url>
+  <short_description>The third season of Evenings at the V&amp;A Reading Rooms</short_description>
+  <long_description>&lt;p&gt;DailyCandy, the insider's guide to the sweet life locally and online, delivers 3+ million daily email subscriptions, giving the latest of what's hot, new and undiscovered. From fashion and culture, to beauty and travel, DailyCandy scales 26 editions including the U.S. which launched in 2000 and London in 2005. (Sign up at www.dailycandy.com/london) London Editor Malika Dalamal will be answering questions on the history and future of DailyCandy, including its social media influences (Twitter, Facebook &amp; Tumblr) as well as what it's like to be an editor with a "trend spotting" eye.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3941</id>
+    <name>Victoria and Albert Reading Rooms</name>
+    <street>8 Exhibition Road</street>
+    <area>South Kensington</area>
+    <city>London</city>
+    <postcode>SW7 2HF</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4948897</latitude>
+      <longitude>-0.1733219</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13495</id>
+  <name>Hit the Ode</name>
+  <promoter>Apples and Snakes</promoter>
+  <start_time>2011-09-22T18:30:00Z</start_time>
+  <end_time>2011-09-22T21:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Zack Homeless, Evoke, Rachel Rose Reid, Derrick Brown</artists>
+  <tags>performance poetry, poetry, spoken word, apples and snakes</tags>
+  <costs>&#163;5</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13495/original/hittheode210-small.jpg?1314027388</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.thevictoriabirmingham.co.uk/</web_url>
+  <short_description>Bringing the best poets from the region, the country, and the world to Birmingham</short_description>
+  <long_description>&lt;p&gt;Apples and Snakes presents Hit the Ode This is Hit the Ode, bringing the best poets from the region, the country, and the world to Birmingham. A spoken word poetry night full of poems which you can wear on your skin like tattoos or wrap around your neck like ties; poems which go well with your favourite shirt, you know, the one which makes your eyes pop; poems you can use as earrings, nose rings, engagement rings; poems which will make passers-by do double-takes as you drive them home after the show. Good poems. Open mic slots are available &#8211; sign up via email or on the door.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3360</id>
+    <name>The Victoria</name>
+    <street>48 John Bright Street</street>
+    <area></area>
+    <city>Birmingham</city>
+    <postcode>B1 1BN </postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13498</id>
+  <name>Forked</name>
+  <promoter>Apples and Snakes</promoter>
+  <start_time>2011-09-22T19:30:00Z</start_time>
+  <end_time>2011-09-22T22:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Superbard, Richard Tyrone Jones, Keli Anne B, OneNess Sankara</artists>
+  <tags>performance poetry, poetry, spoken word, apples and snakes</tags>
+  <costs>&#163;7 / &#163;5 (in advance) / &#163;4 (NUS)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13498/original/forked_thumbnail_new.jpg?1314028239</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.b-bar.co.uk/</web_url>
+  <short_description>Poetry to inspire, delight and provoke</short_description>
+  <long_description>&lt;p&gt;Apples and Snakes presents Forked Everyone&#8217;s favourite jazz floozy Mama Tokus hosts the evening, as we travel with her into mad-cap musical poetry, heart surgery, feminism, comedy and Facebook updates! Check it out: Superbard is a writer, performer, musician and self confessed Fool. He has been performing his multimedia shows since 2010 and has quickly garnered excellent reviews and a reputation in the spoken word scene, appearing on Newsnight, Radio 4, and The Jeremy Vine Show. His unique brand of storytelling with self-composed music has sat well supporting comedians like The Penny Dreadfuls and Pappy's, and spoken word artists like The Dead Poets and Rachel Rose Reid. www.superbard.co.uk Richard Tyrone Jones will be performing extracts from his one-man show Richard Tyrone Jones Has a Big Heart This "Ringmaster of Spoken Word&#8221; (**** - Three Weeks) will share with you the lurid details of his near-near death experience via anecdosage and cardiomyopoetry. For anyone who ever had a heart. Or failure. Clear! &#8220;Raw, at times graphic, and very funny.&#8221; - BBC Ouch! www.utterspokenword.com Keli Anne B is re-writing the rule book for women everywhere! Portsmouth's Poet Laureate, Glastonbury Festival Poetry Slam runner up and recent Apples and Snakes inter-county poetry slam winner. www.kelianneb.com OneNess Sankara (BKS) is a singer, song writer, spoken word lyricist, director and actress. With an impressive array of awards and achievements including performing as part of Sky Arts: The Spoken Word All Stars.www.onenesssankara.co.uk Booking: http://www.b-bar.co.uk/&lt;/p&gt;</long_description>
+  <venue>
+    <id>3361</id>
+    <name>B-Bar</name>
+    <street>Castle Street</street>
+    <area></area>
+    <city>Plymouth</city>
+    <postcode>PL1 2NJ </postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13459</id>
+  <name>1st Alpha-Ville Symposium</name>
+  <promoter>Rich Mix</promoter>
+  <start_time>2011-09-23T09:00:00Z</start_time>
+  <end_time>2011-09-23T17:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Filip Visnic , Tom Uglow , Patrick Hussey , Mortiz Stefaner , Martin Ahe , Keiichi Matsuda, Bill Thompson , Drew Hemment, Katy Beale </artists>
+  <tags>Digital culture, Technology, Symposium, Media, Art, Culture</tags>
+  <costs>&#163;40</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13459/original/SYMPOSIUM-BANNER.jpg?1314012979</image_url>
+  <ticket_url>http://www.alpha-ville.co.uk/tickets</ticket_url>
+  <web_url>http://www.richmix.org.uk/whats-on/event/1st-alpha-ville-symposium/</web_url>
+  <short_description>This year&#8217;s programme addresses the transition from a digital to a post-digital culture, that looks beneath technology at how human behaviours.</short_description>
+  <long_description>&lt;p&gt;This year&#8217;s programme addresses the transition from a digital to a post-digital culture, that looks beneath technology at how human behaviours such as collaboration, participation and interaction have redefined the creative practice and society itself, and at how the physical boundaries between reality and online are being blurred. Alpha-ville presents the 1st London Symposium of Post-digital Culture. We are joining the discourse about the post-digital era and the humanisation of digital technologies. The festival and more specifically the symposium provides a forum to exchange knowledge and inspire discussions about the future of technology, media, art and culture. Speakers confirmed so far: &#8226;Filip Visnic &#8211; Architect, Lecturer and Founder of Creative Applications Network.Net &#8226;Tom Uglow &#8211; Director of Creative Labs Europe, Google &#8226;Patrick Hussey &#8211; Digital Director at Arts &amp; Business &#8226;Mortiz Stefaner &#8211; Information Designer &#8226;Martin Ahe &#8211; Business Development at Stiktu &#8226;Keiichi Matsuda, Designer and Film-maker &#8226;Bill Thompson &#8211; Technology Writer at BBC &#8226;Drew Hemment &#8211; Director &amp; Founder of Future Everything &#8226;Katy Beale &#8211; Founder / Director at Caper Buy tickets www.alpha-ville.co.uk/tickets Part of the 2011 Alpha-ville Festival of Post-Digital Culture Alpha-ville is a London based non-profit organisation exploring the intersection between arts, technology and society. The organisation presents an annual festival that operates as an online and live platform for creativity, innovation and forward thinking. Running from 22-25 September, the 2011 edition presents social media and interactive art, open labs, meet-ups, talks, workshops, screenings, live music, AV performances and a one-day Symposium on Post-digital culture.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3239</id>
+    <name>RichMix</name>
+    <street>35-47 Bethnal Green Rd</street>
+    <area>Shoreditch </area>
+    <city>London</city>
+    <postcode>E1 6LA</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13626</id>
+  <name>Eid Festival</name>
+  <promoter>Greater London Authority</promoter>
+  <start_time>2011-09-24T13:00:00Z</start_time>
+  <end_time>2011-09-24T17:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Various</artists>
+  <tags>Eid-ul-Fitr, Ramadan, Trafalgar Square, Cultural, Live Music, Art, Family, Stalls, Theatrical performance, Mayor of London, Festival</tags>
+  <costs>Free</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13626/original/200_200.gif?1314272668</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.london.gov.uk/event-meeting/2011/sep/eid-festival</web_url>
+  <short_description>Come and celebrate Eid-ul-Fitr in Trafalgar Square. This year's Eid Festival will showcase a range of entertainment reflecting the diversity, culture and languages of London&#8217;s Muslim communities.</short_description>
+  <long_description>&lt;p&gt;Trafalgar Square&#8217;s Eid Festival celebrates Eid-ul-Fitr, the Islamic holiday marking the end of fasting for Ramadan. The festival will showcase a range of entertainment reflecting the diversity, culture and languages of London&#8217;s Muslim communities. The main stage will feature live folk music, rock bands, a children's choir and theatrical performances. The programme will also showcase Nasheed (from the Arabic word Anasheed) singers who draw inspiration for their work from history, religion and current affairs. Traditionally this was an a cappella music form. However the new Nasheed artists use a variety of musical instruments and sing in many languages. There will also be exhibitions of art and culture, including fun for the whole family, souvenir stalls and a chance to sample traditional Eid festive food. All are welcome to attend Eid Festival, which has grown to become one of London&#8217;s cultural highlights, attracting crowds of over 25,000 Find out more: http://www.london.gov.uk/event-meeting/2011/sep/eid-festival&lt;/p&gt;</long_description>
+  <venue>
+    <id>2639</id>
+    <name>Trafalgar Square</name>
+    <street>Charing Cross</street>
+    <area>Strand</area>
+    <city>London</city>
+    <postcode>WC2N 5DN</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12722</id>
+  <name>Beginner Ballroom &amp; Latin Classes</name>
+  <promoter>City Academy</promoter>
+  <start_time>2011-09-25T11:00:00Z</start_time>
+  <end_time>2011-09-25T13:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Derek Roofayel</artists>
+  <tags>ballroom, latin, dance, dancing, waltz, foxtrot, quickstep, tango, beginners</tags>
+  <costs>&#163;120 for a 6 week course</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12722/original/4420125523_a850057ace_b.jpg?1312464773</image_url>
+  <ticket_url>http://www.city-academy.com/page/beginners-standard-and-latin-ballroom-dance#-TimetableBooking</ticket_url>
+  <web_url>http://www.city-academy.com/page/beginners-standard-and-latin-ballroom-dance#-TimetableBooking</web_url>
+  <short_description>In our Beginners Ballrom and Latin Classes, you can learn all of the essential Ballroom and Latin Ballroom dance steps including Waltz, Foxtrot, Quickstep and Tango.</short_description>
+  <long_description>&lt;p&gt;There's a lot of buzz about Ballroom right now with partner dancing taking over TV, film and stage. And, why not? Ballroom Dance keeps you fit and is seriously social; there's nothing more satisfying than being able to take to the floor with confidence and style. In our Beginners Ballroom Dance Course you will learn the essential Standard Ballroom and Latin Ballroom steps including Waltz, Foxtrot, Quickstep and Tango as well as mastering body alignment, dance frame and posture. Dancing is all about communication and enjoying yourself, so there's no pressure to get things right, just turn up and go with the flow. Ballroom Dance Skills Development Our Beginners Ballroom Dance Course is perfect for those of you with little or no dance experience, or as a refresher course. Exact content may differ depending on duration and your needs but the topics covered generally include: Understanding posture and awareness of the dancing space Developing body awareness especially co-ordination of the arms, feet and head Learning essential elements of Ballroom dancing such as rise and fall, lock steps and chasse Understanding the different timings used in ballroom dancing such as 3/4 and 4/4 Standard ballroom: Waltz, Foxtrot, Quickstep, Tango Latin Ballroom: Cha Cha, Rhumba, Jive You will receive friendly feedback throughout the course Something to think about There are some additional costs involved in taking any dance class. Footwear and Clothing: Recommended are trainers / jazz boots or jazz shoes. (specialised stockists such as Gamba Freed and Dancia which have outlets in and around London can provide appropriate footwear). Comfortable clothing such as leggings, jazz pants, tight tracksuit bottoms, shorts, crop tops, tight t-shirts are recommended. Bring a notebook and pen (optional). There's no need to bring a partner to join the course, we supply them! Beginners Ballroom Class Progression Improvers Standard and Latin Ballroom &gt;&gt; City Academy offers a variety of different dance styles in many exciting venues throughout London. Please check out the website to see what we offer. We offer a 10% discount if you book 2 or more different courses at the same time.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3961</id>
+    <name>Colombo Centre</name>
+    <street>34-68 Colombo Street</street>
+    <area></area>
+    <city>London</city>
+    <postcode>SE1 8DP</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5058129</latitude>
+      <longitude>-0.1052614</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13071</id>
+  <name>Last night a speed date changed my life</name>
+  <promoter>Mothership London Ltd</promoter>
+  <start_time>2011-09-26T18:00:00Z</start_time>
+  <end_time>2011-09-26T22:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Speed dating, Love</tags>
+  <costs>&#163;10</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13071/original/speed_dating.jpg?1313079583</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.wearetbc.com/</web_url>
+  <short_description>Last night a speed date changed my life is the best way to meet new friends and possibly find your loved one! It&#8217;s quick, clever and painless; a light-hearted, fun time in a relaxed atmosphere. Age group is mid 20's to mid 30's. </short_description>
+  <long_description>&lt;p&gt;Last night a speed date changed my life is the best way to meet new friends and possibly find your loved one! It&#8217;s quick, clever and painless; a light-hearted, fun time in a relaxed atmosphere. Limited places are available, age group is mid 20's to mid 30's. We must have equal numbers of ladies and gents, so booking is essential. Guys - http://www.wegottickets.com/event/130010 Girls - http://www.wegottickets.com/event/130009&lt;/p&gt;</long_description>
+  <venue>
+    <id>1418</id>
+    <name>The Book Club</name>
+    <street>100 - 106 Leonard Street</street>
+    <area>Hoxton and Shoreditch</area>
+    <city>London</city>
+    <postcode>EC2A 4RH</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.524836</latitude>
+      <longitude>-0.0814748</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13120</id>
+  <name>COMPASS</name>
+  <promoter>Bullseyehub</promoter>
+  <start_time>2011-09-28T08:00:00Z</start_time>
+  <end_time>2011-09-28T17:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Babette Rothschild</artists>
+  <tags>Conference</tags>
+  <costs>&#163;220 for 2 days</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13120/original/compass.jpg?1313159721</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.compass-counselling.org.uk</web_url>
+  <short_description>Babette Rothschild Somatic Trauma Training</short_description>
+  <long_description>&lt;p&gt;Two day training event with internationally renowned psychotherapist Babette Rothschild.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3979</id>
+    <name>The Lace Centre</name>
+    <street>Croxteth Drive</street>
+    <area>Sefton Park</area>
+    <city>Liverpool</city>
+    <postcode>L17 1AA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>53.3879997</latitude>
+      <longitude>-2.938186</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11271</id>
+  <name>LDN Wrestling: Live</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-09-28T18:30:00Z</start_time>
+  <end_time>2011-09-28T20:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists>LDN Wrestling</artists>
+  <tags>Wrestling, London, Alan Lee Travis, Richard Parliament, Big Ben</tags>
+  <costs>&#163;10, &#163;12, &#163;36 Family ticket</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11271/original/Alan_Lee_Travis.jpg?1309516015</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>Championship wrestling, full of sparkly costumes and audience participation is back in Edmonton with its 'sports pantomime'.</short_description>
+  <long_description>&lt;p&gt;Experience the excitement and atmosphere of live wrestling - there's absolutely nothing like it. See all the top names and champions such as new British Champion Alan Lee Travis, Poitician Richard Parliament and Big Ben. Boo the bad guys and cheer on your favourites, as you get up close and personal with the rip-roaring action. Post show you will also get the chance to meet the stars and maybe even grab yourself a souvenir or two.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13328</id>
+  <name>RISQU&#201; @ THE RITZY: Lesbian Film and Music Night feat.</name>
+  <promoter>Upstairs at the Ritzy</promoter>
+  <start_time>2011-09-30T18:00:00Z</start_time>
+  <end_time>2011-10-01T00:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>DJ Queenie, Special Guest DJ</artists>
+  <tags>film night, lesbian, music, brixton, ritzy</tags>
+  <costs>&#163;5, &#163;3 concessions</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13328/original/Rizque_aug_2011.jpg?1313675196</image_url>
+  <ticket_url>http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/Upstairs/</ticket_url>
+  <web_url>http://www.picturehouses.co.uk/cinema/Ritzy_Picturehouse/</web_url>
+  <short_description>Giddy Aunts Productions presents another opportunity for female DJs, artists, performers, musicians and film makers to network over dinner with a guest speaker. </short_description>
+  <long_description>&lt;p&gt;Are you a woman with a passion for the arts? Giddy Aunts presents Risque upstairs at the Ritzy, showcasing an array of cutting edge new work. These monthly events are an exciting opportunity to tap into the vibrant network of London based female artists, musicians, DJs and filmmakers. Followed by an evening of performance, film, music, art and always a little drama! 7-9pm Dinner With guest speaker 9pm Film &#8216;Gigola&#8217; Parisian lesbian film set in the 1960&#8217;s 10pm Cabaret comedy surprise DJs Queenie and Sexyrubbersoul + 1 guest DJ spinning various styles throughout the evening. Upstairs at the Ritzy is the lovely bar and exciting venue above the Ritzy Cinema. We're open 7 nights a week and we pride ourselves on being a well-known &amp; well-loved cultural hub for Brixton. Our stage show-cases a consistently high standard of live music, from Reggae, Afro-beat &amp; Vintage-Swing, to World-Jazz, Folk, Blues, Balkan &amp; beyond! Plus we bring a monthly comedy feast, open mic, performance, workshops &amp; all sorts of exciting group activities. Full menu served all day till 8.30pm &#8211; so there&#8217;s eats to be had too! Follow us on Twitter: http://bit.ly/fi4bIz Add us on MySpace: http://mysp.ac/g3A3Egy&lt;/p&gt;</long_description>
+  <venue>
+    <id>268</id>
+    <name>The Ritzy</name>
+    <street>Brixton Oval</street>
+    <area>Brixton</area>
+    <city>London</city>
+    <postcode>SW2 1JG</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11342</id>
+  <name>Paul Daniels:  Hair Today Gone Tomorrow</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-10-07T19:00:00Z</start_time>
+  <end_time>2011-10-07T21:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Paul Daniels</artists>
+  <tags>Magic</tags>
+  <costs>&#163;18, &#163;20</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11342/original/Paul_D_broch_image_1.jpg?1309779555</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>In the world of television magic, no one has enjoyed more success than Paul Daniels.  From the moment he burst onto our screens, his magic shows have topped the ratings.</short_description>
+  <long_description>&lt;p&gt;He is undoubtedly the most successful TV magician of the 20th century (and more contraversially, an international sex symbol). He promises not to dance and will be joined by the lovely Debbie McGee and Martin Daniels. A show full of magic, comedy and amazement.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13127</id>
+  <name>Vintage Tea Cup Candle Making</name>
+  <promoter>Bullseyehub</promoter>
+  <start_time>2011-10-08T11:00:00Z</start_time>
+  <end_time>2011-10-08T14:30:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Candlemaking, teacup, vintage, contemporary craft workshops, Chiswick, West London</tags>
+  <costs>&#163;42</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13127/original/image_4.jpg?1313161747</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.imadeitmyself.co.uk</web_url>
+  <short_description>Learn to make chic scented candles in your choice of vintage teacup.
+</short_description>
+  <long_description>&lt;p&gt;Choose your own scent, and your vintage teacup from a large selection (including Victorian, Art Deco, 1950's and 1960's) and with guidance from our expert you'll make your own beautifully scented candle in a chic teacup to take home at the end of the session. More details at www.imadeitmyself.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>3983</id>
+    <name>The Hayloft</name>
+    <street>3 Bond Street </street>
+    <area>Chiswick </area>
+    <city>London </city>
+    <postcode>W4 1QZ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4930408</latitude>
+      <longitude>-0.2582852</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>9217</id>
+  <name>Noise Awareness</name>
+  <promoter>Occhnet Ltd</promoter>
+  <start_time>2011-10-11T08:00:00Z</start_time>
+  <end_time>2011-10-11T11:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>Occhnet Ltd</artists>
+  <tags>noise, training, awareness, health, safety, legilsation</tags>
+  <costs>150</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/9217/original/Noise_at_work.jpg?1305545609</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.occhnet.co.uk</web_url>
+  <short_description>Workplace Noise Assessment Awareness</short_description>
+  <long_description>&lt;p&gt;Noise Regulations&#8230;. do you know how it affects you? This course gives you in real terms, what has changed, how it affects employers, how it affects employees and what needs to be done. Topics covered include: &#8226; Health Surveillance &#8226; Noise Measurement &#8226; Selection of Hearing Protection &#8226; Record Keeping&lt;/p&gt;</long_description>
+  <venue>
+    <id>3530</id>
+    <name>Carmarthenshire Association of Voluntary Services</name>
+    <street>Queen St</street>
+    <area>Carmarthen</area>
+    <city>Carmarthen</city>
+    <postcode>SA31 1JT</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12898</id>
+  <name>An Evening with George Galloway</name>
+  <promoter>Borealis Media</promoter>
+  <start_time>2011-10-19T07:00:00Z</start_time>
+  <end_time>2011-10-19T11:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists>George Galloway</artists>
+  <tags>George Galloway Talk sport speaker Scottish politician speaker, Borealis Media invites you to An evening with George Galloway at the exclusive 10million pound refurbished Ramada Hotel, Main Ballroom inclusive of Five Star seated two course meal.  Galloway</tags>
+  <costs>&#163;15</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12898/original/George_Gallowayi.jpg?1312922248</image_url>
+  <ticket_url>http://www.skiddle.com/search/keyword.php?keyword=George+Galloway</ticket_url>
+  <web_url>http://www.skiddle.com/search/keyword.php?keyword=George+Galloway</web_url>
+  <short_description>An evening with George Galloway</short_description>
+  <long_description>&lt;p&gt;Borealis Media invites you to An evening with George Galloway at the exclusive 10million pound refurbished Ramada Hotel, Main Ballroom inclusive of Five Star seated two course meal. Galloway former Scottish politician, member of parliament from 1987 &#8211; 2010, journalist and has become a well know figure, for his humanitarian work and campaigns. Meeting with Saddam Hussein, to try and bring an end to sanctions, suffering and war. Also known nationally as a victim of the News Of The World phone hacking scandal, one of the nation&#8217;s biggest newspapers. He also appeared on Channel 4&#8217;s Celebrity Big Brother for three weeks in 2006, currently known for his radio programme Talksport. An evening not to be missed!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3965</id>
+    <name>Mojos</name>
+    <street>Tha Stables</street>
+    <area>City Center</area>
+    <city>Liverpool</city>
+    <postcode>L1 4BG</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10912</id>
+  <name>Basically Ballroom</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-29T18:30:00Z</start_time>
+  <end_time>2011-10-29T20:45:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>Strictly Come Dancing</tags>
+  <costs>&#163;12</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10912/original/Basically_Ballroom.jpg?1308841111</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;basically</ticket_url>
+  <web_url>http://www.harrowarts.com/</web_url>
+  <short_description>Our ever popular social dance night returns to the glitz and glamour of Elliott Hall.  Join us for a fantastic evening of ballroom dancing!  Try out the Fox Trot, Rumba, Tango, Cha-cha and enjoy the cabaret by young rising stars.</short_description>
+  <long_description>&lt;p&gt;Our ever popular social dance night returns to the glitz and glamour of Elliott Hall. Join us for a fantastic evening of ballroom dancing! Try out the Fox Trot, Rumba, Tango, Cha-cha and enjoy the cabaret by young rising stars.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>8312</id>
+  <name>HiddenCity - Join the Hunt!</name>
+  <promoter>London Text Hunt</promoter>
+  <start_time>2011-10-30T11:00:00Z</start_time>
+  <end_time>2011-10-30T20:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>treasure hunt, HiddenCity, text message, trail, race, treasure, competition, hunt, hidden, city</tags>
+  <costs>&#163;8 per team (you can have as many people as you like on a team)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/8312/original/LTHAdImagev0.4.png?1303365407</image_url>
+  <ticket_url></ticket_url>
+  <web_url>http://www.inthehiddencity.com</web_url>
+  <short_description>Until 30 October 2011
+  
+Discover London&#8217;s hidden places by solving clues sent to you by text message.
+
+Play against the clock as a single team or if you&#8217;re after competition then challenge your mates to a cryptic race.</short_description>
+  <long_description>&lt;p&gt;Until 30 October 2011 Discover London&#8217;s hidden places by solving clues sent to you by text message. How does it work? You receive a clue by text message. Solve the clue to find out where to go. Stroll, walk or dash there, work out the answer and text it back. If you get the answer right you&#8217;ll receive the next clue... and if you get stuck don&#8217;t worry you can request a hint. Play against the clock as a single team or if you&#8217;re after competition then challenge your mates to a cryptic race. The hunts last around three hours and end in a pub or bar. If you find the odd pint helps get the clue-solving juices flowing then fear not: there&#8217;s a &#8216;Bar Breaks&#8217; treasure hunt which gives you ample time to stop for drinks en route. It&#8217;s all automated so you can play any time. At &#163;8 per team, free entry to all locations and no premium text charges you can&#8217;t go far wrong. No wonder past hunters are demanding new hunts on the HiddenCity facebook page. And if you're planning a big event the people at HiddenCity can host your day for you with hosted treasure hunts including prizes. Here&#8217;s a taster clue to whet your appetite&#8230; &#8220;In Adam's fruit store on a regal street I will find many homes for peas. Who is first on the playlist?&#8221; Where would you go? Check out the HiddenCity website to find out the answer and while you&#8217;re there, sign up for a hunt!&lt;/p&gt;</long_description>
+  <venue>
+    <id>2101</id>
+    <name>Market Place</name>
+    <street>11-13 Market Place</street>
+    <area>Oxford Street</area>
+    <city>London</city>
+    <postcode>W1W 8AE</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.514958</latitude>
+      <longitude>-0.1444629</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11723</id>
+  <name>Rising From the Recession</name>
+  <promoter>Your Event Expert</promoter>
+  <start_time>2011-11-17T11:00:00Z</start_time>
+  <end_time>2011-11-17T17:00:00Z</end_time>
+  <genre>Other</genre>
+  <artists></artists>
+  <tags>linking rural businesses, fusion linking, www.fusionlinking.co.uk, highlands of scotland, conference, business events, networking</tags>
+  <costs>199, 270, 125</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11723/original/Fusion_v1_vsmall.jpg?1310331324</image_url>
+  <ticket_url>http://fusionconference.eventbrite.com</ticket_url>
+  <web_url>http://www.fusionlinking.co.uk</web_url>
+  <short_description>A conference that delivers thought provoking debate and great networking. You will be amongst people just like you where you can share experiences and learn. Fusion conferences are all about the people that come along - people just like you
+</short_description>
+  <long_description>&lt;p&gt;A two day conference (17th and 18th November 2011) that delivers thought provoking debate and great networking. You will be amongst people just like you where you can share experiences and learn. Fusion conferences are all about the people that come along - people just like you. This years conference has a great line of speakers but also the much loved case study sessions where a mentee business is given adivce from a mentor. Of course you will get a chance to chip in too. As with any Fusion conference there is plenty of variety and plenty of opportunity to really get to know your colleagues whether it's over our casual brunch session or the evening networking dinner. The Kingsmills Hotel will be the venue for our conference - a great place to stay and soak up the atmosphere. We have some great options for you so why not stay for the two days and immerse yourself (if you want to do that literally there is a lovely pool and jacuzzi too).&lt;/p&gt;</long_description>
+  <venue>
+    <id>3890</id>
+    <name>Kingsmills Hotel</name>
+    <street>Culcabock Road</street>
+    <area></area>
+    <city>Inverness</city>
+    <postcode>IV2 3LP</postcode>
+    <phone></phone>
+    <location>
+      <latitude>57.473189</latitude>
+      <longitude>-4.203695</longitude>
+    </location>
+  </venue>
+</event>
+</events>

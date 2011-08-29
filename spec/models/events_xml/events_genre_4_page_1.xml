@@ -1,0 +1,1810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<events xsi:schemaLocation="http://app.bullseyehub.com/api/events.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13254</id>
+  <name>La R&#234;ve</name>
+  <promoter>33 Events</promoter>
+  <start_time>2011-09-02T19:00:00Z</start_time>
+  <end_time>2011-09-03T02:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Dusty Limits, Katharine Arnold, Eastend Cabaret, Des O&#8217;connor, Craig The Incredible Hula Boy, Cherry Shakewell, Javier Jarquin, The Bee&#8217;s Knees, Legs Malone</artists>
+  <tags>Supper Club, Cabaret, Burlesque, Vintage, Ska Cubano, Boom Boom, Bete Noire, Nightlife, Rock n Roll, Swing, Electro-Swing, Rhythm and Blues</tags>
+  <costs>VIP Dinner + show +club - &#163;75 advance  VIP Show Only - &#163;25 advance  3-Course Dinner + Show + Club - &#163;45 advance General admission (early show) - &#163;12 advance General admission (after 10pm) - &#163;8 advance </costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13254/original/LR_flyer_no_copy.jpg?1313579541</image_url>
+  <ticket_url>http://www.ticketweb.co.uk/user/?region=gb_london&amp;query=detail&amp;event=457367&amp;interface=</ticket_url>
+  <web_url>http://lareve.co.uk/</web_url>
+  <short_description>La Reve is the most talked about cabaret show in town. Unparalleled showmanship, carnival and splendor combine in the hallowed walls of Cafe de Paris, a genuinely jaw dropping experience. The West End as it was and always should be! </short_description>
+  <long_description>&lt;p&gt;The teams behind two of London's hottest alternative club nights come together in 2011 to produce a Friday feast of vintage-inspired entertainment at the world famous Caf&#233; de Paris. LA R&#202;VE looks set to provide the perfect antidote to the characterless clubs and dreary mainstream theatres which have been prevalent in the West End in recent years, with an all-singing, all-dancing weekly extravag... The teams behind two of London's hottest alternative club nights come together in 2011 to produce a Friday feast of vintage-inspired entertainment at the world famous Caf&#233; de Paris. LA R&#202;VE looks set to provide the perfect antidote to the characterless clubs and dreary mainstream theatres which have been prevalent in the West End in recent years, with an all-singing, all-dancing weekly extravaganza! B&#234;te Noire&#8217;s jazz age splendour and flapper fashion combines with Boom Boom Club&#8217;s deliciously twisted cabaret, to create a fantasy world evoking the golden age of nightclub entertainment - from the Moulin Rouge to the Bellagio. Expect live music, cabaret floor shows, circus, dancing girls, roving performers, aerialists and more on weekly rotation. A blend of vintage sensibilities and contemporary after-hours entertainment, designed to appeal to retro devotees and all other lovers of hedonistic nightlife! Line Up 02/09/11 Dusty Limits The charming and sinister neo-Weimar star of UK cabaret. Katherine Arnold Beautiful and graceful aerial starlet Eastend Cabaret Deliciously debauched vaudeville from this dynamic duo Des O'Connor &#8216;I stopped dating Des O&#8217;Connor because I thought he was gay.&#8217; &#8211; Shirley Bassey Craig The Incredible Hula Boy Combining his background of acrobatics with his high skill level of hula-hoop, Craig performs a slick, high energy and unforgettable hula-hoop act. Cherry Shakewell Striptease from The Lady of the Cake. Javier Jarquin MC/stand-up comedian/improviser/character roamer/robot mime/human statue/roving magician/card manipulator and card thrower&#8230; the list goes on&#8230; The Bee's Knees London&#8217;s finest flappers, the height of excellence when it comes to all things Charleston. Legs Malone Burlesque from a visiting NYC icon with 34&#8221; inside leg measurement. Dressing up is not compulsory but is strongly encouraged. VIP Dinner + show +club - &#163;75 advance VIP Show Only - &#163;25 advance 3-Course Dinner + Show + Club - &#163;45 advance General admission (early show) - &#163;12 advance General admission (after 10pm) - &#163;8 advance All sections available from www.ticketweb.co.uk About the venue: The Caf&#233; de Paris is one of the original homes of Vaudeville in the West End. Regular performers throughout the early years included luminaries such as Noel Coward, Marlene Dietrich and Louise Brooks, who made history when she introduced the Charleston to London at the venue in 1924. Caf&#233; survived a devastating bombing in World War II, and has continued to provide the backdrop for many of London&#8217;s wildest moments ever since. For more information visit www.lareve.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>19</id>
+    <name>Cafe De Paris</name>
+    <street>4 Coventry Street</street>
+    <area>Soho</area>
+    <city>London</city>
+    <postcode>W1D 6BL</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10827</id>
+  <name>The Mr Men and Little Miss Party Roadshow</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-09-04T12:00:00Z</start_time>
+  <end_time>2011-09-04T13:45:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Mr Men &amp; Little Miss</artists>
+  <tags>family, mr men, theatre, fun things to do, fun</tags>
+  <costs>&#163;13.50 full price, &#163;11.50 concs, &#163;46 family tickets, &#163;44 family tickets if booked by 1 August 2011</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10827/original/Thumb-The-Mr-Men.jpg?1308747467</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;mrmen</ticket_url>
+  <web_url>http://www.harrowarts.com/go/family</web_url>
+  <short_description>The Mr Men &amp; Little Miss are going on the road to celebrate their 40th birthday in a brand new singing and dancing Party Roadshow!</short_description>
+  <long_description>&lt;p&gt;The Mr Men &amp; Little Miss are going on the road to celebrate their 40th birthday in a brand new singing and dancing Party Roadshow! The show will feature the much loved characters singing and dancing along with well known children&#8217;s songs and plenty of party favourites! We&#8217;ll also meet Little Miss Princess for the very first time, a brand new member of the Mr Men and Little Miss Family.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10828</id>
+  <name>The Mr Men and Little Miss Party Roadshow</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-09-04T14:30:00Z</start_time>
+  <end_time>2011-09-04T16:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Mr Men &amp; Little Miss</artists>
+  <tags>family , theatre, mr men</tags>
+  <costs>&#163;13.50 full price, &#163;11.50 under 16s</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10828/original/Thumb-The-Mr-Men.jpg?1308747849</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;mrmen</ticket_url>
+  <web_url>http://www.harrowarts.com/go/family</web_url>
+  <short_description>The Mr Men &amp; Little Miss are going on the road to celebrate their 40th birthday in a brand new singing and dancing Party Roadshow!</short_description>
+  <long_description>&lt;p&gt;The Mr Men &amp; Little Miss are going on the road to celebrate their 40th birthday in a brand new singing and dancing Party Roadshow! The show will feature the much loved characters singing and dancing along with well known children&#8217;s songs and plenty of party favourites! We&#8217;ll also meet Little Miss Princess for the very first time, a brand new member of the Mr Men and Little Miss Family.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13609</id>
+  <name>Gloria Likes Postcard from Home</name>
+  <promoter>Exilio Latin Dance Club</promoter>
+  <start_time>2011-09-07T18:00:00Z</start_time>
+  <end_time>2011-09-07T20:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Vocal Group Cantabile</artists>
+  <tags>cantabile,  the london quartet,  st bride foundation,  the bridewell theatre, postcard from home</tags>
+  <costs>&#163;12 Guest List: Please Text Date and Names to  07956983230 Ref Cantabile,  Door &#163;15, Concessions &#163;10</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13609/original/Cantabile_Page_1.jpg?1314207009</image_url>
+  <ticket_url>http://www.bridewelltheatre.com</ticket_url>
+  <web_url>http://stbridefoundation.org/bridewelltheatre/eveningperformance.html?eventId=75</web_url>
+  <short_description>The London Quartet has long been recognised to be one of Britain&#8217;s great vocal groups. Founded with the name Cantabile in Cambridge as a purely a cappella student group, they 1st came 2 prominence in the Tim Rice musical Blondel in London&#8217;s West End.</short_description>
+  <long_description>&lt;p&gt;Postcard From Home They're back! The London Quartet - Cantabile &#8211; return to the Bridewell with an evening of the 'Best of British', celebrating the songs of Flanders and Swann, Rice and Lloyd Webber, the Beatles, Jake Thackray, Noel Coward, the Pythons, and many more... as well as premiering 'scores' from their latest CD, Songs of Cricket. All presented with their trademark blend of charm and humour. &#8220;that wonderful vocal group&#8221; Dame Edna Everage &#8220;as unorthodox, unexpected and unique as a Monty Panesar century&#8221; Wisden &#8220;My favourite vocal group&#8221; Sir Tim Rice Wish you were here! Cantabile are Artists in Residence at St Bride Foundation Wednesday 7&#8211;Saturday 10 September 2011 Performances at 7.00pm&lt;/p&gt;</long_description>
+  <venue>
+    <id>2613</id>
+    <name>Bridewell Theatre</name>
+    <street>Bride Lane</street>
+    <area>Strand</area>
+    <city>London</city>
+    <postcode>EC4Y 8EQ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5109272</latitude>
+      <longitude>-0.1201509</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13255</id>
+  <name>La R&#234;ve</name>
+  <promoter>33 Events</promoter>
+  <start_time>2011-09-09T19:00:00Z</start_time>
+  <end_time>2011-09-10T02:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Ivy Paige, Pete Firman, Roxy Velvet, Craig The Incredible Hula Boy, Amelia Woods, Leah Debrincat</artists>
+  <tags>Supper Club, Cabaret, Burlesque, Vintage, Ska Cubano, Boom Boom, Bete Noire, Nightlife, Rock n Roll, Swing, Electro-Swing, Rhythm and Blues , Supper Club, Cabaret, Burlesque, Vintage, Ska Cubano, Boom Boom, Bete Noire, Nightlife, Rock n Roll, Swing, Elect</tags>
+  <costs>VIP Dinner + show +club - &#163;75 advance  VIP Show Only - &#163;25 advance  3-Course Dinner + Show + Club - &#163;45 advance General admission (early show) - &#163;12 advance General admission (after 10pm) - &#163;8 advance </costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13255/original/LR_flyer_no_copy.jpg?1313580123</image_url>
+  <ticket_url>http://bit.ly/lareve09092011</ticket_url>
+  <web_url>http://lareve.co.uk/</web_url>
+  <short_description>La Reve is the most talked about cabaret show in town. Unparalleled showmanship, carnival and splendor combine in the hallowed walls of Cafe de Paris, a genuinely jaw dropping experience. The West End as it was and always should be! </short_description>
+  <long_description>&lt;p&gt;The teams behind two of London's hottest alternative club nights come together in 2011 to produce a Friday feast of vintage-inspired entertainment at the world famous Caf&#233; de Paris. LA R&#202;VE looks set to provide the perfect antidote to the characterless clubs and dreary mainstream theatres which have been prevalent in the West End in recent years, with an all-singing, all-dancing weekly extravag... The teams behind two of London's hottest alternative club nights come together in 2011 to produce a Friday feast of vintage-inspired entertainment at the world famous Caf&#233; de Paris. LA R&#202;VE looks set to provide the perfect antidote to the characterless clubs and dreary mainstream theatres which have been prevalent in the West End in recent years, with an all-singing, all-dancing weekly extravaganza! B&#234;te Noire&#8217;s jazz age splendour and flapper fashion combines with Boom Boom Club&#8217;s deliciously twisted cabaret, to create a fantasy world evoking the golden age of nightclub entertainment - from the Moulin Rouge to the Bellagio. Expect live music, cabaret floor shows, circus, dancing girls, roving performers, aerialists and more on weekly rotation. A blend of vintage sensibilities and contemporary after-hours entertainment, designed to appeal to retro devotees and all other lovers of hedonistic nightlife! Line Up 09/09/2011 Ivy Paige With Her Fiery Hair And Stage Presence To Match, She&#8217;ll Take You On An All Singing All Dancing Journey Into The Unknown. Pete Firman Magician, Comedian, Freak Show and Edinburgh Festival&#8217;s Highlight! Roxy Velvet Aerial Hoop Is Just One Of The Numerous Talents Of This Smoking Hot Circus And Cabaret Starlet Craig The Incredible Hula Boy Combining His Background Of Acrobatics With His High Skill Level Of Hula-Hoop, Craig Performs A Slick, High Energy And Unforgettable Hula-Hoop Act. Amelia Woods The World&#8217;s First Burlesque Foot Juggler Leah Debrincat Experimental Fusion Belly Dancer Extraordinaire Dressing up is not compulsory but is strongly encouraged. VIP Dinner + show +club - &#163;75 advance VIP Show Only - &#163;25 advance 3-Course Dinner + Show + Club - &#163;45 advance General admission (early show) - &#163;12 advance General admission (after 10pm) - &#163;8 advance All sections available from www.ticketweb.co.uk About the venue: The Caf&#233; de Paris is one of the original homes of Vaudeville in the West End. Regular performers throughout the early years included luminaries such as Noel Coward, Marlene Dietrich and Louise Brooks, who made history when she introduced the Charleston to London at the venue in 1924. Caf&#233; survived a devastating bombing in World War II, and has continued to provide the backdrop for many of London&#8217;s wildest moments ever since. For more information visit www.lareve.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>19</id>
+    <name>Cafe De Paris</name>
+    <street>4 Coventry Street</street>
+    <area>Soho</area>
+    <city>London</city>
+    <postcode>W1D 6BL</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13156</id>
+  <name>Magentix - The 4th Birthday</name>
+  <promoter>Dance Media Ltd.</promoter>
+  <start_time>2011-09-09T22:00:00Z</start_time>
+  <end_time>2011-09-10T06:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Brett Wood-Ian O'shea -Parthfinder-Kito-Lorenzo Barrero-Dean Zone-, Phil Laankester</artists>
+  <tags>Hard Trance-Tech Trance</tags>
+  <costs>&#163;8b412 &#163;12 after</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13156/original/Magnetix_August_2011_500.jpg?1313389870</image_url>
+  <ticket_url>http://www.club414.org/index.php?option=com_rokquickcart&amp;view=rokquickcart&amp;Itemid=11</ticket_url>
+  <web_url>http://www.club414.org</web_url>
+  <short_description>September may be the start of the winter again, the days may be getting shorter and the temperature getting colder, but the line up we have in store for you will have you sweating more than you have been all summer. </short_description>
+  <long_description>&lt;p&gt;Magentix - The 4th Birthday Saturday 10th September 2011.11pm-7am. September may be the start of the winter again, the days may be getting shorter and the temperature getting colder, but the line up we have in store for you will have you sweating more than you have been all summer. Brett Wood 2011 has been another mighty year for Brett Wood. Gaining signings from various labels and compilations as well as picking massive support up from the likes of Armin Van Buuren, Above &amp; Beyond, Markus Schul...z and Gareth Emery to name just a few! Now concentrating on just his power trance sound he will show you why he is now a sought after artist with a bang! His trance with bollox sound has seen labels such as Slinky, Joyride, Nukleuz and Recoverworld releasing his work as well as Brett&#8217;s label Direct Drive Recordings. His electric banging style has graced superclubs such as Gatecrasher &amp; Slinky already and thats just the start in Brett Wood&#8217;s eyes! Ian O'shea Early in 2011 Ian O&#8217;Shea introduced himself to the dance music scene with his debut single &#8216;Star Vision.&#8217; Having been personally mentored by internationally acclaimed and award-winning music producer, DJ and record label owner K90 makes it no wonder that Ian's production skills have rapidly gained him the respect of music fans, DJs and producers alike. Pathfinder The man behind the legendary 'Trance on the Themes' and resident and promoter for 'Spangulation' - Richard Brownlee, aka, Pathfinder, has been tearing up trance floors all over London for many-a-years. His unique and wide diversity in trance sounds is certainly something of a rarity and fits in with the magnetix music policy to perfection. Kito A dj who has promoted more parties in the past than most DJs have played at, Kito presently promotes 'Dance Tribe'. He's held residencies at Antiworld, Colours and also his own party Peace. Being known by London clubbers at various events for playing a wide variety of dance music, Kito will be joining us here at Magnetix to unleash some of his menacing psychedelic sounds. Residents Not forgetting to mention the mighty likes of the regular team uniting the trances as one, Lorenzo Barrero will be on the uplifting front, Dean Zone on the powerful european edge and Phil Lankester and Neill Moore smashing it up with their psychedelic sounds, if trance is what you like, believe us when we say 'we know trance'. Playing the best in Psy, Hard and Euphoric Trance! (set times will be announced shortly) - watch this space..... Saturday 10th September 2011 Magnetix: 23:00 &#8211; 07:00 + FREE after party: 07:00 - close Dress Code: smile on face or no entry Club 414 Coldharbour Lane Brixton London SW9 8LF Transports: Tube = Brixton (Victoria Line) Rail = Brixton mainline station Buses = 2,3,35,37,45,59,109,118,13&#8203; 3,159,196,250,322,333,345,&#8203; 355,415,432,P4,P5 Night buses = N2,N3,N35,37,N133,N159,250&#8203; ,689,690See More&lt;/p&gt;</long_description>
+  <venue>
+    <id>243</id>
+    <name>Club 414</name>
+    <street>414 Coldharbour Lane</street>
+    <area>Brixton</area>
+    <city>London</city>
+    <postcode>SW9 8LF</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.4617535</latitude>
+      <longitude>-0.112819</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11402</id>
+  <name>Salute To The Wailers</name>
+  <promoter>Mandinka</promoter>
+  <start_time>2011-09-10T17:30:00Z</start_time>
+  <end_time>2011-09-10T22:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Michael Rose, Lloyd Brown, Junior Marvin</artists>
+  <tags>salute to the wailers, hackney empire, lloyd brown, michael rose,  junior marvin, caspian, mr alexander, anntoinette griffiths, blessed caress</tags>
+  <costs>&#163;18 - &#163;30</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11402/original/STW_2011_Front.jpg?1309861133</image_url>
+  <ticket_url>http://www.hackneyempire.co.uk/2337/shows/salute-to-the-wailers.html</ticket_url>
+  <web_url>http://www.salutetothewailers.com</web_url>
+  <short_description>Sat 10 &amp; Sun 11 Sept 2011 salute to the wailers @ Hackney Empire,291 Mare Street, E8 1EJ Starring Perfect Purple feat One Drop Symphony Orchestra + Michael Rose | Lloyd Brown | Junior Marvin.Tkts &#163;18 -&#163;30 from 0208 985 2424 | www.hackneyempire.co.uk</short_description>
+  <long_description>&lt;p&gt;Saturday 10th &amp; Sunday 11th September 2011 Mandinka, Perfect Purple &amp; A Class Above Events Present Salute To The Wailers &#8211; The Story Of Jamaica&#8217;s First Super Group Marking 30 years since the passing of Bob Marley, Salute To The Wailers, The Story of Jamaica's First Super Group, returns to Hackney Empire with an all new show. Featuring the Perfect Purple band alongside The One Drop Symphony Orchestra and special guest vocalists you can look forward to a evening celebrating the music of Jamaica's 1st super group, Bob Marley and The WAILERS. This year's special guest performers will include Grammy award winning Reggae legend Michael Rose, alongside the UKs no.1 Reggae artist Lloyd Brown &amp; The Wailers guitarist Junior Marvin. Hackney Empire 291 Mare Street London E8 1EJ Salute To The Wailers The Story Of Jamaica&#8217;s First Super Group Starring Perfect Purple &amp; One Drop Symphony Orchestra Featuring Michael Rose | Lloyd Brown | Junior Marvin + Caspian | Mr Alexander | Annoinette Griffiths | Blessed Caress Doors: 6:30pm | Show Time: 7:30pm &#8211; 11:00pm Tickets On Sale Now at &#163;18 - &#163;30 From Hackney Empire Box Office www.hackneyempire.co.uk/ | 0208 985 2424 Website Links: Website: www.salutetothewailers.com Twitter: @stw10 Facebook Group: http://www.facebook.com/group.php?gid=28281310511 YouTube: http://www.youtube.com/salutetothewailers&lt;/p&gt;</long_description>
+  <venue>
+    <id>1093</id>
+    <name>Hackney Empire</name>
+    <street>291 Mare Street</street>
+    <area>Hackney</area>
+    <city>London</city>
+    <postcode>E8 1EJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5458839</latitude>
+      <longitude>-0.0543422</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10705</id>
+  <name>Cirque Du Ciel&#8217;s &#8216;ShangHi&#8217;</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-09-10T19:00:00Z</start_time>
+  <end_time>2011-09-10T21:30:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Cirque du Ciel</artists>
+  <tags>The Alban Arena, Hertfordshire, St Albans, Cirque du Ciel, Theatre</tags>
+  <costs>Sat&amp;Sun: &#163;23.50 &#163;21.00, Sun Mat: &#163;21.00 &#163;18.50</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10705/original/Cirque_du_Ciel_S.jpg?1308580157</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3463&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/whats-on/cirque-du-ciel---shanghi/</web_url>
+  <short_description>Cirque Du Ciel&#8217;s &#8216;ShangHi&#8217;
+
+Direct from China!
+
+Miss this and you will miss the most daring, breathtaking and stunning family entertainment show of the year!</short_description>
+  <long_description>&lt;p&gt;Saturday 10 September 8.00pm Sunday 11 September 2.00pm &amp; 6.00pm The highly awaited, internationally acclaimed production of &#8216;ShangHi&#8217; by Cirque Du Ciel comes to the UK this year- for the very first time! A marvellous 2 hour extravaganza, originally directed by Cirque Du Soleil&#8217;s Guy Caron, combines acrobatics, modern dance, original music, martial arts and many other Chinese elements in an amazing adventure. With superb costumes, sets and lighting, this stunning production showcases the skills of not only the performers but the world class team behind the scenes. In addition to traditional Chinese stunts such as the aerial silks, and the famous Monkey Poles, Cirque Du Ciel&#8217;s &#8216;ShangHi&#8217; also features a fabulous storyline which will captivate and enthral audiences of all ages.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11404</id>
+  <name>Salute To The Wailers</name>
+  <promoter>Mandinka</promoter>
+  <start_time>2011-09-11T17:30:00Z</start_time>
+  <end_time>2011-09-11T22:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Michael Rose, Lloyd Brown, Junior Marvin, Annoinette Griffiths , Blessed Caress</artists>
+  <tags>Michael Rose, Lloyd Brown, Junior Marvin, Caspian, Mr Alexander</tags>
+  <costs>&#163;18 - &#163;30</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11404/original/STW_2011_Front.jpg?1309862065</image_url>
+  <ticket_url>http://www.hackneyempire.co.uk/2337/shows/salute-to-the-wailers.html</ticket_url>
+  <web_url>http://www.salutetothewailers.com</web_url>
+  <short_description>Sat 10 &amp; Sun 11 Sept 2011 salute to the wailers @ Hackney Empire,291 Mare Street, E8 1EJ Starring Perfect Purple feat One Drop Symphony Orchestra + Michael Rose | Lloyd Brown | Junior Marvin.Tkts &#163;18 -&#163;30 from 0208 985 2424 | www.hackneyempire.co.uk</short_description>
+  <long_description>&lt;p&gt;Saturday 10th &amp; Sunday 11th September 2011 Mandinka, Perfect Purple &amp; A Class Above Events Present Salute To The Wailers &#8211; The Story Of Jamaica&#8217;s First Super Group Marking 30 years since the passing of Bob Marley, Salute To The Wailers, The Story of Jamaica's First Super Group, returns to Hackney Empire with an all new show. Featuring the Perfect Purple band alongside The One Drop Symphony Orchestra and special guest vocalists you can look forward to a evening celebrating the music of Jamaica's 1st super group, Bob Marley and The WAILERS. This year's special guest performers will include Grammy award winning Reggae legend Michael Rose, alongside the UKs no.1 Reggae artist Lloyd Brown &amp; The Wailers guitarist Junior Marvin. Hackney Empire 291 Mare Street London E8 1EJ Salute To The Wailers The Story Of Jamaica&#8217;s First Super Group Starring Perfect Purple &amp; One Drop Symphony Orchestra Featuring Michael Rose | Lloyd Brown | Junior Marvin + Caspian | Mr Alexander | Annoinette Griffiths | Blessed Caress Doors: 6:30pm | Show Time: 7:30pm &#8211; 11:00pm Tickets On Sale Now at &#163;18 - &#163;30 From Hackney Empire Box Office www.hackneyempire.co.uk/ | 0208 985 2424 Website Links: Website: www.salutetothewailers.com Twitter: @stw10 Facebook Group: http://www.facebook.com/group.php?gid=28281310511 YouTube: http://www.youtube.com/salutetothewailers ##&lt;/p&gt;</long_description>
+  <venue>
+    <id>1093</id>
+    <name>Hackney Empire</name>
+    <street>291 Mare Street</street>
+    <area>Hackney</area>
+    <city>London</city>
+    <postcode>E8 1EJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5458839</latitude>
+      <longitude>-0.0543422</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13256</id>
+  <name>La R&#234;ve</name>
+  <promoter>33 Events</promoter>
+  <start_time>2011-09-16T19:00:00Z</start_time>
+  <end_time>2011-09-17T02:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Dusty Limits, Up And Over It, Vicky Butterfly, Ria Lina, Fabulous Russella, Kitty Bang Bang, Pippa The Ripper, Brett Pfister, The Bee&#8217;s Knees</artists>
+  <tags>Supper Club, Cabaret, Burlesque, Vintage, Ska Cubano, Boom Boom, Bete Noire, Nightlife, Rock n Roll, Swing, Electro-Swing, Rhythm and Blues</tags>
+  <costs>VIP Dinner + show +club - &#163;75 advance  VIP Show Only - &#163;25 advance  3-Course Dinner + Show + Club - &#163;45 advance General admission (early show) - &#163;12 advance General admission (after 10pm) - &#163;8 advance </costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13256/original/LR_flyer_no_copy.jpg?1313581494</image_url>
+  <ticket_url>http://bit.ly/16092011</ticket_url>
+  <web_url>http://lareve.co.uk/</web_url>
+  <short_description>La Reve is the most talked about cabaret show in town. Unparalleled showmanship, carnival and splendor combine in the hallowed walls of Cafe de Paris, a genuinely jaw dropping experience. The West End as it was and always should be! </short_description>
+  <long_description>&lt;p&gt;The teams behind two of London's hottest alternative club nights come together in 2011 to produce a Friday feast of vintage-inspired entertainment at the world famous Caf&#233; de Paris. LA R&#202;VE looks set to provide the perfect antidote to the characterless clubs and dreary mainstream theatres which have been prevalent in the West End in recent years, with an all-singing, all-dancing weekly extravag... The teams behind two of London's hottest alternative club nights come together in 2011 to produce a Friday feast of vintage-inspired entertainment at the world famous Caf&#233; de Paris. LA R&#202;VE looks set to provide the perfect antidote to the characterless clubs and dreary mainstream theatres which have been prevalent in the West End in recent years, with an all-singing, all-dancing weekly extravaganza! B&#234;te Noire&#8217;s jazz age splendour and flapper fashion combines with Boom Boom Club&#8217;s deliciously twisted cabaret, to create a fantasy world evoking the golden age of nightclub entertainment - from the Moulin Rouge to the Bellagio. Expect live music, cabaret floor shows, circus, dancing girls, roving performers, aerialists and more on weekly rotation. A blend of vintage sensibilities and contemporary after-hours entertainment, designed to appeal to retro devotees and all other lovers of hedonistic nightlife! Line up 16/09/2011 Dusty Limits The Charming And Sinister Neo-Weimar Star Of Uk Cabaret. Up And Over It Hand-Percussion And Leftfield Dance From Rising Stars Of The Scene Vicky Butterfly Belle &#201;poque Beauty, Classically-Inspired Balletic Burlesque. Ria Lina &#8216;Lina Is A Musical Comic With A Brilliant Line In Bawdy Songs&#8230; Storming Set!&#8217;- Evening Standard. Fabulous Russella The Best Legs In Drag Kitty Bang Bang Wild Child Of Burlesque, Currently Starring And Winner Of The Milan Burlesque Festival 2011 Pippa The Ripper Highly Skilled Hula-Hoop Artist Brett Pfister Punked-Up Aerial Ballet To Make You Gasp! The Bee&#8217;s Knees London&#8217;s Finest Flappers, The Height Of Excellence When It Comes To All Things Charleston Dressing up is not compulsory but is strongly encouraged. VIP Dinner + show +club - &#163;75 advance VIP Show Only - &#163;25 advance 3-Course Dinner + Show + Club - &#163;45 advance General admission (early show) - &#163;12 advance General admission (after 10pm) - &#163;8 advance All sections available from www.ticketweb.co.uk About the venue: The Caf&#233; de Paris is one of the original homes of Vaudeville in the West End. Regular performers throughout the early years included luminaries such as Noel Coward, Marlene Dietrich and Louise Brooks, who made history when she introduced the Charleston to London at the venue in 1924. Caf&#233; survived a devastating bombing in World War II, and has continued to provide the backdrop for many of London&#8217;s wildest moments ever since. For more information visit www.lareve.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>19</id>
+    <name>Cafe De Paris</name>
+    <street>4 Coventry Street</street>
+    <area>Soho</area>
+    <city>London</city>
+    <postcode>W1D 6BL</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10522</id>
+  <name>Roary the Racing Car: Live</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-09-17T12:00:00Z</start_time>
+  <end_time>2011-09-17T14:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Roary the Racing Car</artists>
+  <tags>Roary, Family, Kids, Cars</tags>
+  <costs>&#163;13.50, &#163;15.50, &#163;53 Family ticket, &#163;49 Family ticket (online)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10522/original/Roary_Chris.jpg?1308130604</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>The number one racing car zooms into theatres for the very first time in his brand new stage show.  It's the 'Champion of Champions' race and Roary is set to battle it out with Maxi, Cici and the others to win the trophy. </short_description>
+  <long_description>&lt;p&gt;Farmer Green has created some brand new bio fuel to make sure this is the fastest and greenest race ever, but flash wants the fuel for his skateboard and Big Chris is more interested in baking pizza and eating doughnuts than preparing the cars for the race. Luckily Marsha Marshall is on hand to make sure everyone is ready for the big day. But who will be crowned the champion?&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10525</id>
+  <name>Roary the Racing Car: Live</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-09-17T14:30:00Z</start_time>
+  <end_time>2011-09-17T16:30:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Roary the Racing Car</artists>
+  <tags>Roary, Kids, Family, Cars</tags>
+  <costs>&#163;13.50, &#163;15.50, &#163;53 Family ticket, &#163;49 Family ticket (online)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10525/original/Roary_Chris.jpg?1308132399</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>The number one racing car zooms into theatres for the very first time in his brand new stage show.  It's the 'Champion of Champions' race and Roary is set to battle it out with Maxi, Cici and the others to win the trophy.</short_description>
+  <long_description>&lt;p&gt;Farmer Green has created some brand new bio fuel to make sure this is the fastest and greenest race ever, but Flash wants the fuel for his skateboard and Big Chris is more interested in baking pizza and eating doughnuts than preparing the cars for the race. Luckily Marsha Marshall is on hand to make sure everyone is ready for the big day. But who will be crowned the champion?&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10579</id>
+  <name>Roary the Racing Car: Live</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-09-18T12:00:00Z</start_time>
+  <end_time>2011-09-18T14:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Roary the Racing Car</artists>
+  <tags>Roary, Kids, Cars, Family</tags>
+  <costs>&#163;13.50, &#163;15.50, &#163;53 Family ticket, &#163;49 Family ticket (online)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10579/original/Roary_Chris.jpg?1308214847</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>The number one racing car zooms into theatres for the very first time in his brand new stage show.  It's the 'Champion of Champions' race and Roary is set to battle it out with Maxi, Cici and the others to win the trophy.</short_description>
+  <long_description>&lt;p&gt;Farmer Green has created some brand new bio fuel to make sure this is the fastest and greenest race ever, but Flash wants the fuel for his skateboard and Big Chris is more interested in baking pizza and eating doughnuts than preparing the cars for the race. Luckily Marsha Marshall is on hand to make sure everyone is ready for the big day. But who will be crowned the champion?&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10581</id>
+  <name>Roary the Racing Car: Live</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-09-18T14:30:00Z</start_time>
+  <end_time>2011-09-18T16:30:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Roary the Racing Car</artists>
+  <tags>Roary, Kids, cars, Family</tags>
+  <costs>&#163;13.50, &#163;15.50, &#163;53 Family ticket, &#163;49 Family ticket (online)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10581/original/Roary_Chris.jpg?1309338594</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>The number one racing car zooms into theatres for the very first time in his brand new stage show.  It's the 'Champion of Champions' race and Roary is set to battle it out with Maxi, Cici and the others to win the trophy.</short_description>
+  <long_description>&lt;p&gt;Farmer Green has created some brand new bio fuel to make sure this is the fastest and greenest race ever, but Flash wants the fuel for his skateboard and Big Chris is more intersted in baking pizza and eating doughnuts than preparing the cars for the race. Luckily Marsha Marshall is on hand to make sure everyone is ready for the big day. But who will be crowned champion?&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10582</id>
+  <name>Roary the Racing Car: Live</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-09-18T14:30:00Z</start_time>
+  <end_time>2011-09-18T16:30:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Roary the Racing Car</artists>
+  <tags>Roary, Family, Cars, Kids</tags>
+  <costs>&#163;13.50, &#163;15.50, &#163;53 Family ticket, &#163;49 Family ticket (online)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10582/original/Roary_Chris.jpg?1308217036</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>The number one racing car zooms into theatres for the very first time in his brand new stage show.  It's the 'Champion of Champions' race and Roary is set to battle it out with Maxi, Cici and the others to win the trophy.</short_description>
+  <long_description>&lt;p&gt;Farmer Green has created some brand new bio fuel to make sure this is the fastest and greenest race ever, but Flash wants the fuel for his skateboard and Big Chris is more intersted in baking pizza and eating doughnuts than preparing the cars for the race. Luckily Marsha Marshall is on hand to make sure everyone is ready for the big day. But who will be crowned champion?&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10832</id>
+  <name>Young &#8216;n&#8217; Gifted</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-09-19T18:00:00Z</start_time>
+  <end_time>2011-09-19T19:45:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Various artists</artists>
+  <tags>dance</tags>
+  <costs>&#163;2.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10832/original/Main-Young-n-Gifted.jpg?1308748442</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;youngngifted</ticket_url>
+  <web_url>http://www.harrowarts.com/go/something-different/details/735-young-n-gifted</web_url>
+  <short_description>A showcase event led by young people, uncovering the hidden local talent, from drama to dance, music to comedy.  If you are a young person living in Harrow, and you would like to bring your fresh ideas to the Arts Centre, we want to hear from you!</short_description>
+  <long_description>&lt;p&gt;A showcase event led by young people, uncovering the hidden local talent, from drama to dance, music to comedy. If you are a young person living in Harrow, and you would like to bring your fresh ideas to the Arts Centre, we want to hear from you! Have your say in the community! See your ideas come to life! Show Harrow what you&#8217;re made of!If you would like to be involved, contact Abi and Supna on 0208 424 1812, or email connexions@harrow.gov.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10833</id>
+  <name>A Brief Encounter Cert PG</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-09-20T13:00:00Z</start_time>
+  <end_time>2011-09-20T14:45:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Trevor Howard, Celia Johnson</artists>
+  <tags>family</tags>
+  <costs>&#163;3.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10833/original/Thumb-A-Brief-Encounter.jpg?1308748701</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;briefencounter</ticket_url>
+  <web_url>http://www.harrowarts.com/go/film/details/736-a-brief-encounter-cert-pg</web_url>
+  <short_description>Laura Jesson is a suburban housewife who falls for another man after a chance meeting at a railway station. Doctor Alec Harvey and Laura find themselves drawn together by their mutual love</short_description>
+  <long_description>&lt;p&gt;Laura Jesson is a suburban housewife who falls for another man after a chance meeting at a railway station. Doctor Alec Harvey and Laura find themselves drawn together by their mutual love. They soon realise however that any kind of future together is to prove impossible. Starring Trevor Howard and Celia Johnson, this iconic David Lean movie of forbidden love remains one of films all time classics.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12032</id>
+  <name>Mysterious Skin</name>
+  <promoter>The Drill Hall</promoter>
+  <start_time>2011-09-20T18:30:00Z</start_time>
+  <end_time>2011-09-20T20:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Oliver Walker, Julie Addy, Harry Bradshaw, Nicole Faraday, Peter Darney</artists>
+  <tags>Mysterious Skin, gay theatre, Scott Heim, Peter Darney, Oliver Walker, Julie Addy, Harry Bradshaw, Nicole Faraday</tags>
+  <costs>&#163;12, &#163;10 concessions</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12032/original/skin_500x500.jpg?1311078865</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=DRILHALL&amp;organ_val=20913&amp;event_val=1122&amp;schedule=list</ticket_url>
+  <web_url>http://drillhall.co.uk/skin</web_url>
+  <short_description>Director Peter Darney's highly acclaimed award-winning production comes from recently taking the International Dublin Gay Theatre Festival by storm, where Oliver Walker (Neil) and Julie Addy (Wendy) won the Best Actor and Best Actress awards.</short_description>
+  <long_description>&lt;p&gt;Presented by Em-Lou Productions and The Drill Hall based on the novel by Scott Heim adapted by Prince Gomolvilas directed by Peter Darney Best actor awards for Oliver Walker and Julie Addy at Dublin Gay Theatre Festival 2011 "Played perfectly under Peter Darney's nuanced direction... Theatre for grown ups. Stunning." ***** Broadway Baby In Kansas, Brian gets blackouts and has missing hours in his life. He looks for them with alien abductee Avalyn, who is lonely and looking for her next close encounter! In New York, street hustler Neil loves sex with older men, while his friend Wendy worries. In a deeply moving twist, their parallel lives link to unlock the past in Prince Gomolvilas' adaptation of Scott Heim's world famous book and cult film. "A brilliant piece of theatre, bold and thought provoking. Make sure you experience being a part of it" **** ScreenGRAB Director Peter Darney's highly acclaimed award-winning production comes from recently taking the International Dublin Gay Theatre Festival by storm, where Oliver Walker (Neil) and Julie Addy (Wendy) won the Best Actor and Best Actress awards. Featuring Nicole Fariday, best known for her role of Snowball Merriman in Bad Girls, and Harry Bradshaw, who was most recently seen in Hollyoaks. "Viceral and powerfully realistic" ***** Fringe Guru The truth is out there... And it sets you free. "Mysterious Skin is a powerful story that is both horrifying and beautiful. You HAVE to see this play." ***** The New Current Acclaim for Mysterious Skin: "Visceral and powerfully realistic" ***** Fringe Guru "This is an astonishing production" ***** Shortlisted Best Overall Show Award 2010 Fresh Air "An amazing piece of absorbing drama" ***** AlltheFestivals.com "The Best of British Theatre Style" ***** (Critics Pick of the Fringe) Fringe Review "Powerful adaptation of a bestselling novel" **** The List "Top 10 Pick of the Fringe" **** ScotsGay "Hugely successful" **** Hairline "Darney never shies away from the tougher elements of the play" **** remotegoat Sun 18 Sep 2011 4pm 19 &amp; 20 Sep 2011 7.30pm Drill Hall 1 Suitable for people 16 and over Mysterious Skin was originally commissioned, developed and produced by the New Conservatory Theatre Centre, California.&lt;/p&gt;</long_description>
+  <venue>
+    <id>173</id>
+    <name>Drill Hall</name>
+    <street>16 Chenies Street</street>
+    <area>Bloomsbury</area>
+    <city>London</city>
+    <postcode>WC1E 7EX</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.5208464</latitude>
+      <longitude>-0.1329073</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10584</id>
+  <name>The Vagina Monolgues: Tour Opening Night</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-09-20T19:00:00Z</start_time>
+  <end_time>2011-09-20T21:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Women, Comedy, Monolgues</tags>
+  <costs>&#163;20</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10584/original/Vagina-Monologues-2011-brochure.jpg?1308217756</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>Sometimes you can't get enough of a good thing, as we launch the latest celebrity line-up for Eve Ensler's unstoppable, timeless Broadway and West End smash hit.</short_description>
+  <long_description>&lt;p&gt;This global phenomenon features three amazing TV and stage actresses performing a hilarious, exhilarating and moving collection of stories. Ensler asked over 200 women of all ages, ethnic backgrounds and walks of life to share their most intimate secrets on often taboo subjects such as birth, sex, orgasms and relationships with truly revelatory results. An unmissable girls' night out. Featuring a new all star cast including the brilliant Tiana Benjamin (Eastenders), the stunning Louisa Lytton (Eastenders, The Bill) and the sensational Wendi Peters (Coronation Street, Celebrity Masterchef).&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12616</id>
+  <name>An Evening with Peter Alliss</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-09-21T18:30:00Z</start_time>
+  <end_time>2011-09-21T21:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Peter Alliss </artists>
+  <tags>Peter Alliss, Celebrity </tags>
+  <costs>&#163;19.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12616/original/2011_.jpg?1312365574</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3478&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/whats-on/an-evening-with-peter-alliss/</web_url>
+  <short_description>Peter is in constant demand for speaking and presentation engagements, he is noted for his depth of knowledge of the game of golf, his wit and &#8216;off-the-cuff&#8217; humour.</short_description>
+  <long_description>&lt;p&gt;Peter is in constant demand for speaking and presentation engagements, he is noted for his depth of knowledge of the game of golf, his wit and &#8216;off-the-cuff&#8217; humour. He&#8217;s recognised around the world for his television commentaries for ABC in the United States and the BBC in Europe, as well as working for the Australian and Canadian Broadcasting Corporations. Peter has written 20 books, the latest being Golf &#8211; The Cure for a Grumpy Old Man, and he also writes regularly for Golf International and Fairway to Green magazines.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13257</id>
+  <name>La R&#234;ve</name>
+  <promoter>33 Events</promoter>
+  <start_time>2011-09-23T19:00:00Z</start_time>
+  <end_time>2011-09-24T02:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Ivy Paige, Madame Galina, Christian Lee, Elliot Mason, Jesse Rose, Dani California,  Missy Fatale, The Bee's Knees, Roxy Velvet</artists>
+  <tags>Supper Club, Cabaret, Burlesque, Vintage, Ska Cubano, Boom Boom, Bete Noire, Nightlife, Rock n Roll, Swing, Electro-Swing, Rhythm and Blues</tags>
+  <costs>VIP Dinner + show +club - &#163;75 advance  VIP Show Only - &#163;25 advance  3-Course Dinner + Show + Club - &#163;45 advance General admission (early show) - &#163;12 advance General admission (after 10pm) - &#163;8 advance </costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13257/original/LR_flyer_no_copy.jpg?1313581923</image_url>
+  <ticket_url>http://bit.ly/23092011</ticket_url>
+  <web_url>http://lareve.co.uk/</web_url>
+  <short_description>La Reve is the most talked about cabaret show in town. Unparalleled showmanship, carnival and splendor combine in the hallowed walls of Cafe de Paris, a genuinely jaw dropping experience. The West End as it was and always should be! </short_description>
+  <long_description>&lt;p&gt;The teams behind two of London's hottest alternative club nights come together in 2011 to produce a Friday feast of vintage-inspired entertainment at the world famous Caf&#233; de Paris. LA R&#202;VE looks set to provide the perfect antidote to the characterless clubs and dreary mainstream theatres which have been prevalent in the West End in recent years, with an all-singing, all-dancing weekly extravag... The teams behind two of London's hottest alternative club nights come together in 2011 to produce a Friday feast of vintage-inspired entertainment at the world famous Caf&#233; de Paris. LA R&#202;VE looks set to provide the perfect antidote to the characterless clubs and dreary mainstream theatres which have been prevalent in the West End in recent years, with an all-singing, all-dancing weekly extravaganza! B&#234;te Noire&#8217;s jazz age splendour and flapper fashion combines with Boom Boom Club&#8217;s deliciously twisted cabaret, to create a fantasy world evoking the golden age of nightclub entertainment - from the Moulin Rouge to the Bellagio. Expect live music, cabaret floor shows, circus, dancing girls, roving performers, aerialists and more on weekly rotation. A blend of vintage sensibilities and contemporary after-hours entertainment, designed to appeal to retro devotees and all other lovers of hedonistic nightlife! Line Up 23/09/2011 Ivy Paige With Her Fiery Hair And Stage Presence To Match, She&#8217;ll Take You On An All Singing All Dancing Journey Into The Unknown. Madame Galina Comedy From The Prima Ballerina And Forces Sweetheart Christian Lee &#8216;The King Of Comedy Magic&#8217; - Time Out Elliot Mason A Fantastic Vaudevillian Singer-Songwriter. Jesse Rose Hula-Hoop And Aerial Performer Extraordinaire. Dani California A Glittering Starlet - A Dreamlike, Decadent Enchantress Who Teases And Captivates All Who Behold Her. Missy Fatale Burlesque Starlet Who Is Mistress Of The Shadow Dances. The Bee's Knees London&#8217;s Finest Flappers, The Height Of Excellence When It Comes To All Things Charleston. Roxy Velvet Aerial Hoop Is Just One Of The Numerous Talents Of This Smoking Circus And Cabaret Starlet. Dressing up is not compulsory but is strongly encouraged. VIP Dinner + show +club - &#163;75 advance VIP Show Only - &#163;25 advance 3-Course Dinner + Show + Club - &#163;45 advance General admission (early show) - &#163;12 advance General admission (after 10pm) - &#163;8 advance All sections available from www.ticketweb.co.uk About the venue: The Caf&#233; de Paris is one of the original homes of Vaudeville in the West End. Regular performers throughout the early years included luminaries such as Noel Coward, Marlene Dietrich and Louise Brooks, who made history when she introduced the Charleston to London at the venue in 1924. Caf&#233; survived a devastating bombing in World War II, and has continued to provide the backdrop for many of London&#8217;s wildest moments ever since. For more information visit www.lareve.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>19</id>
+    <name>Cafe De Paris</name>
+    <street>4 Coventry Street</street>
+    <area>Soho</area>
+    <city>London</city>
+    <postcode>W1D 6BL</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10842</id>
+  <name>Fiddler on the Roof Sing Out! Cert U</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-09-24T19:00:00Z</start_time>
+  <end_time>2011-09-24T21:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Topal, Norma Crane, Leonard Frey</artists>
+  <tags>fun</tags>
+  <costs>&#163;8.00, &#163;6.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10842/original/Thumb-Fiddler-on-the-Roof-Sing-Out.jpg?1308749718</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;fiddler</ticket_url>
+  <web_url>http://www.harrowarts.com/go/film/details/741-fidler-on-the-roof-sing-out</web_url>
+  <short_description>Have you ever been to see one of your favourite musicals and had an uncontrollable urge to burst into song? Well, you won&#8217;t want to miss OUR &#8216;sing along&#8217; to one of the most iconic films in the 20th century!</short_description>
+  <long_description>&lt;p&gt;Have you ever been to see one of your favourite musicals and had an uncontrollable urge to burst into song? Well, you won&#8217;t want to miss OUR &#8216;sing along&#8217; to one of the most iconic films in the 20th century! In pre-revolutionary Russia, a poor Jewish peasant must contend with marrying off his five daughters while antisemitic sentiment threatens his home. So dust off your waistcoats, grab your headscarves and join us for a truly fabulous experience!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10843</id>
+  <name>theBIGsing</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-09-26T19:00:00Z</start_time>
+  <end_time>2011-09-26T20:45:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Tonic Choir featuring Bryan Kesselman &amp; Philip Barnett</artists>
+  <tags>family</tags>
+  <costs>&#163;7 / &#163;6 Tonic members and bookings before 31 August / &#163;4 for ages 14-16</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10843/original/Thumb-theBIGsing.jpg?1308749949</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;thebigsing</ticket_url>
+  <web_url>http://www.harrowarts.com/go/music/details/742-the-big-sing-tonic-choir</web_url>
+  <short_description>Singing is great for your health and singing with up to 450 others is something you simply must experience. Led by Tonic's popular musical directors, Bryan Kesselman and Philip Barnett, enjoy learning and singing a variety of songs.</short_description>
+  <long_description>&lt;p&gt;Singing is great for your health and singing with up to 450 others is something you simply must experience. Led by Tonic's popular musical directors, Bryan Kesselman and Philip Barnett, enjoy learning and singing a variety of songs. Please arrive between 7.30pm and 7.45pm. All abilities welcome. This evening is part of 123sing!, an annual nationwide event raising money for the Classic FM Foundation which runs music education projects for the most disadvantaged people in the UK. Entertaining People will donate &#163;1 for each ticket sold. For more details visit the event microsite at www.tonicchoir.co.uk/theBIGsing.html&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10845</id>
+  <name>Whenever I Get Blown Up I Think Of You</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-09-27T18:30:00Z</start_time>
+  <end_time>2011-09-27T19:30:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Molly Naylor</artists>
+  <tags>history</tags>
+  <costs>&#163;10 / &#163;8 concs (Suitable 12+)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10845/original/Thumb-Whenever-I-Get-Blown-Up.jpg?1308750104</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;blownup</ticket_url>
+  <web_url>http://www.harrowarts.com/go/theatre/details/743-whenever-i-get-blown-up-i-think-of-you</web_url>
+  <short_description>How does it feel to have your world blown apart</short_description>
+  <long_description>&lt;p&gt;How does it feel to have your world blown apart? Britain is booming and Molly moves to London from deepest Cornwall full of naive dreams, high hopes and on a quest to make her life just like the movies. Then on 7/7/2005, she finds herself on a tube blown up by terrorists and her life is forced to take a different direction. Funny, frank and poetic; this is the true story of what happened next and how we put things back together after they&#8217;ve been blown apart.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>13258</id>
+  <name>La R&#234;ve</name>
+  <promoter>33 Events</promoter>
+  <start_time>2011-09-30T18:00:00Z</start_time>
+  <end_time>2011-10-01T02:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Ivy Paige, Matt Ricardo, Kiki Kaboom, Lucky Franco, Craig The Incredible Hula Boy, Bettsie Bonbon, Leah Debrincat, Katharine Arnold</artists>
+  <tags>Supper Club, Cabaret, Burlesque, Vintage, Ska Cubano, Boom Boom, Bete Noire, Nightlife, Rock n Roll, Swing, Electro-Swing, Rhythm and Blues</tags>
+  <costs>VIP Dinner + show +club - &#163;75 advance  VIP Show Only - &#163;25 advance  3-Course Dinner + Show + Club - &#163;45 advance General admission (early show) - &#163;12 advance General admission (after 10pm) - &#163;8 advance </costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/13258/original/LR_flyer_no_copy.jpg?1313582507</image_url>
+  <ticket_url>http://bit.ly/30092011</ticket_url>
+  <web_url>http://lareve.co.uk/</web_url>
+  <short_description>La Reve is the most talked about cabaret show in town. Unparalleled showmanship, carnival and splendor combine in the hallowed walls of Cafe de Paris, a genuinely jaw dropping experience. The West End as it was and always should be! </short_description>
+  <long_description>&lt;p&gt;The teams behind two of London's hottest alternative club nights come together in 2011 to produce a Friday feast of vintage-inspired entertainment at the world famous Caf&#233; de Paris. LA R&#202;VE looks set to provide the perfect antidote to the characterless clubs and dreary mainstream theatres which have been prevalent in the West End in recent years, with an all-singing, all-dancing weekly extravag... The teams behind two of London's hottest alternative club nights come together in 2011 to produce a Friday feast of vintage-inspired entertainment at the world famous Caf&#233; de Paris. LA R&#202;VE looks set to provide the perfect antidote to the characterless clubs and dreary mainstream theatres which have been prevalent in the West End in recent years, with an all-singing, all-dancing weekly extravaganza! B&#234;te Noire&#8217;s jazz age splendour and flapper fashion combines with Boom Boom Club&#8217;s deliciously twisted cabaret, to create a fantasy world evoking the golden age of nightclub entertainment - from the Moulin Rouge to the Bellagio. Expect live music, cabaret floor shows, circus, dancing girls, roving performers, aerialists and more on weekly rotation. A blend of vintage sensibilities and contemporary after-hours entertainment, designed to appeal to retro devotees and all other lovers of hedonistic nightlife! Line up 30/09/2011 Ivy Paige With Her Fiery Hair And Stage Presence To Match, She&#8217;ll Take You On An All Singing All Dancing Journey Into The Unknown. Matt Ricardo The Gentleman Juggler Whose Skills Are Almost As Impressive As His Suit. Kiki Kaboom Swiper Of Hearts, Minds And Drinks. Oozing Sass, Sauce And Sex Appeal, A True Burlesque Bombshell. Lucky Franco Contortionist And Internationally Renowned Performance Artiste Craig The Incredible Hula Boy Combining His Background Of Acrobatics With His High Skill Level Of Hula-Hoop, Craig Performs A Slick, High Energy And Unforgettable Hula-Hoop Act. Bettsie Bonbon A Spanking New Burlesque Cabaret Act That Will Tantalize And Tease! Leah Debrincat &#8216;Debrincat&#8217;s Fluid, Snakish Movements Are As Hypnotising As A Python&#8217;s Eyes, Luring The Audience&#8217;s Unblinking Gaze&#8217; - The Erotic Review Magazine Katharine Arnold La Reve&#8217;s Beautiful And Graceful Resident Aerialist. Dressing up is not compulsory but is strongly encouraged. VIP Dinner + show +club - &#163;75 advance VIP Show Only - &#163;25 advance 3-Course Dinner + Show + Club - &#163;45 advance General admission (early show) - &#163;12 advance General admission (after 10pm) - &#163;8 advance All sections available from www.ticketweb.co.uk About the venue: The Caf&#233; de Paris is one of the original homes of Vaudeville in the West End. Regular performers throughout the early years included luminaries such as Noel Coward, Marlene Dietrich and Louise Brooks, who made history when she introduced the Charleston to London at the venue in 1924. Caf&#233; survived a devastating bombing in World War II, and has continued to provide the backdrop for many of London&#8217;s wildest moments ever since. For more information visit www.lareve.co.uk&lt;/p&gt;</long_description>
+  <venue>
+    <id>19</id>
+    <name>Cafe De Paris</name>
+    <street>4 Coventry Street</street>
+    <area>Soho</area>
+    <city>London</city>
+    <postcode>W1D 6BL</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11337</id>
+  <name>Gazebo Theatre Company Present:  Rivers to Cross</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-10-05T10:00:00Z</start_time>
+  <end_time>2011-10-05T19:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Sylvester Williams</artists>
+  <tags>Imperialism, Segregation, Civil Rights, Windrush, Black Conciousness Movement, Emancipation, black males</tags>
+  <costs>&#163;7 (Under 26s), &#163;10, &#163;12</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11337/original/rivers_2.jpg?1309776095</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>A powerful new play starring Sylvester Williams (Eastenders, Bullet Boy)</short_description>
+  <long_description>&lt;p&gt;This is a 174 year roller coaster journey of true stories of great accomplishments in the face of adversity through the ages of Imperialism, Segregation, the Civil Rights Movement, the 'Windrush' era and the Black Conciousness Movement. Ira Aldridge, Walter Tull, Samuel Coleridge-Taylor, Dr Harold Moody, Paul Robeson and Barack Obama are all featured in this stunning multi-media play examining the black male experience since emancipation. Suitable for ages 11+.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10846</id>
+  <name>Johnny Boskak is Feeling Funny</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-11T18:30:00Z</start_time>
+  <end_time>2011-10-11T19:45:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Greig Coetzee</artists>
+  <tags>adult</tags>
+  <costs>&#163;10 / &#163;8 concs (Suitable 15+)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10846/original/Thumb-Johnny-Boskak-is-Feeling-Funny.jpg?1308750385</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;boskak</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>Greig Coetzee is back with his Fringe First Award winner - a groundbreaking piece of solo theatre of the story about a cowboy warrior who falls for a pool-playing, bar-room siren.</short_description>
+  <long_description>&lt;p&gt;Greig Coetzee is back with his Fringe First Award winner - a groundbreaking piece of solo theatre of the story about a cowboy warrior who falls for a pool-playing, bar-room siren.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11352</id>
+  <name>A Slave Story</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-10-12T12:15:00Z</start_time>
+  <end_time>2011-10-12T14:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Yaw Asiyama</artists>
+  <tags>Slavery, Africa, Me Marley and I</tags>
+  <costs>&#163;7 (Under 26s and schools), &#163;10, &#163;12</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11352/original/slave044.jpg?1309786663</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>This incredibly moving story follows over six generations of females from the time they were stolen from their African homeland to modern metropolitan Britain.  See how they learnt to outsmart their masters to avoid the beatings and rapings.</short_description>
+  <long_description>&lt;p&gt;This epic piece combines an all-female cast of 11, a gospel choir, scores of dancers and a band of musicians to tell this remarkable story of pain, tears and brutality, of cunning, wit and ruthless survival. Above a story of hope and most importantly freedom!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10879</id>
+  <name>Broadway &amp; Beyond</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-12T18:30:00Z</start_time>
+  <end_time>2011-10-12T21:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Clearer Productions</artists>
+  <tags>family</tags>
+  <costs>&#163;12 / &#163;10 concs</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10879/original/Thumb-Broadway-_-Beyond.jpg?1308822340</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;broadway</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>A thrilling and entertaining mix of music and wit from the most popular musicals of the twentieth and twenty-first centuries</short_description>
+  <long_description>&lt;p&gt;A thrilling and entertaining mix of music and wit from the most popular musicals of the twentieth and twenty-first centuries. Featuring songs from classic productions such as Oklahoma!, Kiss Me Kate and The Music Man through to more modern musicals like Miss Saigon, The Producers and Spamalot, there is something to charm and delight the whole family. Broadway and Beyond will set your feet tapping, your heart singing and leave you wanting more&#8230;&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11353</id>
+  <name>A Slave Story</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-10-13T12:15:00Z</start_time>
+  <end_time>2011-10-13T14:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Yaw Asiyama</artists>
+  <tags>Slavery, Africa</tags>
+  <costs>&#163;7 (Under 26s and schools), &#163;10, &#163;12</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11353/original/slave044.jpg?1309787029</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>This incredibly moving story follows over six generations of females from the time they were stolen from their African homeland to modern metropolitan Britain.  See how they learnt to outsmart their masters to avoid the beatings and rapings.</short_description>
+  <long_description>&lt;p&gt;This epic piece combines an all-female cast of 11, a gospel choir, scores of dancers and a band of musicians to tell this remarkable story of pain, tears and brutality, of cunning, wit and ruthless survival. Above a story of hope and most importantly freedom!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11355</id>
+  <name>A Slave Story</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-10-13T18:30:00Z</start_time>
+  <end_time>2011-10-13T20:30:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Yaw Asiyama</artists>
+  <tags>Slavery, Africa</tags>
+  <costs>&#163;7 (Under 26s and schools), &#163;10, &#163;12</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11355/original/slave044.jpg?1309787436</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>This incredibly moving story follows over six generations of females from the time they were stolen from their African homeland to modern metropolitan Britain.  See how they learnt to outsmart their masters to avoid the beatings and rapings.</short_description>
+  <long_description>&lt;p&gt;This epic piece combines an all-female cast of 11, a gospel choir, scores of dancers and a band of musicians to tell this remarkable story of pain, tears and brutality, of cunning, wit and ruthless survival. Above a story of hope and most importantly freedom!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>11356</id>
+  <name>A Slave Story</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-10-14T18:30:00Z</start_time>
+  <end_time>2011-10-14T20:30:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Yaw Asiyama</artists>
+  <tags>Slavery, Africa, Me Marley and I</tags>
+  <costs>&#163;7 (Under 26s and schools), &#163;10, &#163;12</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/11356/original/slave044.jpg?1309787733</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/</web_url>
+  <short_description>This incredibly moving story follows over six generations of females from the time they were stolen from their African homeland to modern metropolitan Britain.  See how they learnt to outsmart their masters to avoid the beatings and rapings.</short_description>
+  <long_description>&lt;p&gt;This epic piece combines an all-female cast of 11, a gospel choir, scores of dancers and a band of musicians to tell this remarkable story of pain, tears and brutality, of cunning, wit and ruthless survival. Above a story of hope and most importantly freedom!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12618</id>
+  <name>Rhythm Of The Dance</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-10-16T18:30:00Z</start_time>
+  <end_time>2011-10-16T21:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>The 3 Irish Tenors, The National Dance Company of Ireland</artists>
+  <tags>The National Dance Company of Ireland, The 3 Irish Tenors, Rhythm Of The Dance</tags>
+  <costs>&#163;21.00, &#163;19.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12618/original/ROTD_square.jpg?1312366090</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3480&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/whats-on/rhythm-of-the-dance/</web_url>
+  <short_description>Breathtaking dance with the very best music and song of the Emerald Isle as performed by many of the world&#8217;s finest dancers and musicians.</short_description>
+  <long_description>&lt;p&gt;Having played to over 3 million people in 43 countries around the world and produced by The National Dance Company of Ireland, this stunning special edition 10th anniversary celebration, features breathtaking dance with the very best music and song of the Emerald Isle as performed by many of the world&#8217;s finest dancers and musicians. Not to be missed!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10882</id>
+  <name>Guess Who&#8217;s Coming to Dinner Cert U</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-18T13:00:00Z</start_time>
+  <end_time>2011-10-18T14:30:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Sidney Poitier, Spencer Tracy, Katharine Hepburn</artists>
+  <tags>fun</tags>
+  <costs>&#163;3</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10882/original/Thumb-Guess-Whos-Coming-to-Dinner.jpg?1308823417</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;guesswhoscoming</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>Joey drayton brings her fianc&#233;, Dr. John Prentice (sidney poitier), home to sunny San Francisco to meet her affluent parents (played by spencer tracy and katherine hepburn)</short_description>
+  <long_description>&lt;p&gt;Joey drayton brings her fianc&#233;, Dr. John Prentice (sidney poitier), home to sunny San Francisco to meet her affluent parents (played by spencer tracy and katherine hepburn)Their liberal persuasions are now put to the test, for although the young man is an ideal choice (he's highly and internationally respected in the medical field, and he's impeccably mannered, handsome, well dressed and of a respectable California family), he's black.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10886</id>
+  <name>Look to the Sky: An Urban Thrille</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-19T18:30:00Z</start_time>
+  <end_time>2011-10-19T20:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Couritta Newland</artists>
+  <tags> Theatre</tags>
+  <costs>&#163;5</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10886/original/Thumb-Look-to-the-Sky.jpg?1308825013</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;looktothesky</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>In an abandoned warehouse, a search along dark corridors and winding stairs will lead to a discovery, which will change lives... </short_description>
+  <long_description>&lt;p&gt;In an abandoned warehouse, a search along dark corridors and winding stairs will lead to a discovery, which will change lives... A group of young people are forced to confront the very thing that scares them most. Themselves. The mysterious and complicated culture of inner-city youth is exploded in this gripping new play, which breathes with a raw poetic language and a pumping soundtrack.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10887</id>
+  <name>Marley, Tosh &amp; Wailer: In Conversation with Colin Grant</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-20T18:30:00Z</start_time>
+  <end_time>2011-10-20T20:30:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Colin Grant</artists>
+  <tags>theatre</tags>
+  <costs>&#163;5</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10887/original/Thumb-Marley-Tosh-_-Wailer.jpg?1308825213</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;marley</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>Cultural historian Colin Grant discusses one of the biggest and most influential groups of the 20th century</short_description>
+  <long_description>&lt;p&gt;Cultural historian Colin Grant discusses one of the biggest and most influential groups of the 20th century, The Wailers. His book I &amp; I - The Natural Mystics is the remarkable story of the rise and history of The Wailers, from ghetto life to worldwide acclaim, which digs deeper into the politics and ideologies that provoked their spirit. The event includes rare film footage and music. 'Colin Grant is an accomplished storyteller and writes with an elegance leavened by wit and cynicism.' The Guardian&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10888</id>
+  <name>Vampirates</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-22T13:00:00Z</start_time>
+  <end_time>2011-10-22T14:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Directed by Gavin Robertson</artists>
+  <tags>Family</tags>
+  <costs>&#163;8 / &#163;6 concs (Suitable 8+)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10888/original/Thumb-Vampirates.jpg?1308825438</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;vampirates</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>Twins Grace and Connor Tempest are evicted from their lighthouse home, and separated by a violent storm.
+
+</short_description>
+  <long_description>&lt;p&gt;Twins Grace and Connor Tempest are evicted from their lighthouse home, and separated by a violent storm.Rescued by a notorious pirate ship, Connor finds new friends and a new life &#8211; but does he really want to be a Pirate? Grace finds herself on board a more mysterious ship whose crew she sees only at NIGHT! Locked in her cabin she struggles to discover more about the enigmatic Captain and her own fate! Can the twins survive life on board and find their way back to each other!?&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10889</id>
+  <name>Oxjam</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-22T18:00:00Z</start_time>
+  <end_time>2011-10-22T22:45:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Various artists</artists>
+  <tags>theatre</tags>
+  <costs>&#163;3</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10889/original/Thumb-Oxjam.jpg?1308825951</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;oxjam</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>As part of our support for Oxjam, we present a special live music club night to raise money for Oxfam.</short_description>
+  <long_description>&lt;p&gt;As part of our support for Oxjam, we present a special live music club night to raise money for Oxfam.With the support of local musicians, bands and MCs, we will be having a jam packed night all for a good cause. So come down and enjoy the night with us!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10890</id>
+  <name>Alvin &amp; the Chipmunks: The Squeakquel Cert U</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-24T13:00:00Z</start_time>
+  <end_time>2011-10-24T14:30:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Zachary Levi, David Cross, Jason Lee</artists>
+  <tags>family</tags>
+  <costs>&#163;3</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10890/original/Thumb-Alvin-_-the-Chipmunks.jpg?1308826101</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;alvin</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>The world famous singing pre-teen chipmunk trio return to contend with the pressures of school, celebrity, and a rival female music group known as The Chipettes.</short_description>
+  <long_description>&lt;p&gt;The world famous singing pre-teen chipmunk trio return to contend with the pressures of school, celebrity, and a rival female music group known as The Chipettes.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10902</id>
+  <name>For Coloured Girls Cert 15</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-25T18:30:00Z</start_time>
+  <end_time>2011-10-25T21:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>adult</tags>
+  <costs>&#163;5</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10902/original/Thumb-For-Coloured-Girls.jpg?1308832059</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;forcolouredgirls</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>Starring Janet Jackson, Anika Noni Rose and Whoopi Goldberg, &#8216;For Coloured Girls&#8217; is a moving film that depicts the interconnected lives of a group of nine women.</short_description>
+  <long_description>&lt;p&gt;Starring Janet Jackson, Anika Noni Rose and Whoopi Goldberg, &#8216;For Coloured Girls&#8217; is a moving film that depicts the interconnected lives of a group of nine women. Dealing with different personal conflicts such as infidelity, abandonment and love, it explores the struggles faced by women of colour.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10908</id>
+  <name>Gina Yashere</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-28T19:00:00Z</start_time>
+  <end_time>2011-10-28T21:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Gina Yashere</artists>
+  <tags>adult</tags>
+  <costs>&#163;15 (Suitable 14+)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10908/original/Thumb-Gina-Yashere.jpg?1308833845</image_url>
+  <ticket_url>https://kiosk.iristickets.co.uk/k?harrowarts&amp;gina</ticket_url>
+  <web_url>http://www.harrowarts.com</web_url>
+  <short_description>Not content with being one of the most sought after comedians in the UK, Gina decided 3 years ago to up sticks and move to Hollywood to see if she could get a piece of the American dream.</short_description>
+  <long_description>&lt;p&gt;Not content with being one of the most sought after comedians in the UK, Gina decided 3 years ago to up sticks and move to Hollywood to see if she could get a piece of the American dream. She's not done too badly. She's the best and she wants everyone to know it, so she's gonna keep shouting until you notice her! Either that, or sleep with Justin Bieber. Come see for yourself. You'll laugh...you'll definitely laugh&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12444</id>
+  <name>An Evening of Burlesque</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-10-28T19:00:00Z</start_time>
+  <end_time>2011-10-28T21:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>An Evening of Burlesque</artists>
+  <tags>Burlesque, West End</tags>
+  <costs>&#163;18, &#163;16 (Concessions)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12444/original/A5-Port-Violet-EOB_OPT.jpg?1312192897</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>The West End's burlesque sensation returns.</short_description>
+  <long_description>&lt;p&gt;It's all tease, no sleaze as couture corsets killer heels and stockings aplenty combine exquisitely with music from across the decades to recall glamour days gone by. Traditional burlesque is given a modern day tweak as sultry vocals, breathtaking choreography, mischief, magic, frivolity and fun collide. Sorry over 18s only!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12237</id>
+  <name>Richard Keys &amp; Andy Gray Live &amp; Loud</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-10-29T18:30:00Z</start_time>
+  <end_time>2011-10-30T10:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Richard Keys, Andy Gray</artists>
+  <tags>Celebrity Evening, Comedy</tags>
+  <costs>&#163;22.50, &#163;19.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12237/original/Richard_Keys_Andy_Gray_S.jpg?1311676761</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3483&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/</web_url>
+  <short_description>Richard Keys and Andy Gray need no introduction...
+The show will begin with one hour of talk, anecdotes
+and opinion taking in two intertwining careers that
+have spanned almost forty years in football, television and radio.</short_description>
+  <long_description>&lt;p&gt;Following this will be a half hour, no-hold barred Q&amp;A session where the controversial duo will put themselves on the line with anything you want to throw at them!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>10913</id>
+  <name>The Rocky Horror Picture Show Sing Out! Cert 15</name>
+  <promoter>Harrow Arts Centre</promoter>
+  <start_time>2011-10-29T19:00:00Z</start_time>
+  <end_time>2011-10-29T22:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Tim Curry, Richard O'Brien, Susan Sarandon</artists>
+  <tags>cult film</tags>
+  <costs>&#163;8, &#163;6 Concessions</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/10913/original/Rocky_Horror.jpg?1308841405</image_url>
+  <ticket_url>http://www.harrowarts.com/go/film/details/764-the-rocky-horror-picture-show-sing-out-cert-15</ticket_url>
+  <web_url>http://www.harrowarts.com/</web_url>
+  <short_description>Have you ever been to see one of your favourite musicals and had an uncontrollable urge to burst into song? Well, you won&#8217;t want to miss OUR &#8216;sing along&#8217; to one of the best cult films in the 20th century!</short_description>
+  <long_description>&lt;p&gt;Have you ever been to see one of your favourite musicals and had an uncontrollable urge to burst into song? Well, you won&#8217;t want to miss OUR &#8216;sing along&#8217; to one of the best cult films in the 20th century! A newly engaged couple have a breakdown in an isolated area and must pay a call to the bizarre residence of Dr. Frank-N-Furter. So get out your fishnets and high heels and join us for a truly fabulous evening!&lt;/p&gt;</long_description>
+  <venue>
+    <id>3803</id>
+    <name>Harrow Arts Centre</name>
+    <street>Uxbridge Rd</street>
+    <area>Hatch End</area>
+    <city>Middlesex</city>
+    <postcode>HA5 4EA</postcode>
+    <phone></phone>
+    <location>
+      <latitude>51.6084764</latitude>
+      <longitude>-0.3625262</longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12622</id>
+  <name>Jackson Live in Concert</name>
+  <promoter>The Alban Arena</promoter>
+  <start_time>2011-11-13T19:30:00Z</start_time>
+  <end_time>2011-11-13T22:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists>Amir Sharma's tribute to Michael Jackson</artists>
+  <tags>Michael Jackson tribute, Amir Sharma</tags>
+  <costs>&#163;18.00, &#163;14.00</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12622/original/Jackson_Live_brochure_image.jpg?1312367090</image_url>
+  <ticket_url>http://purchase.tickets.com/buy/TicketPurchase?agency=ALBASUB&amp;organ_val=27487&amp;event_val=3456&amp;schedule=list</ticket_url>
+  <web_url>http://www.alban-arena.co.uk/whats-on/jackson---live-in-concert/</web_url>
+  <short_description>Featuring renditions of Thriller, Beat it and Billie Jean which are truly sensational. Pure MJ!</short_description>
+  <long_description>&lt;p&gt;Amir Sharma&#8217;s portrayal of Michael Jackson in his prime has to be the most vocally and visually accurate tribute to the King of Pop to have ever toured UK theatres. Amir is joined on the stage by a cast of musicians, singers and dancers who work their way through all the hits. He&#8217;s got the look, the moonwalk and above all, the voice! His renditions of Thriller, Beat it and Billie Jean are truly sensational. Pure MJ&lt;/p&gt;</long_description>
+  <venue>
+    <id>3517</id>
+    <name>The Alban Arena</name>
+    <street>Civic Centre</street>
+    <area></area>
+    <city>St Albans</city>
+    <postcode>AL1 3LD</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12468</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-24T18:00:00Z</start_time>
+  <end_time>2011-11-24T20:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Pantomime, Beauty and the Beast, Panto</tags>
+  <costs>&#163;11</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12468/original/BB_LogoLRG.JPG?1312197515</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget, you'll save &#163;1 off peak prices if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12511</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-26T13:15:00Z</start_time>
+  <end_time>2011-11-26T15:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;11</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12511/original/BB_LogoLRG.JPG?1312210040</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12514</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-26T17:00:00Z</start_time>
+  <end_time>2011-11-26T19:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;11</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12514/original/BB_LogoLRG.JPG?1312210516</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12515</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-27T13:15:00Z</start_time>
+  <end_time>2011-11-27T15:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;11</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12515/original/BB_LogoLRG.JPG?1312210883</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.</short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12512</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-27T17:00:00Z</start_time>
+  <end_time>2011-11-27T19:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;11</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12512/original/BB_LogoLRG.JPG?1312210219</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12517</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-28T10:00:00Z</start_time>
+  <end_time>2011-11-28T12:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (School pupils with 1 teacher free for every 10 pupils),  &#163;9.50 (Senior citizens)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12517/original/BB_LogoLRG.JPG?1312211600</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12519</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-28T13:15:00Z</start_time>
+  <end_time>2011-11-28T15:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (School pupils with 1 free teacher for every 10 pupils), &#163;9.50 (Senior citizens)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12519/original/BB_LogoLRG.JPG?1312211885</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.</short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12523</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-29T10:00:00Z</start_time>
+  <end_time>2011-11-29T12:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (School pupils with 1 teacher free for every 10 pupils), &#163;9.50 (Senior citizens)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12523/original/BB_LogoLRG.JPG?1312212757</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12526</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-29T13:15:00Z</start_time>
+  <end_time>2011-11-29T15:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (School pupils with 1 free teacher for every 10 pupils), &#163;9.50 (Senior citizens)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12526/original/BB_LogoLRG.JPG?1312213002</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12532</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-30T10:00:00Z</start_time>
+  <end_time>2011-11-30T12:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (School pupils with 1 free teacher for every 10 pupils), &#163;9.50 (Senior citizens)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12532/original/BB_LogoLRG.JPG?1312213616</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12533</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-11-30T13:15:00Z</start_time>
+  <end_time>2011-11-30T15:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (School pupils with 1 free teacher for every 10 pupils), &#163;9.50 (Senior citizens)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12533/original/BB_LogoLRG.JPG?1312214001</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12537</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-12-01T10:00:00Z</start_time>
+  <end_time>2011-12-01T12:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (School pupils with 1 free teacher for every 10 pupils), &#163;9.50 (Senior citizens)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12537/original/BB_LogoLRG.JPG?1312214364</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12538</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-12-01T13:15:00Z</start_time>
+  <end_time>2011-12-01T15:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (School pupils with 1 teacher free for every 10 pupils), &#163;9.50 (Senior citizens)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12538/original/BB_LogoLRG.JPG?1312214579</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome. </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12540</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-12-03T13:15:00Z</start_time>
+  <end_time>2011-12-03T15:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (School pupils with 1 free teacher with every 10 pupils), &#163;9.50 (Senior citizens)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12540/original/BB_LogoLRG.JPG?1312214837</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12541</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-12-03T17:00:00Z</start_time>
+  <end_time>2011-12-03T19:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (School pupils with 1 free teacher for every 10 pupils), &#163;9.50</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12541/original/BB_LogoLRG.JPG?1312215065</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome. </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12542</id>
+  <name>Beauty and the Beast</name>
+  <promoter>Millfield Theatre</promoter>
+  <start_time>2011-12-04T13:15:00Z</start_time>
+  <end_time>2011-12-04T15:15:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>Beauty and the Beast, Pantomime</tags>
+  <costs>&#163;13.50, &#163;9.50 (school pupils with 1 free teacher for every 10 pupils), &#163;9.50 (Senior citizens)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12542/original/BB_LogoLRG.JPG?1312215249</image_url>
+  <ticket_url>https://forms.enfield.gov.uk/peo/load_screen.asp</ticket_url>
+  <web_url>https://forms.enfield.gov.uk/peo/load_screen.asp</web_url>
+  <short_description>Join us in the enchanted forest where curses need to be broken, true love must save the day and the princes aren&#8217;t always so handsome.  </short_description>
+  <long_description>&lt;p&gt;Whether you&#8217;re a Christmas cracker or a terrible turkey, get booking now for a spell-binding panto full of Parisian glamour and glitz. For ages 3-103. Preview tickets start from just &#163;10 online and we also have a magical pricing structure, where the more tickets you buy, the cheaper they get. You can now also pay in instalments, helping to spread the cost of your tickets. Don't forget you'll save &#163;1 off peak price tickets if you book online at www.millfieldartscentre.co.uk too.&lt;/p&gt;</long_description>
+  <venue>
+    <id>3364</id>
+    <name>Millfield Arts Centre</name>
+    <street>Silver Streeet</street>
+    <area></area>
+    <city>London</city>
+    <postcode>N18 1PJ</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+<event xsi:schemaLocation="http://app.bullseyehub.com/api/event.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <id>12588</id>
+  <name>Slava's Snowshow (runs until 8th January 2012)</name>
+  <promoter>Southbank Centre</promoter>
+  <start_time>2011-12-17T19:30:00Z</start_time>
+  <end_time>2011-12-17T22:00:00Z</end_time>
+  <genre>Theatre</genre>
+  <artists></artists>
+  <tags>christmas,  circus,  family,  mime</tags>
+  <costs>&#163;65 premium seats, &#163;47.50, &#163;20, Concessions: 50% off (limited availability)</costs>
+  <image_url>http://s3.amazonaws.com/public.attachments.app.bullseyehub.com/system/events/12588/original/17_Slava.jpg?1312300795</image_url>
+  <ticket_url>http://ticketing.southbankcentre.co.uk/find/dance-performance/tickets/slavas-snowshow-59988</ticket_url>
+  <web_url>http://www.southbankcentre.co.uk/</web_url>
+  <short_description>This Christmas experience a joyous, dream-like world that will touch both your heart and funny bone, culminating in a breathtaking blizzard leaving you literally knee-deep in snow!</short_description>
+  <long_description>&lt;p&gt;The multi-award-winning international sensation Slava's Snowshow has delighted and thrilled audiences in over 80 cities around the globe, including New York, Los Angeles, Paris, Rome, Hong Kong, Rio de Janeiro and Moscow. This Christmas experience a joyous, dream-like world that will touch both your heart and funny bone, culminating in a breathtaking blizzard leaving you literally knee-deep in snow! Recommended for ages eight and over. 'Dazzling! Guaranteed to make even the glum thaw in happiness.' (The Observer) 'Simply thrilling - an unmissable comedy masterpiece.' (The Independent) 'Utterly breathtaking! The audience is transported with delight.' (Daily Mail) 'Pure magic. Truly an evening of enchantment and fun.' (Daily Express) Book tickets: http://ticketing.southbankcentre.co.uk/find/dance-performance/tickets/slavas-snowshow-59988 For more details, visit our website http://www.southbankcentre.co.uk/ Please note, there are matinee performances as well as evening ones. Please visit our website for full details and to book tickets.&lt;/p&gt;</long_description>
+  <venue>
+    <id>2512</id>
+    <name>Royal Festival Hall</name>
+    <street>Belvedere Road</street>
+    <area>Southbank</area>
+    <city>London</city>
+    <postcode>SE1 8XX</postcode>
+    <phone></phone>
+    <location>
+      <latitude></latitude>
+      <longitude></longitude>
+    </location>
+  </venue>
+</event>
+</events>
